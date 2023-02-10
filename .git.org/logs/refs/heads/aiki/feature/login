@@ -1,0 +1,25 @@
+0000000000000000000000000000000000000000 42349e421cf9f5231642577fafeb59d60c6331cc yaiki877 <yuka.aiki@banana-877.com> 1650600420 +0900	branch: Created from origin/aiki/feature/login
+42349e421cf9f5231642577fafeb59d60c6331cc 5561c466f2283c90dd99d49a971736550699f38d yaiki877 <yuka.aiki@banana-877.com> 1650603067 +0900	revert: Revert "表示のjsが消えていたので復元"
+5561c466f2283c90dd99d49a971736550699f38d d199c0914a80dd1d8a5df04caa7a5b61c82eb249 yaiki877 <yuka.aiki@banana-877.com> 1650603481 +0900	commit: 余計な変更を修正
+d199c0914a80dd1d8a5df04caa7a5b61c82eb249 8f052feb07647579a9d3243becb908fb3ce5143b yaiki877 <yuka.aiki@banana-877.com> 1650603682 +0900	commit: navigation余計な修正加わったものを削除
+8f052feb07647579a9d3243becb908fb3ce5143b e3cdeeaed24e453ef6352a4220ed87a8e73fe5c0 yaiki877 <yuka.aiki@banana-877.com> 1650603840 +0900	commit: navigationのアクセスを削除
+e3cdeeaed24e453ef6352a4220ed87a8e73fe5c0 0b1b2855d0f8a37681ee5f5cbf9086c5c97c835d yaiki877 <yuka.aiki@banana-877.com> 1650627525 +0900	commit: 余計な空白削除
+0b1b2855d0f8a37681ee5f5cbf9086c5c97c835d 38532a5bb52915b7bf42fa7ea58f1c60baae01f9 yaiki877 <yuka.aiki@banana-877.com> 1651022615 +0900	commit: laravel-mixによる自動生成
+38532a5bb52915b7bf42fa7ea58f1c60baae01f9 ba4a6eab76cb2fc1404e7d77327ab0123a403ce0 yaiki877 <yuka.aiki@banana-877.com> 1651024702 +0900	commit: CSS変更
+ba4a6eab76cb2fc1404e7d77327ab0123a403ce0 371f4bd83a8a6582c54c434418fab26aaa45f3f0 yaiki877 <yuka.aiki@banana-877.com> 1651024723 +0900	commit: CSS,WEBphp変更
+371f4bd83a8a6582c54c434418fab26aaa45f3f0 59923fb824823965eae63e06689adc3ca7094ccb yaiki877 <yuka.aiki@banana-877.com> 1651024838 +0900	commit: レビュー対象外のものを修正
+59923fb824823965eae63e06689adc3ca7094ccb 3bf4a3be5d95955e54e200a8d16184c44478fd94 yaiki877 <yuka.aiki@banana-877.com> 1651025273 +0900	commit: 仮保存
+3bf4a3be5d95955e54e200a8d16184c44478fd94 642bdcbe460be4efa1bd111200f4032090366a1f yaiki877 <yuka.aiki@banana-877.com> 1651025730 +0900	commit: app.blade修正
+642bdcbe460be4efa1bd111200f4032090366a1f 1dee81f476d143f95bb4ed38a1c3bb94fc275d28 yaiki877 <yuka.aiki@banana-877.com> 1651025764 +0900	commit: 会員登録画面へのアクセスを可能にした
+1dee81f476d143f95bb4ed38a1c3bb94fc275d28 0df23591ac8b9ac6d01775ddfafe187cfd98be41 yaiki877 <yuka.aiki@banana-877.com> 1651025797 +0900	commit: 余計なブランクを削除
+0df23591ac8b9ac6d01775ddfafe187cfd98be41 faafea58b473129f673354443435a761cc09d57a yaiki877 <yuka.aiki@banana-877.com> 1651309203 +0900	commit: format修正
+faafea58b473129f673354443435a761cc09d57a 9166d45119e5b57e66e2a79ad29815e2752002bf yaiki877 <yuka.aiki@banana-877.com> 1651309991 +0900	commit: format全体的に変更
+9166d45119e5b57e66e2a79ad29815e2752002bf a7a0770a89df236b723d6486b76f92691ec54244 yaiki877 <yuka.aiki@banana-877.com> 1651310518 +0900	commit: フォーマットの修正
+a7a0770a89df236b723d6486b76f92691ec54244 dad40d87fe8aca979c3615f04bd80fb1b9f75cfd yaiki877 <yuka.aiki@banana-877.com> 1651799236 +0900	commit: format修正
+dad40d87fe8aca979c3615f04bd80fb1b9f75cfd beb8a8da8ea0e0aa62bb96576cb709237b97a75d yaiki877 <yuka.aiki@banana-877.com> 1651799947 +0900	commit: format修正
+beb8a8da8ea0e0aa62bb96576cb709237b97a75d c94f498cc6aa2853801a2b648f8d718088c50f03 yaiki877 <yuka.aiki@banana-877.com> 1651800460 +0900	commit: 背景白に再修正
+c94f498cc6aa2853801a2b648f8d718088c50f03 501fee1a6b71b22f66ea97b9dc4e56da484800cd yaiki877 <yuka.aiki@banana-877.com> 1651800468 +0900	commit: 背景白に再修正
+501fee1a6b71b22f66ea97b9dc4e56da484800cd 9b3f68010d1ae73664ed23b1e1c85346f3a8dd22 yaiki877 <yuka.aiki@banana-877.com> 1651801523 +0900	commit: format修正
+9b3f68010d1ae73664ed23b1e1c85346f3a8dd22 15a9ab7faf2b35e9a2f5e5ca445f0a01da66946e yaiki877 <yuka.aiki@banana-877.com> 1651801555 +0900	commit: flexの重複削除
+15a9ab7faf2b35e9a2f5e5ca445f0a01da66946e 0fa79d7953b67c913c8d6c79e2f1e3e7db250282 yaiki877 <yuka.aiki@banana-877.com> 1651801772 +0900	commit: 不要な空白削除
+0fa79d7953b67c913c8d6c79e2f1e3e7db250282 dd00129342a0d82fcfd1b1c41c7cef6ccead77d6 yaiki877 <yuka.aiki@banana-877.com> 1651803551 +0900	commit: 空白削除

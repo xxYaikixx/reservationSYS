@@ -1,0 +1,861 @@
+0000000000000000000000000000000000000000 75fa66cd71b87c4f09296637daa44c2693e966ea yaiki877 <yuka.aiki@banana-877.com> 1648546054 +0900	clone: from https://github.com/banana-877/laravel-dev-trainer.git
+75fa66cd71b87c4f09296637daa44c2693e966ea 3bc9371ef0906268b8b7a0ea3b1f0e3789ea7d7f yaiki877 <yuka.aiki@banana-877.com> 1648614236 +0900	commit: 【登録機能】userモデル、コントローラー作成
+3bc9371ef0906268b8b7a0ea3b1f0e3789ea7d7f 75fa66cd71b87c4f09296637daa44c2693e966ea yaiki877 <yuka.aiki@banana-877.com> 1648614450 +0900	reset: moving to HEAD^
+75fa66cd71b87c4f09296637daa44c2693e966ea 75fa66cd71b87c4f09296637daa44c2693e966ea yaiki877 <yuka.aiki@banana-877.com> 1648614519 +0900	checkout: moving from main to feature/register
+75fa66cd71b87c4f09296637daa44c2693e966ea c828886007cadb30169123450baeabc84e4052ba yaiki877 <yuka.aiki@banana-877.com> 1648614741 +0900	commit: Userモデル、コントローラー、マイグレーション作成
+c828886007cadb30169123450baeabc84e4052ba 4d81f3e2d88ee221d91bbc66cd9b0c597d93e7ec yaiki877 <yuka.aiki@banana-877.com> 1648616262 +0900	commit: ログイン画面（仮）の作成
+4d81f3e2d88ee221d91bbc66cd9b0c597d93e7ec b2c60d3425315ae604bde9286bc968b82162e774 yaiki877 <yuka.aiki@banana-877.com> 1648619087 +0900	commit: 会員登録ボタンを配置
+b2c60d3425315ae604bde9286bc968b82162e774 e205e0363d7faa1c3dd57332e089bc2dc24a3a36 yaiki877 <yuka.aiki@banana-877.com> 1648619472 +0900	commit: 形だけログイン画面作成
+e205e0363d7faa1c3dd57332e089bc2dc24a3a36 976d86ef2ac4ed29d481dfb7c17f4d7985477206 yaiki877 <yuka.aiki@banana-877.com> 1648621058 +0900	commit: 登録画面仮作成およびリンク付け
+976d86ef2ac4ed29d481dfb7c17f4d7985477206 f2643299507599843acb67e86f22c4f5fb05741b yaiki877 <yuka.aiki@banana-877.com> 1648634050 +0900	commit: 登録画面の画面描画
+f2643299507599843acb67e86f22c4f5fb05741b 2a49c3443e67aeb55d1108793ee824b96a26d9b9 yaiki877 <yuka.aiki@banana-877.com> 1648688859 +0900	commit: ログインのリンク付け
+2a49c3443e67aeb55d1108793ee824b96a26d9b9 afeeb0a830ba22c5b6c18992b187b0adba22b29b yaiki877 <yuka.aiki@banana-877.com> 1648689647 +0900	commit: ログイン画面の体裁整えた
+afeeb0a830ba22c5b6c18992b187b0adba22b29b 2674b462bc615a79271b347e9f1155aea45ede94 yaiki877 <yuka.aiki@banana-877.com> 1648789203 +0900	commit: コントローラーつながった
+2674b462bc615a79271b347e9f1155aea45ede94 afeeb0a830ba22c5b6c18992b187b0adba22b29b yaiki877 <yuka.aiki@banana-877.com> 1648789265 +0900	reset: moving to HEAD^
+afeeb0a830ba22c5b6c18992b187b0adba22b29b deb81ac132c0899f03d20ec48349e56f210750d9 yaiki877 <yuka.aiki@banana-877.com> 1648789298 +0900	commit: コントローラーつながった
+deb81ac132c0899f03d20ec48349e56f210750d9 1a81324627baa7ff971540b435e39882191b7d7c yaiki877 <yuka.aiki@banana-877.com> 1648794397 +0900	commit: 確認画面につながった
+1a81324627baa7ff971540b435e39882191b7d7c 44fe5d0a7c498b7b55fd544534011ba720cae3de yaiki877 <yuka.aiki@banana-877.com> 1648795754 +0900	commit: 確認画面で値が表示されるようになった
+44fe5d0a7c498b7b55fd544534011ba720cae3de 1a81324627baa7ff971540b435e39882191b7d7c yaiki877 <yuka.aiki@banana-877.com> 1648881990 +0900	reset: moving to HEAD^
+1a81324627baa7ff971540b435e39882191b7d7c 949cd28b0c6d5d2d32486ef62f9e89864eef60f9 yaiki877 <yuka.aiki@banana-877.com> 1648882011 +0900	commit: 4/1分
+949cd28b0c6d5d2d32486ef62f9e89864eef60f9 3e976e6d9a629c69f8a7bd57b729fe7b0b7c76a3 yaiki877 <yuka.aiki@banana-877.com> 1648882156 +0900	commit: backup
+3e976e6d9a629c69f8a7bd57b729fe7b0b7c76a3 3faba9c4c207abec2e6ea8b1a1baf5caa84ea300 yaiki877 <yuka.aiki@banana-877.com> 1648883090 +0900	commit: migrateファイル再作成
+3faba9c4c207abec2e6ea8b1a1baf5caa84ea300 3e976e6d9a629c69f8a7bd57b729fe7b0b7c76a3 yaiki877 <yuka.aiki@banana-877.com> 1648883103 +0900	reset: moving to HEAD^
+3e976e6d9a629c69f8a7bd57b729fe7b0b7c76a3 500f2b8a5c4a2f016bd51ac372a7f4a031d607a4 yaiki877 <yuka.aiki@banana-877.com> 1648883149 +0900	commit: migrate再作成
+500f2b8a5c4a2f016bd51ac372a7f4a031d607a4 0f3eb06d74fc76d993553692f7d3d8277097ab3e yaiki877 <yuka.aiki@banana-877.com> 1648885708 +0900	commit: AccountDBに固定値が入った
+0f3eb06d74fc76d993553692f7d3d8277097ab3e ccc2ad3c3b991632d0d69510b0cfb3a5d91d67dc yaiki877 <yuka.aiki@banana-877.com> 1648886259 +0900	commit: バリデートされた
+ccc2ad3c3b991632d0d69510b0cfb3a5d91d67dc b480a09cb3bbaf2926c142c9babbcfa1c0dfd08b yaiki877 <yuka.aiki@banana-877.com> 1648886561 +0900	commit: ログイン画面に遷移
+b480a09cb3bbaf2926c142c9babbcfa1c0dfd08b 868010affea84f5f46c20bd7b76e4f42a7ecb3f7 yaiki877 <yuka.aiki@banana-877.com> 1649040087 +0900	commit: バリデーションの出現
+868010affea84f5f46c20bd7b76e4f42a7ecb3f7 4f88fd30065aad774aa6d38040bbfa1d3eed499d yaiki877 <yuka.aiki@banana-877.com> 1649041112 +0900	commit: バリデーションメッセージを日本語にした
+4f88fd30065aad774aa6d38040bbfa1d3eed499d 282bf2d67cf1edd34f5db95251b2d0c70a5ea4f8 yaiki877 <yuka.aiki@banana-877.com> 1649041368 +0900	commit: 全部ちゃんとした日本語にした
+282bf2d67cf1edd34f5db95251b2d0c70a5ea4f8 6a08ca778413a265eec4797877b2055180befb75 yaiki877 <yuka.aiki@banana-877.com> 1649047382 +0900	commit: パスワードの形式のバリデーション設定
+6a08ca778413a265eec4797877b2055180befb75 9a90aa9418cc36c0c1fabb063a007ae8546ce57e yaiki877 <yuka.aiki@banana-877.com> 1649047394 +0900	commit: パスワードのバリデーション修正
+9a90aa9418cc36c0c1fabb063a007ae8546ce57e cc39b862db1859e6e6a09e04cfe1caff3c47a39c yaiki877 <yuka.aiki@banana-877.com> 1649052708 +0900	commit: kari
+cc39b862db1859e6e6a09e04cfe1caff3c47a39c 946711ac943488a90eec4fe7ea9467b55a717adc yaiki877 <yuka.aiki@banana-877.com> 1649058070 +0900	commit: フォームの体裁整えた
+946711ac943488a90eec4fe7ea9467b55a717adc 664e6456bf5948b1253eb630a5108330c1d27eaa yaiki877 <yuka.aiki@banana-877.com> 1649133948 +0900	commit: 見た目のレイアウト変更
+664e6456bf5948b1253eb630a5108330c1d27eaa 6ad9d75c7584610d431b94b910ed0c92ad4ed249 yaiki877 <yuka.aiki@banana-877.com> 1649133961 +0900	commit: 見た目のレイアウト保存
+6ad9d75c7584610d431b94b910ed0c92ad4ed249 168caeb484ee36750b0b8a374ee9ea80755a9ca2 yaiki877 <yuka.aiki@banana-877.com> 1649134496 +0900	commit: 体裁整えた
+168caeb484ee36750b0b8a374ee9ea80755a9ca2 168caeb484ee36750b0b8a374ee9ea80755a9ca2 yaiki877 <yuka.aiki@banana-877.com> 1649134820 +0900	checkout: moving from feature/register to feature/login
+168caeb484ee36750b0b8a374ee9ea80755a9ca2 0000000000000000000000000000000000000000 yaiki877 <yuka.aiki@banana-877.com> 1649134968 +0900	Branch: renamed refs/heads/feature/login to refs/heads/feature/login-1
+0000000000000000000000000000000000000000 168caeb484ee36750b0b8a374ee9ea80755a9ca2 yaiki877 <yuka.aiki@banana-877.com> 1649134968 +0900	Branch: renamed refs/heads/feature/login to refs/heads/feature/login-1
+168caeb484ee36750b0b8a374ee9ea80755a9ca2 e205e0363d7faa1c3dd57332e089bc2dc24a3a36 yaiki877 <yuka.aiki@banana-877.com> 1649135130 +0900	checkout: moving from feature/login-1 to e205e036
+e205e0363d7faa1c3dd57332e089bc2dc24a3a36 e205e0363d7faa1c3dd57332e089bc2dc24a3a36 yaiki877 <yuka.aiki@banana-877.com> 1649135148 +0900	checkout: moving from e205e0363d7faa1c3dd57332e089bc2dc24a3a36 to feature/login
+e205e0363d7faa1c3dd57332e089bc2dc24a3a36 3a41f9f5a2c9524d46310f1b913242f67f2eaba0 yaiki877 <yuka.aiki@banana-877.com> 1649135323 +0900	commit: login.blade復元
+3a41f9f5a2c9524d46310f1b913242f67f2eaba0 168caeb484ee36750b0b8a374ee9ea80755a9ca2 yaiki877 <yuka.aiki@banana-877.com> 1649135327 +0900	checkout: moving from feature/login to feature/register
+168caeb484ee36750b0b8a374ee9ea80755a9ca2 3a41f9f5a2c9524d46310f1b913242f67f2eaba0 yaiki877 <yuka.aiki@banana-877.com> 1649135348 +0900	checkout: moving from feature/register to feature/login
+3a41f9f5a2c9524d46310f1b913242f67f2eaba0 168caeb484ee36750b0b8a374ee9ea80755a9ca2 yaiki877 <yuka.aiki@banana-877.com> 1649135364 +0900	checkout: moving from feature/login to feature/register
+168caeb484ee36750b0b8a374ee9ea80755a9ca2 3a41f9f5a2c9524d46310f1b913242f67f2eaba0 yaiki877 <yuka.aiki@banana-877.com> 1649135446 +0900	checkout: moving from feature/register to feature/login
+3a41f9f5a2c9524d46310f1b913242f67f2eaba0 f2f965d29a3125b3dc91db7400c0d1932901b615 yaiki877 <yuka.aiki@banana-877.com> 1649135647 +0900	commit: User→Accountに変更（復元）
+f2f965d29a3125b3dc91db7400c0d1932901b615 168caeb484ee36750b0b8a374ee9ea80755a9ca2 yaiki877 <yuka.aiki@banana-877.com> 1649135652 +0900	checkout: moving from feature/login to feature/register
+168caeb484ee36750b0b8a374ee9ea80755a9ca2 e904c4b7c8d8085482963b4acf8199df6454c37b yaiki877 <yuka.aiki@banana-877.com> 1649135717 +0900	commit: ルートの変更
+e904c4b7c8d8085482963b4acf8199df6454c37b f2f965d29a3125b3dc91db7400c0d1932901b615 yaiki877 <yuka.aiki@banana-877.com> 1649135726 +0900	checkout: moving from feature/register to feature/login
+f2f965d29a3125b3dc91db7400c0d1932901b615 02bc7556d29b95ef2d496435ab0c01a962d9b8d2 yaiki877 <yuka.aiki@banana-877.com> 1649136060 +0900	commit: ルート変更
+02bc7556d29b95ef2d496435ab0c01a962d9b8d2 e904c4b7c8d8085482963b4acf8199df6454c37b yaiki877 <yuka.aiki@banana-877.com> 1649136067 +0900	checkout: moving from feature/login to feature/register
+e904c4b7c8d8085482963b4acf8199df6454c37b 02bc7556d29b95ef2d496435ab0c01a962d9b8d2 yaiki877 <yuka.aiki@banana-877.com> 1649136131 +0900	checkout: moving from feature/register to feature/login
+02bc7556d29b95ef2d496435ab0c01a962d9b8d2 cccde97dae001e23368bb11f7869664bfa1da2eb yaiki877 <yuka.aiki@banana-877.com> 1649136552 +0900	commit: ログイン画面の体裁修正
+cccde97dae001e23368bb11f7869664bfa1da2eb e904c4b7c8d8085482963b4acf8199df6454c37b yaiki877 <yuka.aiki@banana-877.com> 1649136888 +0900	checkout: moving from feature/login to feature/register
+e904c4b7c8d8085482963b4acf8199df6454c37b cccde97dae001e23368bb11f7869664bfa1da2eb yaiki877 <yuka.aiki@banana-877.com> 1649136951 +0900	checkout: moving from feature/register to feature/login
+cccde97dae001e23368bb11f7869664bfa1da2eb eb5390853737152fe8d96ff088f8f8e54a55cb62 yaiki877 <yuka.aiki@banana-877.com> 1649137248 +0900	commit: ログインコントローラーの作成
+eb5390853737152fe8d96ff088f8f8e54a55cb62 e904c4b7c8d8085482963b4acf8199df6454c37b yaiki877 <yuka.aiki@banana-877.com> 1649137253 +0900	checkout: moving from feature/login to feature/register
+e904c4b7c8d8085482963b4acf8199df6454c37b 6572bddaba883dfb36b1d511adc4fe8468b54b78 yaiki877 <yuka.aiki@banana-877.com> 1649228283 +0900	commit: パスワード表示非表示の実装
+6572bddaba883dfb36b1d511adc4fe8468b54b78 e0d34012905c87a3d8abe7335410623c55fe8517 yaiki877 <yuka.aiki@banana-877.com> 1649229184 +0900	commit: パスワード表示ボタンのフォーマットを整頓
+e0d34012905c87a3d8abe7335410623c55fe8517 58ae39e416080e5c6b58987fd7c613ff04dbba55 yaiki877 <yuka.aiki@banana-877.com> 1649229535 +0900	commit: エラーメッセージを赤くした
+58ae39e416080e5c6b58987fd7c613ff04dbba55 97da4dc26c86edecf8ce77376b6bb77972b653ee yaiki877 <yuka.aiki@banana-877.com> 1649231140 +0900	commit: 確認画面もマスキングした
+97da4dc26c86edecf8ce77376b6bb77972b653ee 886efbab362bd1bc94d545df2bc506fd0d958d4e yaiki877 <yuka.aiki@banana-877.com> 1649231855 +0900	commit: formatの調整
+886efbab362bd1bc94d545df2bc506fd0d958d4e 507a5ef37edbf62130df8df79dcf782ea3415a22 yaiki877 <yuka.aiki@banana-877.com> 1649243977 +0900	commit: 戻るボタンを押した時値を保持されるようになった
+507a5ef37edbf62130df8df79dcf782ea3415a22 648f3785f32c590f138de34b2ed6923d8d84ba6f yaiki877 <yuka.aiki@banana-877.com> 1649305165 +0900	commit: 戻るボタンを押すと値が消える状態
+648f3785f32c590f138de34b2ed6923d8d84ba6f eb5390853737152fe8d96ff088f8f8e54a55cb62 yaiki877 <yuka.aiki@banana-877.com> 1649305194 +0900	checkout: moving from feature/register to feature/login
+eb5390853737152fe8d96ff088f8f8e54a55cb62 648f3785f32c590f138de34b2ed6923d8d84ba6f yaiki877 <yuka.aiki@banana-877.com> 1649305254 +0900	checkout: moving from feature/login to feature/register
+648f3785f32c590f138de34b2ed6923d8d84ba6f eb5390853737152fe8d96ff088f8f8e54a55cb62 yaiki877 <yuka.aiki@banana-877.com> 1649305274 +0900	checkout: moving from feature/register to feature/login
+eb5390853737152fe8d96ff088f8f8e54a55cb62 648f3785f32c590f138de34b2ed6923d8d84ba6f yaiki877 <yuka.aiki@banana-877.com> 1649305326 +0900	checkout: moving from feature/login to feature/register
+648f3785f32c590f138de34b2ed6923d8d84ba6f eb5390853737152fe8d96ff088f8f8e54a55cb62 yaiki877 <yuka.aiki@banana-877.com> 1649305377 +0900	checkout: moving from feature/register to feature/login
+eb5390853737152fe8d96ff088f8f8e54a55cb62 1d8b2f9bba57ae468bf73515e35bc4b1ffb50466 yaiki877 <yuka.aiki@banana-877.com> 1649306108 +0900	commit: routeを追加、バリデーションを編集
+1d8b2f9bba57ae468bf73515e35bc4b1ffb50466 648f3785f32c590f138de34b2ed6923d8d84ba6f yaiki877 <yuka.aiki@banana-877.com> 1649306113 +0900	checkout: moving from feature/login to feature/register
+648f3785f32c590f138de34b2ed6923d8d84ba6f 1d8b2f9bba57ae468bf73515e35bc4b1ffb50466 yaiki877 <yuka.aiki@banana-877.com> 1649306127 +0900	checkout: moving from feature/register to feature/login
+1d8b2f9bba57ae468bf73515e35bc4b1ffb50466 202ac6ea349da2e571a407c7bd6ceba5fc4ca11c yaiki877 <yuka.aiki@banana-877.com> 1649306469 +0900	commit: オートフォーカス削除
+202ac6ea349da2e571a407c7bd6ceba5fc4ca11c 648f3785f32c590f138de34b2ed6923d8d84ba6f yaiki877 <yuka.aiki@banana-877.com> 1649306474 +0900	checkout: moving from feature/login to feature/register
+648f3785f32c590f138de34b2ed6923d8d84ba6f 202ac6ea349da2e571a407c7bd6ceba5fc4ca11c yaiki877 <yuka.aiki@banana-877.com> 1649306535 +0900	checkout: moving from feature/register to feature/login
+202ac6ea349da2e571a407c7bd6ceba5fc4ca11c 0b5b1b2240a73e5301d72bacc7660943ffae569f yaiki877 <yuka.aiki@banana-877.com> 1649306586 +0900	commit: passwordRule復元
+0b5b1b2240a73e5301d72bacc7660943ffae569f 648f3785f32c590f138de34b2ed6923d8d84ba6f yaiki877 <yuka.aiki@banana-877.com> 1649306592 +0900	checkout: moving from feature/login to feature/register
+648f3785f32c590f138de34b2ed6923d8d84ba6f 0b5b1b2240a73e5301d72bacc7660943ffae569f yaiki877 <yuka.aiki@banana-877.com> 1649306605 +0900	checkout: moving from feature/register to feature/login
+0b5b1b2240a73e5301d72bacc7660943ffae569f 202ac6ea349da2e571a407c7bd6ceba5fc4ca11c yaiki877 <yuka.aiki@banana-877.com> 1649306646 +0900	reset: moving to HEAD^
+202ac6ea349da2e571a407c7bd6ceba5fc4ca11c 6c6f9b6c412de1a28461f4dd83e3d50d04e09fa0 yaiki877 <yuka.aiki@banana-877.com> 1649306773 +0900	commit: requiredのみにした
+6c6f9b6c412de1a28461f4dd83e3d50d04e09fa0 648f3785f32c590f138de34b2ed6923d8d84ba6f yaiki877 <yuka.aiki@banana-877.com> 1649306779 +0900	checkout: moving from feature/login to feature/register
+648f3785f32c590f138de34b2ed6923d8d84ba6f 6c6f9b6c412de1a28461f4dd83e3d50d04e09fa0 yaiki877 <yuka.aiki@banana-877.com> 1649306798 +0900	checkout: moving from feature/register to feature/login
+6c6f9b6c412de1a28461f4dd83e3d50d04e09fa0 5ddd6b6244fccda41d2e160cd82a272dde88210d yaiki877 <yuka.aiki@banana-877.com> 1649307164 +0900	commit: バリデーションを日本語にした
+5ddd6b6244fccda41d2e160cd82a272dde88210d 648f3785f32c590f138de34b2ed6923d8d84ba6f yaiki877 <yuka.aiki@banana-877.com> 1649307171 +0900	checkout: moving from feature/login to feature/register
+648f3785f32c590f138de34b2ed6923d8d84ba6f 5ddd6b6244fccda41d2e160cd82a272dde88210d yaiki877 <yuka.aiki@banana-877.com> 1649307241 +0900	checkout: moving from feature/register to feature/login
+5ddd6b6244fccda41d2e160cd82a272dde88210d 6992bab881a52bc98769cd8296b9b59446d1fec5 yaiki877 <yuka.aiki@banana-877.com> 1649308054 +0900	commit: 背景色の変更
+6992bab881a52bc98769cd8296b9b59446d1fec5 648f3785f32c590f138de34b2ed6923d8d84ba6f yaiki877 <yuka.aiki@banana-877.com> 1649308057 +0900	checkout: moving from feature/login to feature/register
+648f3785f32c590f138de34b2ed6923d8d84ba6f 6992bab881a52bc98769cd8296b9b59446d1fec5 yaiki877 <yuka.aiki@banana-877.com> 1649308093 +0900	checkout: moving from feature/register to feature/login
+6992bab881a52bc98769cd8296b9b59446d1fec5 efd152eb8c31d49af673ddca537c31f33599e628 yaiki877 <yuka.aiki@banana-877.com> 1649308814 +0900	commit: CSS整えた
+efd152eb8c31d49af673ddca537c31f33599e628 8c8971c9cca6d1748c61a72c149b60c30616f288 yaiki877 <yuka.aiki@banana-877.com> 1649313831 +0900	commit: アカウントの検索ができた
+8c8971c9cca6d1748c61a72c149b60c30616f288 648f3785f32c590f138de34b2ed6923d8d84ba6f yaiki877 <yuka.aiki@banana-877.com> 1649314078 +0900	checkout: moving from feature/login to feature/register
+648f3785f32c590f138de34b2ed6923d8d84ba6f 8c8971c9cca6d1748c61a72c149b60c30616f288 yaiki877 <yuka.aiki@banana-877.com> 1649314161 +0900	checkout: moving from feature/register to feature/login
+8c8971c9cca6d1748c61a72c149b60c30616f288 82ab8b7d3653c01f98dd79c90a7a730569186b63 yaiki877 <yuka.aiki@banana-877.com> 1649314568 +0900	commit: ログインエラーの実装
+82ab8b7d3653c01f98dd79c90a7a730569186b63 40f252358defa55f775cd4166583685b1cdbc649 yaiki877 <yuka.aiki@banana-877.com> 1649318418 +0900	commit: セッションを生成
+40f252358defa55f775cd4166583685b1cdbc649 b889b03a7fb2ff838d2676558a65c0810073a792 yaiki877 <yuka.aiki@banana-877.com> 1649318425 +0900	commit: セッションを生成
+b889b03a7fb2ff838d2676558a65c0810073a792 648f3785f32c590f138de34b2ed6923d8d84ba6f yaiki877 <yuka.aiki@banana-877.com> 1649318430 +0900	checkout: moving from feature/login to feature/register
+648f3785f32c590f138de34b2ed6923d8d84ba6f b889b03a7fb2ff838d2676558a65c0810073a792 yaiki877 <yuka.aiki@banana-877.com> 1649318449 +0900	checkout: moving from feature/register to feature/login
+b889b03a7fb2ff838d2676558a65c0810073a792 1dae9f601ee1760ad5fc00521cd8b6b30d04c853 yaiki877 <yuka.aiki@banana-877.com> 1649318685 +0900	commit: sessionの値を返り値としてもたせた
+1dae9f601ee1760ad5fc00521cd8b6b30d04c853 648f3785f32c590f138de34b2ed6923d8d84ba6f yaiki877 <yuka.aiki@banana-877.com> 1649318690 +0900	checkout: moving from feature/login to feature/register
+648f3785f32c590f138de34b2ed6923d8d84ba6f 1dae9f601ee1760ad5fc00521cd8b6b30d04c853 yaiki877 <yuka.aiki@banana-877.com> 1649318712 +0900	checkout: moving from feature/register to feature/login
+1dae9f601ee1760ad5fc00521cd8b6b30d04c853 905b8aa9e432df9f696139d3fa3f57954898edd8 yaiki877 <yuka.aiki@banana-877.com> 1649319019 +0900	commit: コントローラ分割
+905b8aa9e432df9f696139d3fa3f57954898edd8 648f3785f32c590f138de34b2ed6923d8d84ba6f yaiki877 <yuka.aiki@banana-877.com> 1649319021 +0900	checkout: moving from feature/login to feature/register
+648f3785f32c590f138de34b2ed6923d8d84ba6f 905b8aa9e432df9f696139d3fa3f57954898edd8 yaiki877 <yuka.aiki@banana-877.com> 1649319061 +0900	checkout: moving from feature/register to feature/login
+905b8aa9e432df9f696139d3fa3f57954898edd8 90280df85fba6af1b6cfd1a08967127aaaca0c9c yaiki877 <yuka.aiki@banana-877.com> 1649319981 +0900	commit: web.php見直し
+90280df85fba6af1b6cfd1a08967127aaaca0c9c d2fd1ea99fb3a2144ba70d078ea52d6cf654e2f7 yaiki877 <yuka.aiki@banana-877.com> 1649319990 +0900	commit: Webphp見直し
+d2fd1ea99fb3a2144ba70d078ea52d6cf654e2f7 648f3785f32c590f138de34b2ed6923d8d84ba6f yaiki877 <yuka.aiki@banana-877.com> 1649319993 +0900	checkout: moving from feature/login to feature/register
+648f3785f32c590f138de34b2ed6923d8d84ba6f d2fd1ea99fb3a2144ba70d078ea52d6cf654e2f7 yaiki877 <yuka.aiki@banana-877.com> 1649320040 +0900	checkout: moving from feature/register to feature/login
+d2fd1ea99fb3a2144ba70d078ea52d6cf654e2f7 f35b4e1fac3975505a2355c78433618c301e6bca yaiki877 <yuka.aiki@banana-877.com> 1649320087 +0900	commit: showメソッド追加
+f35b4e1fac3975505a2355c78433618c301e6bca 648f3785f32c590f138de34b2ed6923d8d84ba6f yaiki877 <yuka.aiki@banana-877.com> 1649320090 +0900	checkout: moving from feature/login to feature/register
+648f3785f32c590f138de34b2ed6923d8d84ba6f f35b4e1fac3975505a2355c78433618c301e6bca yaiki877 <yuka.aiki@banana-877.com> 1649320265 +0900	checkout: moving from feature/register to feature/login
+f35b4e1fac3975505a2355c78433618c301e6bca 5cbfe76cbd99acd3943997e2b6652c1b8579d2cc yaiki877 <yuka.aiki@banana-877.com> 1649320519 +0900	commit: web.phpを正した
+5cbfe76cbd99acd3943997e2b6652c1b8579d2cc 318c6616026ff46cf07305823151c5d05daadf0a yaiki877 <yuka.aiki@banana-877.com> 1649323037 +0900	commit: セッションの発行
+318c6616026ff46cf07305823151c5d05daadf0a 318c6616026ff46cf07305823151c5d05daadf0a yaiki877 <yuka.aiki@banana-877.com> 1649323164 +0900	checkout: moving from feature/login to feature/login
+318c6616026ff46cf07305823151c5d05daadf0a 648f3785f32c590f138de34b2ed6923d8d84ba6f yaiki877 <yuka.aiki@banana-877.com> 1649323168 +0900	checkout: moving from feature/login to feature/register
+648f3785f32c590f138de34b2ed6923d8d84ba6f 318c6616026ff46cf07305823151c5d05daadf0a yaiki877 <yuka.aiki@banana-877.com> 1649323236 +0900	checkout: moving from feature/register to feature/login
+318c6616026ff46cf07305823151c5d05daadf0a 648f3785f32c590f138de34b2ed6923d8d84ba6f yaiki877 <yuka.aiki@banana-877.com> 1649323311 +0900	checkout: moving from feature/login to feature/register
+648f3785f32c590f138de34b2ed6923d8d84ba6f 318c6616026ff46cf07305823151c5d05daadf0a yaiki877 <yuka.aiki@banana-877.com> 1649323346 +0900	checkout: moving from feature/register to feature/login
+318c6616026ff46cf07305823151c5d05daadf0a dd3ce8db6c64f2561142f3d6281374b28a1b0271 yaiki877 <yuka.aiki@banana-877.com> 1649326662 +0900	commit: ログイン画面に名前が出てきた
+dd3ce8db6c64f2561142f3d6281374b28a1b0271 648f3785f32c590f138de34b2ed6923d8d84ba6f yaiki877 <yuka.aiki@banana-877.com> 1649326669 +0900	checkout: moving from feature/login to feature/register
+648f3785f32c590f138de34b2ed6923d8d84ba6f dd3ce8db6c64f2561142f3d6281374b28a1b0271 yaiki877 <yuka.aiki@banana-877.com> 1649326739 +0900	checkout: moving from feature/register to feature/login
+dd3ce8db6c64f2561142f3d6281374b28a1b0271 648f3785f32c590f138de34b2ed6923d8d84ba6f yaiki877 <yuka.aiki@banana-877.com> 1649326750 +0900	checkout: moving from feature/login to feature/register
+648f3785f32c590f138de34b2ed6923d8d84ba6f 4dc2bf1c95e1b14b42de3718694e0550541a466e yaiki877 <yuka.aiki@banana-877.com> 1649331131 +0900	commit: 戻るボタンを押したら値を保持するようになった
+4dc2bf1c95e1b14b42de3718694e0550541a466e b19c4d20297a0af4b5cdeadb779773dc9f5dc284 yaiki877 <yuka.aiki@banana-877.com> 1649331406 +0900	commit: 消えていたh1タグを復元
+b19c4d20297a0af4b5cdeadb779773dc9f5dc284 b2eef25da69ea712bfa98935a1cfff7d27deb393 yaiki877 <yuka.aiki@banana-877.com> 1649380232 +0900	commit: コメント削除
+b2eef25da69ea712bfa98935a1cfff7d27deb393 dd3ce8db6c64f2561142f3d6281374b28a1b0271 yaiki877 <yuka.aiki@banana-877.com> 1649381327 +0900	checkout: moving from feature/register to feature/login
+dd3ce8db6c64f2561142f3d6281374b28a1b0271 75fa66cd71b87c4f09296637daa44c2693e966ea yaiki877 <yuka.aiki@banana-877.com> 1649381848 +0900	checkout: moving from feature/login to origin/HEAD
+75fa66cd71b87c4f09296637daa44c2693e966ea 75fa66cd71b87c4f09296637daa44c2693e966ea yaiki877 <yuka.aiki@banana-877.com> 1649381889 +0900	checkout: moving from 75fa66cd71b87c4f09296637daa44c2693e966ea to session-training
+75fa66cd71b87c4f09296637daa44c2693e966ea dd3ce8db6c64f2561142f3d6281374b28a1b0271 yaiki877 <yuka.aiki@banana-877.com> 1649382315 +0900	checkout: moving from session-training to feature/login
+dd3ce8db6c64f2561142f3d6281374b28a1b0271 a0b0e17064fb54cbb58300b5cf7329414140ecf0 yaiki877 <yuka.aiki@banana-877.com> 1649392872 +0900	commit: セッション作成処理追加
+a0b0e17064fb54cbb58300b5cf7329414140ecf0 21a58b36b3f88537792471931d41b345741d07c5 yaiki877 <yuka.aiki@banana-877.com> 1649392880 +0900	commit: セッション生成処理追加
+21a58b36b3f88537792471931d41b345741d07c5 b2eef25da69ea712bfa98935a1cfff7d27deb393 yaiki877 <yuka.aiki@banana-877.com> 1649392898 +0900	checkout: moving from feature/login to feature/register
+b2eef25da69ea712bfa98935a1cfff7d27deb393 21a58b36b3f88537792471931d41b345741d07c5 yaiki877 <yuka.aiki@banana-877.com> 1649392965 +0900	checkout: moving from feature/register to feature/login
+21a58b36b3f88537792471931d41b345741d07c5 b7013253945ee0c94098e48b9947e74d9da3a06f yaiki877 <yuka.aiki@banana-877.com> 1649396635 +0900	commit: ログアウト実装
+b7013253945ee0c94098e48b9947e74d9da3a06f 6b0b3c15b8408896230600df7d4a1299daec5728 yaiki877 <yuka.aiki@banana-877.com> 1649398068 +0900	commit: ヘッダーの体裁を整えた
+6b0b3c15b8408896230600df7d4a1299daec5728 6b0b3c15b8408896230600df7d4a1299daec5728 yaiki877 <yuka.aiki@banana-877.com> 1649398524 +0900	checkout: moving from feature/login to feature/search
+6b0b3c15b8408896230600df7d4a1299daec5728 0a335a773905787c5dbcc640adec1eef41372e6d yaiki877 <yuka.aiki@banana-877.com> 1649404726 +0900	commit: 夕会
+0a335a773905787c5dbcc640adec1eef41372e6d b2eef25da69ea712bfa98935a1cfff7d27deb393 yaiki877 <yuka.aiki@banana-877.com> 1649404768 +0900	checkout: moving from feature/search to feature/register
+b2eef25da69ea712bfa98935a1cfff7d27deb393 6b0b3c15b8408896230600df7d4a1299daec5728 yaiki877 <yuka.aiki@banana-877.com> 1649405904 +0900	checkout: moving from feature/register to feature/login
+6b0b3c15b8408896230600df7d4a1299daec5728 b2eef25da69ea712bfa98935a1cfff7d27deb393 yaiki877 <yuka.aiki@banana-877.com> 1649406495 +0900	checkout: moving from feature/login to feature/register
+b2eef25da69ea712bfa98935a1cfff7d27deb393 0000000000000000000000000000000000000000 yaiki877 <yuka.aiki@banana-877.com> 1649639603 +0900	Branch: renamed refs/heads/feature/register to refs/heads/aiki/feature/register
+0000000000000000000000000000000000000000 b2eef25da69ea712bfa98935a1cfff7d27deb393 yaiki877 <yuka.aiki@banana-877.com> 1649639603 +0900	Branch: renamed refs/heads/feature/register to refs/heads/aiki/feature/register
+b2eef25da69ea712bfa98935a1cfff7d27deb393 6b0b3c15b8408896230600df7d4a1299daec5728 yaiki877 <yuka.aiki@banana-877.com> 1649639619 +0900	checkout: moving from aiki/feature/register to feature/login
+6b0b3c15b8408896230600df7d4a1299daec5728 b2eef25da69ea712bfa98935a1cfff7d27deb393 yaiki877 <yuka.aiki@banana-877.com> 1649639640 +0900	checkout: moving from feature/login to aiki/feature/register
+b2eef25da69ea712bfa98935a1cfff7d27deb393 6b0b3c15b8408896230600df7d4a1299daec5728 yaiki877 <yuka.aiki@banana-877.com> 1649639680 +0900	checkout: moving from aiki/feature/register to feature/login
+6b0b3c15b8408896230600df7d4a1299daec5728 0000000000000000000000000000000000000000 yaiki877 <yuka.aiki@banana-877.com> 1649639708 +0900	Branch: renamed refs/heads/feature/login to refs/heads/aiki/feature/login
+0000000000000000000000000000000000000000 6b0b3c15b8408896230600df7d4a1299daec5728 yaiki877 <yuka.aiki@banana-877.com> 1649639708 +0900	Branch: renamed refs/heads/feature/login to refs/heads/aiki/feature/login
+6b0b3c15b8408896230600df7d4a1299daec5728 b2eef25da69ea712bfa98935a1cfff7d27deb393 yaiki877 <yuka.aiki@banana-877.com> 1649641027 +0900	checkout: moving from aiki/feature/login to aiki/feature/register
+b2eef25da69ea712bfa98935a1cfff7d27deb393 75fa66cd71b87c4f09296637daa44c2693e966ea yaiki877 <yuka.aiki@banana-877.com> 1649641945 +0900	checkout: moving from aiki/feature/register to main
+75fa66cd71b87c4f09296637daa44c2693e966ea 75fa66cd71b87c4f09296637daa44c2693e966ea yaiki877 <yuka.aiki@banana-877.com> 1649642003 +0900	checkout: moving from main to aiki/main
+75fa66cd71b87c4f09296637daa44c2693e966ea b2eef25da69ea712bfa98935a1cfff7d27deb393 yaiki877 <yuka.aiki@banana-877.com> 1649642016 +0900	checkout: moving from aiki/main to aiki/feature/register
+b2eef25da69ea712bfa98935a1cfff7d27deb393 b2eef25da69ea712bfa98935a1cfff7d27deb393 yaiki877 <yuka.aiki@banana-877.com> 1649642151 +0900	rebase (start): checkout aiki/main
+b2eef25da69ea712bfa98935a1cfff7d27deb393 b2eef25da69ea712bfa98935a1cfff7d27deb393 yaiki877 <yuka.aiki@banana-877.com> 1649642151 +0900	rebase (finish): returning to refs/heads/aiki/feature/register
+b2eef25da69ea712bfa98935a1cfff7d27deb393 6b0b3c15b8408896230600df7d4a1299daec5728 yaiki877 <yuka.aiki@banana-877.com> 1649642401 +0900	checkout: moving from aiki/feature/register to aiki/feature/login
+6b0b3c15b8408896230600df7d4a1299daec5728 6b0b3c15b8408896230600df7d4a1299daec5728 yaiki877 <yuka.aiki@banana-877.com> 1649642416 +0900	rebase (start): checkout aiki/main
+6b0b3c15b8408896230600df7d4a1299daec5728 6b0b3c15b8408896230600df7d4a1299daec5728 yaiki877 <yuka.aiki@banana-877.com> 1649642416 +0900	rebase (finish): returning to refs/heads/aiki/feature/login
+6b0b3c15b8408896230600df7d4a1299daec5728 0a335a773905787c5dbcc640adec1eef41372e6d yaiki877 <yuka.aiki@banana-877.com> 1649642431 +0900	checkout: moving from aiki/feature/login to aiki/feature/search
+0a335a773905787c5dbcc640adec1eef41372e6d 0a335a773905787c5dbcc640adec1eef41372e6d yaiki877 <yuka.aiki@banana-877.com> 1649642612 +0900	rebase (start): checkout aiki/main
+0a335a773905787c5dbcc640adec1eef41372e6d 0a335a773905787c5dbcc640adec1eef41372e6d yaiki877 <yuka.aiki@banana-877.com> 1649642612 +0900	rebase (finish): returning to refs/heads/aiki/feature/search
+0a335a773905787c5dbcc640adec1eef41372e6d b2eef25da69ea712bfa98935a1cfff7d27deb393 yaiki877 <yuka.aiki@banana-877.com> 1649642628 +0900	checkout: moving from aiki/feature/search to aiki/feature/register
+b2eef25da69ea712bfa98935a1cfff7d27deb393 e154396c2e8d3bd99acde9d4e1c37346fce671ed yaiki877 <yuka.aiki@banana-877.com> 1649661115 +0900	commit: フォームリクエスト、テストファイルの作成
+e154396c2e8d3bd99acde9d4e1c37346fce671ed 0a9a5bc665ea803bb3669e744f000aa544c6782f yaiki877 <yuka.aiki@banana-877.com> 1649664928 +0900	commit: ケースの追加
+0a9a5bc665ea803bb3669e744f000aa544c6782f ae3b138f2d630e74dafda3e3c2a0d7f1d13dae71 yaiki877 <yuka.aiki@banana-877.com> 1649667297 +0900	commit: リクエストフォームを利用したバリデーションに変更
+ae3b138f2d630e74dafda3e3c2a0d7f1d13dae71 0a9a5bc665ea803bb3669e744f000aa544c6782f yaiki877 <yuka.aiki@banana-877.com> 1649667559 +0900	checkout: moving from aiki/feature/register to 0a9a5bc6
+0a9a5bc665ea803bb3669e744f000aa544c6782f 0a335a773905787c5dbcc640adec1eef41372e6d yaiki877 <yuka.aiki@banana-877.com> 1649667666 +0900	checkout: moving from 0a9a5bc665ea803bb3669e744f000aa544c6782f to 0a335a77
+0a335a773905787c5dbcc640adec1eef41372e6d ae3b138f2d630e74dafda3e3c2a0d7f1d13dae71 yaiki877 <yuka.aiki@banana-877.com> 1649667712 +0900	checkout: moving from 0a335a773905787c5dbcc640adec1eef41372e6d to ae3b138f
+ae3b138f2d630e74dafda3e3c2a0d7f1d13dae71 47b50290ba82c3e9278dcfe1b44a8586ec857ad2 yaiki877 <yuka.aiki@banana-877.com> 1649669091 +0900	commit: attributeを変数化
+47b50290ba82c3e9278dcfe1b44a8586ec857ad2 5b9c52672670c81038f067c6f3e28831335b51e0 yaiki877 <yuka.aiki@banana-877.com> 1649725542 +0900	commit: インデント修正
+5b9c52672670c81038f067c6f3e28831335b51e0 6b0b3c15b8408896230600df7d4a1299daec5728 yaiki877 <yuka.aiki@banana-877.com> 1649725693 +0900	checkout: moving from 5b9c52672670c81038f067c6f3e28831335b51e0 to aiki/feature/login
+6b0b3c15b8408896230600df7d4a1299daec5728 ae3b138f2d630e74dafda3e3c2a0d7f1d13dae71 yaiki877 <yuka.aiki@banana-877.com> 1649725730 +0900	checkout: moving from aiki/feature/login to aiki/feature/register
+ae3b138f2d630e74dafda3e3c2a0d7f1d13dae71 634de74feadc9e0ee961e945c98b837c5587777d yaiki877 <yuka.aiki@banana-877.com> 1649725801 +0900	commit: top画面を追加
+634de74feadc9e0ee961e945c98b837c5587777d 6b0b3c15b8408896230600df7d4a1299daec5728 yaiki877 <yuka.aiki@banana-877.com> 1649725805 +0900	checkout: moving from aiki/feature/register to aiki/feature/login
+6b0b3c15b8408896230600df7d4a1299daec5728 634de74feadc9e0ee961e945c98b837c5587777d yaiki877 <yuka.aiki@banana-877.com> 1649725878 +0900	checkout: moving from aiki/feature/login to aiki/feature/register
+634de74feadc9e0ee961e945c98b837c5587777d c914265b63ac2b2cad913a2a786f7dc6ca0ec26e yaiki877 <yuka.aiki@banana-877.com> 1649726093 +0900	commit: セッションをもらせてservice_topに遷移するようにした
+c914265b63ac2b2cad913a2a786f7dc6ca0ec26e 0313c3e75947bb655028c6adea558d96801fe759 yaiki877 <yuka.aiki@banana-877.com> 1649726655 +0900	commit: インデント調整
+0313c3e75947bb655028c6adea558d96801fe759 75fa66cd71b87c4f09296637daa44c2693e966ea yaiki877 <yuka.aiki@banana-877.com> 1649726673 +0900	checkout: moving from aiki/feature/register to aiki/main
+75fa66cd71b87c4f09296637daa44c2693e966ea 0313c3e75947bb655028c6adea558d96801fe759 yaiki877 <yuka.aiki@banana-877.com> 1649726709 +0900	checkout: moving from aiki/main to aiki/feature/register
+0313c3e75947bb655028c6adea558d96801fe759 6b0b3c15b8408896230600df7d4a1299daec5728 yaiki877 <yuka.aiki@banana-877.com> 1649726793 +0900	checkout: moving from aiki/feature/register to aiki/feature/login
+6b0b3c15b8408896230600df7d4a1299daec5728 0313c3e75947bb655028c6adea558d96801fe759 yaiki877 <yuka.aiki@banana-877.com> 1649727084 +0900	checkout: moving from aiki/feature/login to aiki/feature/register
+0313c3e75947bb655028c6adea558d96801fe759 6b0b3c15b8408896230600df7d4a1299daec5728 yaiki877 <yuka.aiki@banana-877.com> 1649727188 +0900	checkout: moving from aiki/feature/register to aiki/feature/login
+6b0b3c15b8408896230600df7d4a1299daec5728 0313c3e75947bb655028c6adea558d96801fe759 yaiki877 <yuka.aiki@banana-877.com> 1649727202 +0900	checkout: moving from aiki/feature/login to aiki/feature/register
+0313c3e75947bb655028c6adea558d96801fe759 20b97bee7fedd19a0a8b8969df259dd19a42d8d5 yaiki877 <yuka.aiki@banana-877.com> 1649727273 +0900	commit: ルートを変更
+20b97bee7fedd19a0a8b8969df259dd19a42d8d5 0505982be24e588e7f65f7e2f20d62f0b8017958 yaiki877 <yuka.aiki@banana-877.com> 1649728257 +0900	commit: アカウント名の引き継ぎ完了
+0505982be24e588e7f65f7e2f20d62f0b8017958 6b0b3c15b8408896230600df7d4a1299daec5728 yaiki877 <yuka.aiki@banana-877.com> 1649728270 +0900	checkout: moving from aiki/feature/register to aiki/feature/login
+6b0b3c15b8408896230600df7d4a1299daec5728 0505982be24e588e7f65f7e2f20d62f0b8017958 yaiki877 <yuka.aiki@banana-877.com> 1649728309 +0900	checkout: moving from aiki/feature/login to aiki/feature/register
+0505982be24e588e7f65f7e2f20d62f0b8017958 a07dd9f4c6706c8f09eba10279c4437366719186 yaiki877 <yuka.aiki@banana-877.com> 1649728342 +0900	commit: ログアウトのルート作成
+a07dd9f4c6706c8f09eba10279c4437366719186 6b0b3c15b8408896230600df7d4a1299daec5728 yaiki877 <yuka.aiki@banana-877.com> 1649728346 +0900	checkout: moving from aiki/feature/register to aiki/feature/login
+6b0b3c15b8408896230600df7d4a1299daec5728 a07dd9f4c6706c8f09eba10279c4437366719186 yaiki877 <yuka.aiki@banana-877.com> 1649728364 +0900	checkout: moving from aiki/feature/login to aiki/feature/register
+a07dd9f4c6706c8f09eba10279c4437366719186 ccd9822a86a66e013950b73545f72cf98f61cba4 yaiki877 <yuka.aiki@banana-877.com> 1649729073 +0900	commit: インデント修正
+ccd9822a86a66e013950b73545f72cf98f61cba4 5c45793ac6c8a35e5e5d8b2c6dbeda1dadcc9f2e yaiki877 <yuka.aiki@banana-877.com> 1649731286 +0900	commit: ヘッダーをコンポーネント化
+5c45793ac6c8a35e5e5d8b2c6dbeda1dadcc9f2e 1269632a2d4405cf7f72d0fc461d3ed3233635c9 yaiki877 <yuka.aiki@banana-877.com> 1649739284 +0900	commit: ヘッダーを認証と非認証で部品を分けた
+1269632a2d4405cf7f72d0fc461d3ed3233635c9 4f93a8a65e9f278df913324dca1fdaeb24256fd2 yaiki877 <yuka.aiki@banana-877.com> 1649740234 +0900	commit: 会員登録のヘッダーを変更
+4f93a8a65e9f278df913324dca1fdaeb24256fd2 89df3a0cbbdbd6be879431c3fd5acafa9de3c27f yaiki877 <yuka.aiki@banana-877.com> 1649740462 +0900	commit: インデント変更
+89df3a0cbbdbd6be879431c3fd5acafa9de3c27f 75fa66cd71b87c4f09296637daa44c2693e966ea yaiki877 <yuka.aiki@banana-877.com> 1649740466 +0900	checkout: moving from aiki/feature/register to aiki/main
+75fa66cd71b87c4f09296637daa44c2693e966ea 75fa66cd71b87c4f09296637daa44c2693e966ea yaiki877 <yuka.aiki@banana-877.com> 1649740482 +0900	checkout: moving from aiki/main to aiki/feature/header
+75fa66cd71b87c4f09296637daa44c2693e966ea 89df3a0cbbdbd6be879431c3fd5acafa9de3c27f yaiki877 <yuka.aiki@banana-877.com> 1649740621 +0900	checkout: moving from aiki/feature/header to aiki/feature/register
+89df3a0cbbdbd6be879431c3fd5acafa9de3c27f 75fa66cd71b87c4f09296637daa44c2693e966ea yaiki877 <yuka.aiki@banana-877.com> 1649740667 +0900	checkout: moving from aiki/feature/register to aiki/feature/header
+75fa66cd71b87c4f09296637daa44c2693e966ea 1c29e3ac0966288f8bb9a7ad03f9012989c0f401 yaiki877 <yuka.aiki@banana-877.com> 1649740771 +0900	commit: 部品を別のブランチに移動
+1c29e3ac0966288f8bb9a7ad03f9012989c0f401 89df3a0cbbdbd6be879431c3fd5acafa9de3c27f yaiki877 <yuka.aiki@banana-877.com> 1649740775 +0900	checkout: moving from aiki/feature/header to aiki/feature/register
+89df3a0cbbdbd6be879431c3fd5acafa9de3c27f 89df3a0cbbdbd6be879431c3fd5acafa9de3c27f yaiki877 <yuka.aiki@banana-877.com> 1649745837 +0900	checkout: moving from aiki/feature/register to aiki/feature/register
+89df3a0cbbdbd6be879431c3fd5acafa9de3c27f 289096fd9ba949bccb9c3295b2e444be80a7cc8f yaiki877 <yuka.aiki@banana-877.com> 1649758804 +0900	commit: kari
+289096fd9ba949bccb9c3295b2e444be80a7cc8f 75fa66cd71b87c4f09296637daa44c2693e966ea yaiki877 <yuka.aiki@banana-877.com> 1649758807 +0900	checkout: moving from aiki/feature/register to aiki/main
+75fa66cd71b87c4f09296637daa44c2693e966ea 289096fd9ba949bccb9c3295b2e444be80a7cc8f yaiki877 <yuka.aiki@banana-877.com> 1649758855 +0900	checkout: moving from aiki/main to aiki/feature/register
+289096fd9ba949bccb9c3295b2e444be80a7cc8f 416315c200d9e325c89c5dac51567badbffcad93 yaiki877 <yuka.aiki@banana-877.com> 1649759102 +0900	commit: logけした
+416315c200d9e325c89c5dac51567badbffcad93 75fa66cd71b87c4f09296637daa44c2693e966ea yaiki877 <yuka.aiki@banana-877.com> 1649759105 +0900	checkout: moving from aiki/feature/register to aiki/main
+75fa66cd71b87c4f09296637daa44c2693e966ea 416315c200d9e325c89c5dac51567badbffcad93 yaiki877 <yuka.aiki@banana-877.com> 1649759189 +0900	checkout: moving from aiki/main to aiki/feature/register
+416315c200d9e325c89c5dac51567badbffcad93 e760d5dbcb51c33ef21f260f673cdf5bdac52b9e yaiki877 <yuka.aiki@banana-877.com> 1649759605 +0900	commit: WithoutMiddleware追加
+e760d5dbcb51c33ef21f260f673cdf5bdac52b9e 4beb693279e92222aeef7e3915f80b9c203c6439 yaiki877 <yuka.aiki@banana-877.com> 1649813262 +0900	commit: 環境構築
+4beb693279e92222aeef7e3915f80b9c203c6439 14029d2f48f4844a8d592f2047901ae324f2dd79 yaiki877 <yuka.aiki@banana-877.com> 1649813269 +0900	commit: 環境構築
+14029d2f48f4844a8d592f2047901ae324f2dd79 75fa66cd71b87c4f09296637daa44c2693e966ea yaiki877 <yuka.aiki@banana-877.com> 1649813274 +0900	checkout: moving from aiki/feature/register to aiki/main
+75fa66cd71b87c4f09296637daa44c2693e966ea 14029d2f48f4844a8d592f2047901ae324f2dd79 yaiki877 <yuka.aiki@banana-877.com> 1649813375 +0900	checkout: moving from aiki/main to aiki/feature/register
+14029d2f48f4844a8d592f2047901ae324f2dd79 a0f38d944bd5cdaa501fda3abb264624ff222f3f yaiki877 <yuka.aiki@banana-877.com> 1649825935 +0900	commit: ユーザー 情報余計な分削除
+a0f38d944bd5cdaa501fda3abb264624ff222f3f a0f38d944bd5cdaa501fda3abb264624ff222f3f yaiki877 <yuka.aiki@banana-877.com> 1649826036 +0900	checkout: moving from aiki/feature/register to aiki/feature/register
+a0f38d944bd5cdaa501fda3abb264624ff222f3f 75fa66cd71b87c4f09296637daa44c2693e966ea yaiki877 <yuka.aiki@banana-877.com> 1649826052 +0900	checkout: moving from aiki/feature/register to aiki/main
+75fa66cd71b87c4f09296637daa44c2693e966ea a0f38d944bd5cdaa501fda3abb264624ff222f3f yaiki877 <yuka.aiki@banana-877.com> 1649826474 +0900	checkout: moving from aiki/main to aiki/feature/register
+a0f38d944bd5cdaa501fda3abb264624ff222f3f 097ec3108d7a7ff8af0032601ed5ef1feb88120b yaiki877 <yuka.aiki@banana-877.com> 1649828833 +0900	commit: 500エラーの状態
+097ec3108d7a7ff8af0032601ed5ef1feb88120b 75fa66cd71b87c4f09296637daa44c2693e966ea yaiki877 <yuka.aiki@banana-877.com> 1649828836 +0900	checkout: moving from aiki/feature/register to aiki/main
+75fa66cd71b87c4f09296637daa44c2693e966ea 097ec3108d7a7ff8af0032601ed5ef1feb88120b yaiki877 <yuka.aiki@banana-877.com> 1649828897 +0900	checkout: moving from aiki/main to aiki/feature/register
+097ec3108d7a7ff8af0032601ed5ef1feb88120b 425c63b0f55d404d602428f406c16d51e8e90589 yaiki877 <yuka.aiki@banana-877.com> 1649829438 +0900	commit: ルートを戻した phpunitコメントアウト
+425c63b0f55d404d602428f406c16d51e8e90589 425c63b0f55d404d602428f406c16d51e8e90589 yaiki877 <yuka.aiki@banana-877.com> 1649829638 +0900	checkout: moving from aiki/feature/register to aiki/feature/register
+425c63b0f55d404d602428f406c16d51e8e90589 14029d2f48f4844a8d592f2047901ae324f2dd79 yaiki877 <yuka.aiki@banana-877.com> 1649829654 +0900	reset: moving to 14029d2f
+14029d2f48f4844a8d592f2047901ae324f2dd79 7f96379889a516ca332361959f2beb114af68a5e yaiki877 <yuka.aiki@banana-877.com> 1649829832 +0900	commit: 多田さんの指摘の状態
+7f96379889a516ca332361959f2beb114af68a5e 80a63f6a0ead24e61f4b64752a0724ee560eb8a3 yaiki877 <yuka.aiki@banana-877.com> 1649832843 +0900	commit: emailの謎のバリデーション削除
+80a63f6a0ead24e61f4b64752a0724ee560eb8a3 3a8acd1b1dba04b6ff0710c84da7436df25c2488 yaiki877 <yuka.aiki@banana-877.com> 1649833438 +0900	commit: ヘッダー削除
+3a8acd1b1dba04b6ff0710c84da7436df25c2488 de2e2cc4e286037d03a3c65c6b12837b0102be46 yaiki877 <yuka.aiki@banana-877.com> 1649839527 +0900	commit: 環境設定し直し
+de2e2cc4e286037d03a3c65c6b12837b0102be46 e0694a77d8818776ac708490cbd672f6e6870abe yaiki877 <yuka.aiki@banana-877.com> 1649851522 +0900	commit: デフォルトのテスト全部通った
+e0694a77d8818776ac708490cbd672f6e6870abe 12763c391f7e71ed58997b6b3179f7f6ea1c463e yaiki877 <yuka.aiki@banana-877.com> 1649899874 +0900	commit: POSTのテストはできたっぽい
+12763c391f7e71ed58997b6b3179f7f6ea1c463e 059352190f3ffb6e083d3f951a1b5fd47328482d yaiki877 <yuka.aiki@banana-877.com> 1649902530 +0900	commit: パラメーターのテストケース追記完了
+059352190f3ffb6e083d3f951a1b5fd47328482d 98d6c5c3a4324818aac7be48bdfcbb22d94649e1 yaiki877 <yuka.aiki@banana-877.com> 1649904150 +0900	commit: DB登録のテスト
+98d6c5c3a4324818aac7be48bdfcbb22d94649e1 949d457ab21302038e40040df80c96d25560cdca yaiki877 <yuka.aiki@banana-877.com> 1649919134 +0900	commit: DBの登録のエラー消えた
+949d457ab21302038e40040df80c96d25560cdca 2de0da5e2a1253d6eae1ff645884276f97034db2 yaiki877 <yuka.aiki@banana-877.com> 1649919147 +0900	commit: Accountの変数名
+2de0da5e2a1253d6eae1ff645884276f97034db2 6dc72d72cfd6ca17f70002e0aa823109cc896d80 yaiki877 <yuka.aiki@banana-877.com> 1649925673 +0900	commit: sessionのテスト通った,画面遷移のテスト通った
+6dc72d72cfd6ca17f70002e0aa823109cc896d80 85a734f180709a20e2cc9e85c25d71e58878f239 yaiki877 <yuka.aiki@banana-877.com> 1649985129 +0900	commit: 共通処理をSetupメソッドに設定
+85a734f180709a20e2cc9e85c25d71e58878f239 de71773fec898c6d57469d10729c7f6aae260b70 yaiki877 <yuka.aiki@banana-877.com> 1649985462 +0900	commit: use RefreshDatabaseを追記
+de71773fec898c6d57469d10729c7f6aae260b70 d3fad12dd4b7b1e294ed12c40cb6fb7f8a23df37 yaiki877 <yuka.aiki@banana-877.com> 1649985604 +0900	commit: コメント変更
+d3fad12dd4b7b1e294ed12c40cb6fb7f8a23df37 dd44f196a82be2326055b4a379dda16ab43df431 yaiki877 <yuka.aiki@banana-877.com> 1649985706 +0900	commit: 不要なルート削除
+dd44f196a82be2326055b4a379dda16ab43df431 a597fd6aa6d318bba05522a2173a9ae9b91692a8 yaiki877 <yuka.aiki@banana-877.com> 1649986364 +0900	commit: インデント修正
+a597fd6aa6d318bba05522a2173a9ae9b91692a8 c82a945cf3ace6827f79fe72a295dbfc35525fea yaiki877 <yuka.aiki@banana-877.com> 1649987355 +0900	commit: gitignore更新
+c82a945cf3ace6827f79fe72a295dbfc35525fea fefcdc939eb728e469f04f54cc27b9d944d659db yaiki877 <yuka.aiki@banana-877.com> 1649987498 +0900	commit: jaファイル削除
+fefcdc939eb728e469f04f54cc27b9d944d659db 4ae2e1a0045b499850510e7648d295f2ad269347 yaiki877 <yuka.aiki@banana-877.com> 1649989895 +0900	commit: gitignore追加
+4ae2e1a0045b499850510e7648d295f2ad269347 6b0b3c15b8408896230600df7d4a1299daec5728 yaiki877 <yuka.aiki@banana-877.com> 1649996679 +0900	checkout: moving from aiki/feature/register to aiki/feature/login
+6b0b3c15b8408896230600df7d4a1299daec5728 4ae2e1a0045b499850510e7648d295f2ad269347 yaiki877 <yuka.aiki@banana-877.com> 1649996868 +0900	checkout: moving from aiki/feature/login to aiki/feature/register
+4ae2e1a0045b499850510e7648d295f2ad269347 6b0b3c15b8408896230600df7d4a1299daec5728 yaiki877 <yuka.aiki@banana-877.com> 1649996893 +0900	checkout: moving from aiki/feature/register to aiki/feature/login
+6b0b3c15b8408896230600df7d4a1299daec5728 9ccacf83029e8e4b025d1246ba9c470aeaffcc0e yaiki877 <yuka.aiki@banana-877.com> 1649996914 +0900	commit: ログインリクエストの作成
+9ccacf83029e8e4b025d1246ba9c470aeaffcc0e c8bedd36220775ed1971737ba04e7c29476e535e yaiki877 <yuka.aiki@banana-877.com> 1649997027 +0900	commit: ログインリクエスト編集
+c8bedd36220775ed1971737ba04e7c29476e535e 4ae2e1a0045b499850510e7648d295f2ad269347 yaiki877 <yuka.aiki@banana-877.com> 1649997042 +0900	checkout: moving from aiki/feature/login to aiki/feature/register
+4ae2e1a0045b499850510e7648d295f2ad269347 c8bedd36220775ed1971737ba04e7c29476e535e yaiki877 <yuka.aiki@banana-877.com> 1649997094 +0900	checkout: moving from aiki/feature/register to aiki/feature/login
+c8bedd36220775ed1971737ba04e7c29476e535e 6c4c80222592793c306a6ead3164ab82195ae2de yaiki877 <yuka.aiki@banana-877.com> 1649997596 +0900	commit: Formリクエスト完成
+6c4c80222592793c306a6ead3164ab82195ae2de 4ae2e1a0045b499850510e7648d295f2ad269347 yaiki877 <yuka.aiki@banana-877.com> 1649997598 +0900	checkout: moving from aiki/feature/login to aiki/feature/register
+4ae2e1a0045b499850510e7648d295f2ad269347 f15d76dbce2591eabefa08f71813d2dfe8496aa5 yaiki877 <yuka.aiki@banana-877.com> 1649997616 +0900	commit: gitignore追加
+f15d76dbce2591eabefa08f71813d2dfe8496aa5 6c4c80222592793c306a6ead3164ab82195ae2de yaiki877 <yuka.aiki@banana-877.com> 1649997668 +0900	checkout: moving from aiki/feature/register to aiki/feature/login
+6c4c80222592793c306a6ead3164ab82195ae2de f15d76dbce2591eabefa08f71813d2dfe8496aa5 yaiki877 <yuka.aiki@banana-877.com> 1649997843 +0900	checkout: moving from aiki/feature/login to aiki/feature/register
+f15d76dbce2591eabefa08f71813d2dfe8496aa5 6c4c80222592793c306a6ead3164ab82195ae2de yaiki877 <yuka.aiki@banana-877.com> 1649997884 +0900	checkout: moving from aiki/feature/register to aiki/feature/login
+6c4c80222592793c306a6ead3164ab82195ae2de 58af35e633c23bb2ddca42706af8c30d4b1c0bf4 yaiki877 <yuka.aiki@banana-877.com> 1649998167 +0900	commit: ルートの変更
+58af35e633c23bb2ddca42706af8c30d4b1c0bf4 6c4c80222592793c306a6ead3164ab82195ae2de yaiki877 <yuka.aiki@banana-877.com> 1649998934 +0900	reset: moving to HEAD^
+6c4c80222592793c306a6ead3164ab82195ae2de c8bedd36220775ed1971737ba04e7c29476e535e yaiki877 <yuka.aiki@banana-877.com> 1649998936 +0900	reset: moving to HEAD^
+c8bedd36220775ed1971737ba04e7c29476e535e 9ccacf83029e8e4b025d1246ba9c470aeaffcc0e yaiki877 <yuka.aiki@banana-877.com> 1649998943 +0900	reset: moving to HEAD^
+9ccacf83029e8e4b025d1246ba9c470aeaffcc0e 6b0b3c15b8408896230600df7d4a1299daec5728 yaiki877 <yuka.aiki@banana-877.com> 1649998948 +0900	reset: moving to HEAD^
+6b0b3c15b8408896230600df7d4a1299daec5728 2be447ff142b334d76434685926e6d7b3a66d58c yaiki877 <yuka.aiki@banana-877.com> 1649999220 +0900	commit: web.phpの変更
+2be447ff142b334d76434685926e6d7b3a66d58c 1c7376f77e29bddfd5dbf0eadda070adcb9c51ef yaiki877 <yuka.aiki@banana-877.com> 1649999229 +0900	commit: web.phpの変更
+1c7376f77e29bddfd5dbf0eadda070adcb9c51ef f15d76dbce2591eabefa08f71813d2dfe8496aa5 yaiki877 <yuka.aiki@banana-877.com> 1649999238 +0900	checkout: moving from aiki/feature/login to aiki/feature/register
+f15d76dbce2591eabefa08f71813d2dfe8496aa5 1c7376f77e29bddfd5dbf0eadda070adcb9c51ef yaiki877 <yuka.aiki@banana-877.com> 1649999518 +0900	checkout: moving from aiki/feature/register to aiki/feature/login
+1c7376f77e29bddfd5dbf0eadda070adcb9c51ef 2be447ff142b334d76434685926e6d7b3a66d58c yaiki877 <yuka.aiki@banana-877.com> 1650000005 +0900	reset: moving to HEAD^
+2be447ff142b334d76434685926e6d7b3a66d58c 6b0b3c15b8408896230600df7d4a1299daec5728 yaiki877 <yuka.aiki@banana-877.com> 1650000006 +0900	reset: moving to HEAD^
+6b0b3c15b8408896230600df7d4a1299daec5728 b7013253945ee0c94098e48b9947e74d9da3a06f yaiki877 <yuka.aiki@banana-877.com> 1650000007 +0900	reset: moving to HEAD^
+b7013253945ee0c94098e48b9947e74d9da3a06f 21a58b36b3f88537792471931d41b345741d07c5 yaiki877 <yuka.aiki@banana-877.com> 1650000009 +0900	reset: moving to HEAD^
+21a58b36b3f88537792471931d41b345741d07c5 a0b0e17064fb54cbb58300b5cf7329414140ecf0 yaiki877 <yuka.aiki@banana-877.com> 1650000010 +0900	reset: moving to HEAD^
+a0b0e17064fb54cbb58300b5cf7329414140ecf0 7481f5b222e0b7678e3bfe119b3fa019cf9fba32 yaiki877 <yuka.aiki@banana-877.com> 1650000101 +0900	commit: もどす
+7481f5b222e0b7678e3bfe119b3fa019cf9fba32 f15d76dbce2591eabefa08f71813d2dfe8496aa5 yaiki877 <yuka.aiki@banana-877.com> 1650000341 +0900	checkout: moving from aiki/feature/login to aiki/feature/register
+f15d76dbce2591eabefa08f71813d2dfe8496aa5 7481f5b222e0b7678e3bfe119b3fa019cf9fba32 yaiki877 <yuka.aiki@banana-877.com> 1650000386 +0900	checkout: moving from aiki/feature/register to aiki/feature/login
+7481f5b222e0b7678e3bfe119b3fa019cf9fba32 761c26fcedb6b6546834e58c0d0467de1df4d0be yaiki877 <yuka.aiki@banana-877.com> 1650000527 +0900	commit: web.phpのみなおし
+761c26fcedb6b6546834e58c0d0467de1df4d0be f15d76dbce2591eabefa08f71813d2dfe8496aa5 yaiki877 <yuka.aiki@banana-877.com> 1650000537 +0900	checkout: moving from aiki/feature/login to aiki/feature/register
+f15d76dbce2591eabefa08f71813d2dfe8496aa5 761c26fcedb6b6546834e58c0d0467de1df4d0be yaiki877 <yuka.aiki@banana-877.com> 1650000600 +0900	checkout: moving from aiki/feature/register to aiki/feature/login
+761c26fcedb6b6546834e58c0d0467de1df4d0be b417285d3835521c33565a76bd10af9cc3c65251 yaiki877 <yuka.aiki@banana-877.com> 1650002141 +0900	commit: web.php修正
+b417285d3835521c33565a76bd10af9cc3c65251 16059a9bce521bfe99fbe1f5201ac0eb5dbdeeea yaiki877 <yuka.aiki@banana-877.com> 1650002500 +0900	commit: バリデーションの修正
+16059a9bce521bfe99fbe1f5201ac0eb5dbdeeea f15d76dbce2591eabefa08f71813d2dfe8496aa5 yaiki877 <yuka.aiki@banana-877.com> 1650002740 +0900	checkout: moving from aiki/feature/login to aiki/feature/register
+f15d76dbce2591eabefa08f71813d2dfe8496aa5 16059a9bce521bfe99fbe1f5201ac0eb5dbdeeea yaiki877 <yuka.aiki@banana-877.com> 1650002781 +0900	checkout: moving from aiki/feature/register to aiki/feature/login
+16059a9bce521bfe99fbe1f5201ac0eb5dbdeeea 805967922cfcbb47016096ad58719cfd5a447fdb yaiki877 <yuka.aiki@banana-877.com> 1650002807 +0900	commit: phpunitの設定、ログインテストの作成
+805967922cfcbb47016096ad58719cfd5a447fdb f15d76dbce2591eabefa08f71813d2dfe8496aa5 yaiki877 <yuka.aiki@banana-877.com> 1650002868 +0900	checkout: moving from aiki/feature/login to aiki/feature/register
+f15d76dbce2591eabefa08f71813d2dfe8496aa5 805967922cfcbb47016096ad58719cfd5a447fdb yaiki877 <yuka.aiki@banana-877.com> 1650002891 +0900	checkout: moving from aiki/feature/register to aiki/feature/login
+805967922cfcbb47016096ad58719cfd5a447fdb f15d76dbce2591eabefa08f71813d2dfe8496aa5 yaiki877 <yuka.aiki@banana-877.com> 1650002901 +0900	checkout: moving from aiki/feature/login to aiki/feature/register
+f15d76dbce2591eabefa08f71813d2dfe8496aa5 805967922cfcbb47016096ad58719cfd5a447fdb yaiki877 <yuka.aiki@banana-877.com> 1650002908 +0900	checkout: moving from aiki/feature/register to aiki/feature/login
+805967922cfcbb47016096ad58719cfd5a447fdb 05e25a52719b72d8dd993a53332a1e9ecda73e79 yaiki877 <yuka.aiki@banana-877.com> 1650003439 +0900	commit: Request テストコード修正
+05e25a52719b72d8dd993a53332a1e9ecda73e79 f15d76dbce2591eabefa08f71813d2dfe8496aa5 yaiki877 <yuka.aiki@banana-877.com> 1650003509 +0900	checkout: moving from aiki/feature/login to aiki/feature/register
+f15d76dbce2591eabefa08f71813d2dfe8496aa5 05e25a52719b72d8dd993a53332a1e9ecda73e79 yaiki877 <yuka.aiki@banana-877.com> 1650003567 +0900	checkout: moving from aiki/feature/register to aiki/feature/login
+05e25a52719b72d8dd993a53332a1e9ecda73e79 f15d76dbce2591eabefa08f71813d2dfe8496aa5 yaiki877 <yuka.aiki@banana-877.com> 1650003668 +0900	checkout: moving from aiki/feature/login to aiki/feature/register
+f15d76dbce2591eabefa08f71813d2dfe8496aa5 05e25a52719b72d8dd993a53332a1e9ecda73e79 yaiki877 <yuka.aiki@banana-877.com> 1650003853 +0900	checkout: moving from aiki/feature/register to aiki/feature/login
+05e25a52719b72d8dd993a53332a1e9ecda73e79 05e25a52719b72d8dd993a53332a1e9ecda73e79 yaiki877 <yuka.aiki@banana-877.com> 1650004009 +0900	checkout: moving from aiki/feature/login to aiki/feature/login
+05e25a52719b72d8dd993a53332a1e9ecda73e79 05e25a52719b72d8dd993a53332a1e9ecda73e79 yaiki877 <yuka.aiki@banana-877.com> 1650004024 +0900	checkout: moving from aiki/feature/login to aiki/feature/login
+05e25a52719b72d8dd993a53332a1e9ecda73e79 fa6ac2014b1b7f7aa3dc905a56d82746c188bc9a yaiki877 <yuka.aiki@banana-877.com> 1650004307 +0900	commit: requestのテスト通った
+fa6ac2014b1b7f7aa3dc905a56d82746c188bc9a f15d76dbce2591eabefa08f71813d2dfe8496aa5 yaiki877 <yuka.aiki@banana-877.com> 1650005073 +0900	checkout: moving from aiki/feature/login to aiki/feature/register
+f15d76dbce2591eabefa08f71813d2dfe8496aa5 fa6ac2014b1b7f7aa3dc905a56d82746c188bc9a yaiki877 <yuka.aiki@banana-877.com> 1650005343 +0900	checkout: moving from aiki/feature/register to aiki/feature/login
+fa6ac2014b1b7f7aa3dc905a56d82746c188bc9a f2a098cb2d79836b8005aad2531beb975f4b064b yaiki877 <yuka.aiki@banana-877.com> 1650005967 +0900	commit: バリデーション以外のテストケース生成
+f2a098cb2d79836b8005aad2531beb975f4b064b f15d76dbce2591eabefa08f71813d2dfe8496aa5 yaiki877 <yuka.aiki@banana-877.com> 1650005973 +0900	checkout: moving from aiki/feature/login to aiki/feature/register
+f15d76dbce2591eabefa08f71813d2dfe8496aa5 f2a098cb2d79836b8005aad2531beb975f4b064b yaiki877 <yuka.aiki@banana-877.com> 1650005986 +0900	checkout: moving from aiki/feature/register to aiki/feature/login
+f2a098cb2d79836b8005aad2531beb975f4b064b 71bc8e80283a5d3f52074e1d69416c09ae4e7617 yaiki877 <yuka.aiki@banana-877.com> 1650008253 +0900	commit: test環境に移行
+71bc8e80283a5d3f52074e1d69416c09ae4e7617 13ffd0363c6ccbd70707cd2ee8a2900e22fa43ef yaiki877 <yuka.aiki@banana-877.com> 1650009429 +0900	commit: yuukai
+13ffd0363c6ccbd70707cd2ee8a2900e22fa43ef f7f86ad37ce800adc532cc187636130a91dd63d6 yaiki877 <yuka.aiki@banana-877.com> 1650009433 +0900	commit: yuukai
+f7f86ad37ce800adc532cc187636130a91dd63d6 f15d76dbce2591eabefa08f71813d2dfe8496aa5 yaiki877 <yuka.aiki@banana-877.com> 1650009437 +0900	checkout: moving from aiki/feature/login to aiki/feature/register
+f15d76dbce2591eabefa08f71813d2dfe8496aa5 f7f86ad37ce800adc532cc187636130a91dd63d6 yaiki877 <yuka.aiki@banana-877.com> 1650014452 +0900	checkout: moving from aiki/feature/register to aiki/feature/login
+f7f86ad37ce800adc532cc187636130a91dd63d6 f7f86ad37ce800adc532cc187636130a91dd63d6 yaiki877 <yuka.aiki@banana-877.com> 1650015004 +0900	checkout: moving from aiki/feature/login to aiki/feature/login
+f7f86ad37ce800adc532cc187636130a91dd63d6 c9cd350b07a9008dedb7380f3e841954a3858783 yaiki877 <yuka.aiki@banana-877.com> 1650016535 +0900	commit: 検索、セッション発行、画面遷移のテスト完了
+c9cd350b07a9008dedb7380f3e841954a3858783 0735a7175f64140352b9b575e740e59de983761f yaiki877 <yuka.aiki@banana-877.com> 1650016549 +0900	commit: ログのコメント削除
+0735a7175f64140352b9b575e740e59de983761f e035dd798e66c84cf10aa222881c3da2b3038687 yaiki877 <yuka.aiki@banana-877.com> 1650016653 +0900	commit: 採番変更
+e035dd798e66c84cf10aa222881c3da2b3038687 8272aa36e1e6660f8f1ffc66b62d38edfb3ad8a9 yaiki877 <yuka.aiki@banana-877.com> 1650016787 +0900	commit: インデント修正
+8272aa36e1e6660f8f1ffc66b62d38edfb3ad8a9 e3b4edb99f58201143b4404a745d0f855a59c0ca yaiki877 <yuka.aiki@banana-877.com> 1650248900 +0900	commit: テストケース追加
+e3b4edb99f58201143b4404a745d0f855a59c0ca f15d76dbce2591eabefa08f71813d2dfe8496aa5 yaiki877 <yuka.aiki@banana-877.com> 1650248905 +0900	checkout: moving from aiki/feature/login to aiki/feature/register
+f15d76dbce2591eabefa08f71813d2dfe8496aa5 e3b4edb99f58201143b4404a745d0f855a59c0ca yaiki877 <yuka.aiki@banana-877.com> 1650249440 +0900	checkout: moving from aiki/feature/register to aiki/feature/login
+e3b4edb99f58201143b4404a745d0f855a59c0ca f15d76dbce2591eabefa08f71813d2dfe8496aa5 yaiki877 <yuka.aiki@banana-877.com> 1650250230 +0900	checkout: moving from aiki/feature/login to aiki/feature/register
+f15d76dbce2591eabefa08f71813d2dfe8496aa5 e3b4edb99f58201143b4404a745d0f855a59c0ca yaiki877 <yuka.aiki@banana-877.com> 1650250305 +0900	checkout: moving from aiki/feature/register to aiki/feature/login
+e3b4edb99f58201143b4404a745d0f855a59c0ca e3b4edb99f58201143b4404a745d0f855a59c0ca yaiki877 <yuka.aiki@banana-877.com> 1650250319 +0900	checkout: moving from aiki/feature/login to aiki/feature/login
+e3b4edb99f58201143b4404a745d0f855a59c0ca a59ce66071f6b36a03c84c2de0071b65908e4a08 yaiki877 <yuka.aiki@banana-877.com> 1650255527 +0900	commit: topページのroute変更
+a59ce66071f6b36a03c84c2de0071b65908e4a08 f15d76dbce2591eabefa08f71813d2dfe8496aa5 yaiki877 <yuka.aiki@banana-877.com> 1650255593 +0900	checkout: moving from aiki/feature/login to aiki/feature/register
+f15d76dbce2591eabefa08f71813d2dfe8496aa5 a59ce66071f6b36a03c84c2de0071b65908e4a08 yaiki877 <yuka.aiki@banana-877.com> 1650255637 +0900	checkout: moving from aiki/feature/register to aiki/feature/login
+a59ce66071f6b36a03c84c2de0071b65908e4a08 1d5deeff368b37f514b270c479e48101c2afdb9f yaiki877 <yuka.aiki@banana-877.com> 1650255859 +0900	commit: ログアウトしましたのメッセージを足した
+1d5deeff368b37f514b270c479e48101c2afdb9f ae0b15079d0f767ff0ca6b0892b45d55373151d0 yaiki877 <yuka.aiki@banana-877.com> 1650258688 +0900	commit: ログインのテストデータ書き直し
+ae0b15079d0f767ff0ca6b0892b45d55373151d0 4eb0960b42228433ac087aab8ca05899c10cacf2 yaiki877 <yuka.aiki@banana-877.com> 1650263042 +0900	commit: DBのテストだけうまくいかない（手動はOK）
+4eb0960b42228433ac087aab8ca05899c10cacf2 f15d76dbce2591eabefa08f71813d2dfe8496aa5 yaiki877 <yuka.aiki@banana-877.com> 1650263136 +0900	checkout: moving from aiki/feature/login to aiki/feature/register
+f15d76dbce2591eabefa08f71813d2dfe8496aa5 4eb0960b42228433ac087aab8ca05899c10cacf2 yaiki877 <yuka.aiki@banana-877.com> 1650263158 +0900	checkout: moving from aiki/feature/register to aiki/feature/login
+4eb0960b42228433ac087aab8ca05899c10cacf2 a7e355e1c0204455b2bc2c77f63682ea07012e88 yaiki877 <yuka.aiki@banana-877.com> 1650263295 +0900	commit: CSS揃えた
+a7e355e1c0204455b2bc2c77f63682ea07012e88 f15d76dbce2591eabefa08f71813d2dfe8496aa5 yaiki877 <yuka.aiki@banana-877.com> 1650263298 +0900	checkout: moving from aiki/feature/login to aiki/feature/register
+f15d76dbce2591eabefa08f71813d2dfe8496aa5 a7e355e1c0204455b2bc2c77f63682ea07012e88 yaiki877 <yuka.aiki@banana-877.com> 1650263367 +0900	checkout: moving from aiki/feature/register to aiki/feature/login
+a7e355e1c0204455b2bc2c77f63682ea07012e88 f15d76dbce2591eabefa08f71813d2dfe8496aa5 yaiki877 <yuka.aiki@banana-877.com> 1650263473 +0900	checkout: moving from aiki/feature/login to aiki/feature/register
+f15d76dbce2591eabefa08f71813d2dfe8496aa5 a7e355e1c0204455b2bc2c77f63682ea07012e88 yaiki877 <yuka.aiki@banana-877.com> 1650263478 +0900	checkout: moving from aiki/feature/register to aiki/feature/login
+a7e355e1c0204455b2bc2c77f63682ea07012e88 a9fc1f7933ee492d6543df712f0f40c5b9dbb6c2 yaiki877 <yuka.aiki@banana-877.com> 1650263510 +0900	commit: TOPページのCSSととのえた
+a9fc1f7933ee492d6543df712f0f40c5b9dbb6c2 0a335a773905787c5dbcc640adec1eef41372e6d yaiki877 <yuka.aiki@banana-877.com> 1650264021 +0900	checkout: moving from aiki/feature/login to aiki/feature/search
+0a335a773905787c5dbcc640adec1eef41372e6d a9fc1f7933ee492d6543df712f0f40c5b9dbb6c2 yaiki877 <yuka.aiki@banana-877.com> 1650264138 +0900	checkout: moving from aiki/feature/search to aiki/feature/login
+a9fc1f7933ee492d6543df712f0f40c5b9dbb6c2 9831f3c1c0030c1a924b4654d775305d5e5f3fc0 yaiki877 <yuka.aiki@banana-877.com> 1650264167 +0900	commit: ログイン画面のフォーム変更
+9831f3c1c0030c1a924b4654d775305d5e5f3fc0 0a335a773905787c5dbcc640adec1eef41372e6d yaiki877 <yuka.aiki@banana-877.com> 1650264176 +0900	checkout: moving from aiki/feature/login to aiki/feature/search
+0a335a773905787c5dbcc640adec1eef41372e6d d7b79f86663d9f28e6c523a7f5578ec3a0782bd5 yaiki877 <yuka.aiki@banana-877.com> 1650264943 +0900	commit: ヘッダーをいれた
+d7b79f86663d9f28e6c523a7f5578ec3a0782bd5 9831f3c1c0030c1a924b4654d775305d5e5f3fc0 yaiki877 <yuka.aiki@banana-877.com> 1650264947 +0900	checkout: moving from aiki/feature/search to aiki/feature/login
+9831f3c1c0030c1a924b4654d775305d5e5f3fc0 d7b79f86663d9f28e6c523a7f5578ec3a0782bd5 yaiki877 <yuka.aiki@banana-877.com> 1650264955 +0900	checkout: moving from aiki/feature/login to aiki/feature/search
+d7b79f86663d9f28e6c523a7f5578ec3a0782bd5 c65bdfffb2df03133be8dfe035d09e1586c644be yaiki877 <yuka.aiki@banana-877.com> 1650265041 +0900	commit: AccountLoginRequest作成
+c65bdfffb2df03133be8dfe035d09e1586c644be 9831f3c1c0030c1a924b4654d775305d5e5f3fc0 yaiki877 <yuka.aiki@banana-877.com> 1650265044 +0900	checkout: moving from aiki/feature/search to aiki/feature/login
+9831f3c1c0030c1a924b4654d775305d5e5f3fc0 c65bdfffb2df03133be8dfe035d09e1586c644be yaiki877 <yuka.aiki@banana-877.com> 1650265049 +0900	checkout: moving from aiki/feature/login to aiki/feature/search
+c65bdfffb2df03133be8dfe035d09e1586c644be e2fa7afa0acc6580186ec06d418ed82574857912 yaiki877 <yuka.aiki@banana-877.com> 1650265065 +0900	commit: AccountLoginRequest編集
+e2fa7afa0acc6580186ec06d418ed82574857912 9831f3c1c0030c1a924b4654d775305d5e5f3fc0 yaiki877 <yuka.aiki@banana-877.com> 1650265394 +0900	checkout: moving from aiki/feature/search to aiki/feature/login
+9831f3c1c0030c1a924b4654d775305d5e5f3fc0 e2fa7afa0acc6580186ec06d418ed82574857912 yaiki877 <yuka.aiki@banana-877.com> 1650265455 +0900	checkout: moving from aiki/feature/login to aiki/feature/search
+e2fa7afa0acc6580186ec06d418ed82574857912 e3d1325d310051d4a53f7938461860b487c3375e yaiki877 <yuka.aiki@banana-877.com> 1650265618 +0900	commit: headercontrollerの作成
+e3d1325d310051d4a53f7938461860b487c3375e 9831f3c1c0030c1a924b4654d775305d5e5f3fc0 yaiki877 <yuka.aiki@banana-877.com> 1650265621 +0900	checkout: moving from aiki/feature/search to aiki/feature/login
+9831f3c1c0030c1a924b4654d775305d5e5f3fc0 e3d1325d310051d4a53f7938461860b487c3375e yaiki877 <yuka.aiki@banana-877.com> 1650265633 +0900	checkout: moving from aiki/feature/login to aiki/feature/search
+e3d1325d310051d4a53f7938461860b487c3375e 8767d387901f03ccb448c03ed610451528e38b13 yaiki877 <yuka.aiki@banana-877.com> 1650265854 +0900	commit: ヘッダーコントローラー編集
+8767d387901f03ccb448c03ed610451528e38b13 9831f3c1c0030c1a924b4654d775305d5e5f3fc0 yaiki877 <yuka.aiki@banana-877.com> 1650265857 +0900	checkout: moving from aiki/feature/search to aiki/feature/login
+9831f3c1c0030c1a924b4654d775305d5e5f3fc0 f15d76dbce2591eabefa08f71813d2dfe8496aa5 yaiki877 <yuka.aiki@banana-877.com> 1650265907 +0900	checkout: moving from aiki/feature/login to aiki/feature/register
+f15d76dbce2591eabefa08f71813d2dfe8496aa5 8767d387901f03ccb448c03ed610451528e38b13 yaiki877 <yuka.aiki@banana-877.com> 1650265937 +0900	checkout: moving from aiki/feature/register to aiki/feature/search
+8767d387901f03ccb448c03ed610451528e38b13 f15d76dbce2591eabefa08f71813d2dfe8496aa5 yaiki877 <yuka.aiki@banana-877.com> 1650265964 +0900	checkout: moving from aiki/feature/search to aiki/feature/register
+f15d76dbce2591eabefa08f71813d2dfe8496aa5 8767d387901f03ccb448c03ed610451528e38b13 yaiki877 <yuka.aiki@banana-877.com> 1650266002 +0900	checkout: moving from aiki/feature/register to aiki/feature/search
+8767d387901f03ccb448c03ed610451528e38b13 841bd224b2186d8c42942dd22393dc922c115a43 yaiki877 <yuka.aiki@banana-877.com> 1650266067 +0900	commit: ヘッダーのコンポーネント作成
+841bd224b2186d8c42942dd22393dc922c115a43 f15d76dbce2591eabefa08f71813d2dfe8496aa5 yaiki877 <yuka.aiki@banana-877.com> 1650266079 +0900	checkout: moving from aiki/feature/search to aiki/feature/register
+f15d76dbce2591eabefa08f71813d2dfe8496aa5 841bd224b2186d8c42942dd22393dc922c115a43 yaiki877 <yuka.aiki@banana-877.com> 1650266086 +0900	checkout: moving from aiki/feature/register to aiki/feature/search
+841bd224b2186d8c42942dd22393dc922c115a43 f168a16e62f441599dd046128e38c1ca944c1a57 yaiki877 <yuka.aiki@banana-877.com> 1650266098 +0900	commit: non_authの情報更新
+f168a16e62f441599dd046128e38c1ca944c1a57 f15d76dbce2591eabefa08f71813d2dfe8496aa5 yaiki877 <yuka.aiki@banana-877.com> 1650266105 +0900	checkout: moving from aiki/feature/search to aiki/feature/register
+f15d76dbce2591eabefa08f71813d2dfe8496aa5 f168a16e62f441599dd046128e38c1ca944c1a57 yaiki877 <yuka.aiki@banana-877.com> 1650266125 +0900	checkout: moving from aiki/feature/register to aiki/feature/search
+f168a16e62f441599dd046128e38c1ca944c1a57 ed196a86c368b10dffaf8726a2492dd685b3be8d yaiki877 <yuka.aiki@banana-877.com> 1650266172 +0900	commit: topblade変更
+ed196a86c368b10dffaf8726a2492dd685b3be8d 9831f3c1c0030c1a924b4654d775305d5e5f3fc0 yaiki877 <yuka.aiki@banana-877.com> 1650266186 +0900	checkout: moving from aiki/feature/search to aiki/feature/login
+9831f3c1c0030c1a924b4654d775305d5e5f3fc0 bc9f764c29f959ea66b3d4cb9d1d57bb563939b6 yaiki877 <yuka.aiki@banana-877.com> 1650266388 +0900	commit: headerコンポーネント化
+bc9f764c29f959ea66b3d4cb9d1d57bb563939b6 ed196a86c368b10dffaf8726a2492dd685b3be8d yaiki877 <yuka.aiki@banana-877.com> 1650266398 +0900	checkout: moving from aiki/feature/login to aiki/feature/search
+ed196a86c368b10dffaf8726a2492dd685b3be8d bc9f764c29f959ea66b3d4cb9d1d57bb563939b6 yaiki877 <yuka.aiki@banana-877.com> 1650268034 +0900	checkout: moving from aiki/feature/search to aiki/feature/login
+bc9f764c29f959ea66b3d4cb9d1d57bb563939b6 ed196a86c368b10dffaf8726a2492dd685b3be8d yaiki877 <yuka.aiki@banana-877.com> 1650268267 +0900	checkout: moving from aiki/feature/login to aiki/feature/search
+ed196a86c368b10dffaf8726a2492dd685b3be8d bc9f764c29f959ea66b3d4cb9d1d57bb563939b6 yaiki877 <yuka.aiki@banana-877.com> 1650268276 +0900	checkout: moving from aiki/feature/search to aiki/feature/login
+bc9f764c29f959ea66b3d4cb9d1d57bb563939b6 f9880da344ee724687d02589cc92df967bffe4ef yaiki877 <yuka.aiki@banana-877.com> 1650268898 +0900	commit: ヘッダーのコンポーネント化の修正
+f9880da344ee724687d02589cc92df967bffe4ef 141ac26b1cd49e9de79ebc18d21599f6b6835b0c yaiki877 <yuka.aiki@banana-877.com> 1650272103 +0900	commit: ログインのテスト修正
+141ac26b1cd49e9de79ebc18d21599f6b6835b0c ed196a86c368b10dffaf8726a2492dd685b3be8d yaiki877 <yuka.aiki@banana-877.com> 1650272127 +0900	checkout: moving from aiki/feature/login to aiki/feature/search
+ed196a86c368b10dffaf8726a2492dd685b3be8d cf6dcb0f711b7188da8ca75a02277f7103d22201 yaiki877 <yuka.aiki@banana-877.com> 1650272154 +0900	commit: ログインコントローラー修正
+cf6dcb0f711b7188da8ca75a02277f7103d22201 141ac26b1cd49e9de79ebc18d21599f6b6835b0c yaiki877 <yuka.aiki@banana-877.com> 1650272169 +0900	checkout: moving from aiki/feature/search to aiki/feature/login
+141ac26b1cd49e9de79ebc18d21599f6b6835b0c 41601f774091fcaffb1382c095d3c3638ed9a3e5 yaiki877 <yuka.aiki@banana-877.com> 1650272824 +0900	commit: インデント修正
+41601f774091fcaffb1382c095d3c3638ed9a3e5 c246a9a999656e9b3969cdb620e6503f7234fd2e yaiki877 <yuka.aiki@banana-877.com> 1650273084 +0900	commit: 余計な空白を削除
+c246a9a999656e9b3969cdb620e6503f7234fd2e cf6dcb0f711b7188da8ca75a02277f7103d22201 yaiki877 <yuka.aiki@banana-877.com> 1650273859 +0900	checkout: moving from aiki/feature/login to aiki/feature/search
+cf6dcb0f711b7188da8ca75a02277f7103d22201 05fbbeb0c7712f21bf88e5fc58d3d9662d6d1c56 yaiki877 <yuka.aiki@banana-877.com> 1650274099 +0900	commit: componentと結合完了
+05fbbeb0c7712f21bf88e5fc58d3d9662d6d1c56 bc9ee9d3510c4afdc2828f9a09f50105fc0f42ab yaiki877 <yuka.aiki@banana-877.com> 1650277536 +0900	commit: 検索ページのフォーマット調整
+bc9ee9d3510c4afdc2828f9a09f50105fc0f42ab 3f7ee03862e2bbbab46b6395541bffa6ff4d66d8 yaiki877 <yuka.aiki@banana-877.com> 1650343571 +0900	commit: 独自チェックボックスの作成
+3f7ee03862e2bbbab46b6395541bffa6ff4d66d8 dfda2a382df47c2f3dccbbdf19ebeaba8bc105c3 yaiki877 <yuka.aiki@banana-877.com> 1650343629 +0900	commit: 独自チェックボックス全項目反映
+dfda2a382df47c2f3dccbbdf19ebeaba8bc105c3 539fa1672805c34afe76c1e73796c9fe411eced9 yaiki877 <yuka.aiki@banana-877.com> 1650343659 +0900	commit: 項目名修正
+539fa1672805c34afe76c1e73796c9fe411eced9 040196af3508936af07694bab7cd88c087d4e8d0 yaiki877 <yuka.aiki@banana-877.com> 1650351222 +0900	commit: フォーマットを整えた
+040196af3508936af07694bab7cd88c087d4e8d0 f15d76dbce2591eabefa08f71813d2dfe8496aa5 yaiki877 <yuka.aiki@banana-877.com> 1650351227 +0900	checkout: moving from aiki/feature/search to aiki/feature/register
+f15d76dbce2591eabefa08f71813d2dfe8496aa5 040196af3508936af07694bab7cd88c087d4e8d0 yaiki877 <yuka.aiki@banana-877.com> 1650351242 +0900	checkout: moving from aiki/feature/register to aiki/feature/search
+040196af3508936af07694bab7cd88c087d4e8d0 d168eacbe6c9dd165473c6b658d2fd62bf6e2c57 yaiki877 <yuka.aiki@banana-877.com> 1650351943 +0900	commit: datetimepickerの設定
+d168eacbe6c9dd165473c6b658d2fd62bf6e2c57 28d114bb82bda0ad38c53a7b202b3763564be5cb yaiki877 <yuka.aiki@banana-877.com> 1650356186 +0900	commit: セレクトボックスの作成
+28d114bb82bda0ad38c53a7b202b3763564be5cb 31c7e10254d6e832cb2295abf0f8733e521e2990 yaiki877 <yuka.aiki@banana-877.com> 1650372144 +0900	commit: json出力できた
+31c7e10254d6e832cb2295abf0f8733e521e2990 3fcaf8632f410ab80c944cb90034e65dcb5da313 yaiki877 <yuka.aiki@banana-877.com> 1650374673 +0900	commit: 都道府県をプルダウンでだした
+3fcaf8632f410ab80c944cb90034e65dcb5da313 0ac96902bf3b7d3dd781ee56bf3ad42ee27e3885 yaiki877 <yuka.aiki@banana-877.com> 1650374901 +0900	commit: かきかたかえた
+0ac96902bf3b7d3dd781ee56bf3ad42ee27e3885 9c189f02dd7f3a5c669c4da6a2b2c0c46dde16eb yaiki877 <yuka.aiki@banana-877.com> 1650419995 +0900	commit: ジャンルラベル作成
+9c189f02dd7f3a5c669c4da6a2b2c0c46dde16eb a1ac970cea5e64394a42c5c88f8873d7eb327114 yaiki877 <yuka.aiki@banana-877.com> 1650420667 +0900	commit: ジャンルのフォーマットととのえた
+a1ac970cea5e64394a42c5c88f8873d7eb327114 dceff6390df0a23981b7c38329e09e2becac7f65 yaiki877 <yuka.aiki@banana-877.com> 1650430372 +0900	commit: レイアウト変更
+dceff6390df0a23981b7c38329e09e2becac7f65 939cdff68c489a25f2de3af3a03db14c40cb4b61 yaiki877 <yuka.aiki@banana-877.com> 1650430709 +0900	commit: 検索ボタンの修正
+939cdff68c489a25f2de3af3a03db14c40cb4b61 78f8341576bd5a4ccfac0ce2a0b6e815d798b192 yaiki877 <yuka.aiki@banana-877.com> 1650434681 +0900	commit: 検索結果のラベルの作成
+78f8341576bd5a4ccfac0ce2a0b6e815d798b192 d6a8aa1643a82dc86621e322cd8cced6bd627c9a yaiki877 <yuka.aiki@banana-877.com> 1650438497 +0900	commit: ラベル完成
+d6a8aa1643a82dc86621e322cd8cced6bd627c9a 11b4051a375722c8cb259bea2dbaf011cb325981 yaiki877 <yuka.aiki@banana-877.com> 1650438974 +0900	commit: restrantモデルとmigrationファイルを作成
+11b4051a375722c8cb259bea2dbaf011cb325981 005b203a87b548bf79316e2fbc41adb26a3b6871 yaiki877 <yuka.aiki@banana-877.com> 1650439929 +0900	commit: migrationの型設定
+005b203a87b548bf79316e2fbc41adb26a3b6871 d9dd7f02c55d526031fd2b0dba35679f61139553 yaiki877 <yuka.aiki@banana-877.com> 1650458030 +0900	commit: SQL日本語設定
+d9dd7f02c55d526031fd2b0dba35679f61139553 71cdb877e3f69923ec95e6c5e58c512436ef3b90 yaiki877 <yuka.aiki@banana-877.com> 1650507133 +0900	commit: コントローラーに接続
+71cdb877e3f69923ec95e6c5e58c512436ef3b90 39274fad43db7057e4e2a11e0b62783b4908cd3a yaiki877 <yuka.aiki@banana-877.com> 1650508324 +0900	commit: 検索はできた
+39274fad43db7057e4e2a11e0b62783b4908cd3a 864d7668811bf9733d9de436d914f61faa4c8c8e yaiki877 <yuka.aiki@banana-877.com> 1650513254 +0900	commit: 空白における分岐を記載
+864d7668811bf9733d9de436d914f61faa4c8c8e d82cd6a69e3de97bb2657a26a7c0e76d6a365476 yaiki877 <yuka.aiki@banana-877.com> 1650521618 +0900	commit: 検索結果表示されるようになった
+d82cd6a69e3de97bb2657a26a7c0e76d6a365476 3bf0456b2ae0425e97166fd754315d68617a5d0d yaiki877 <yuka.aiki@banana-877.com> 1650521630 +0900	commit: 検索結果表示されるようになった
+3bf0456b2ae0425e97166fd754315d68617a5d0d 41705dc1907c384333ecc56b5d5fac05e5b3f7df yaiki877 <yuka.aiki@banana-877.com> 1650522414 +0900	commit: resultlabelのコンポーネントのデータ渡しの設定
+41705dc1907c384333ecc56b5d5fac05e5b3f7df 02340eac49b60d580d6a8d885259031fd01853d2 yaiki877 <yuka.aiki@banana-877.com> 1650523636 +0900	commit: ヘッダーのコンポーネントの再設定
+02340eac49b60d580d6a8d885259031fd01853d2 5ca3677f30b23fae7a9e452c044beafc3ba96999 yaiki877 <yuka.aiki@banana-877.com> 1650523855 +0900	commit: デフォルトで項目を表示
+5ca3677f30b23fae7a9e452c044beafc3ba96999 3aba59d5324cb2b2ec7c6816bd38d722709d2f34 yaiki877 <yuka.aiki@banana-877.com> 1650525957 +0900	commit: ジャンルを表示させた
+3aba59d5324cb2b2ec7c6816bd38d722709d2f34 18ed1186a832ab56b65038abd1cac6e7fe1d5005 yaiki877 <yuka.aiki@banana-877.com> 1650526551 +0900	commit: 未入力で全件表示させた
+18ed1186a832ab56b65038abd1cac6e7fe1d5005 421aad368f921688ce5da2feec7cdfa5f7f9643c yaiki877 <yuka.aiki@banana-877.com> 1650530117 +0900	commit: Userモデルを消さなければならないため、作業中断
+421aad368f921688ce5da2feec7cdfa5f7f9643c bb6b2668340d64b696c6b80e1cb799dc69fb94b5 yaiki877 <yuka.aiki@banana-877.com> 1650530123 +0900	commit: 作業中断
+bb6b2668340d64b696c6b80e1cb799dc69fb94b5 12c1bf464854f001c9af959688db233a12b24124 yaiki877 <yuka.aiki@banana-877.com> 1650530147 +0900	commit: 作業中断
+12c1bf464854f001c9af959688db233a12b24124 745480fea44d87cca8d67e4292980dd0a9a2ba69 yaiki877 <yuka.aiki@banana-877.com> 1650537013 +0900	commit: 最初のログインを撤廃
+745480fea44d87cca8d67e4292980dd0a9a2ba69 f15d76dbce2591eabefa08f71813d2dfe8496aa5 yaiki877 <yuka.aiki@banana-877.com> 1650537055 +0900	checkout: moving from aiki/feature/search to Aiki/feature/register
+f15d76dbce2591eabefa08f71813d2dfe8496aa5 745480fea44d87cca8d67e4292980dd0a9a2ba69 yaiki877 <yuka.aiki@banana-877.com> 1650537425 +0900	checkout: moving from Aiki/feature/register to Aiki/feature/search
+745480fea44d87cca8d67e4292980dd0a9a2ba69 19de035fd82ca26ae87d2548ed74c9a1988ef4b5 yaiki877 <yuka.aiki@banana-877.com> 1650539626 +0900	commit: 認証ができるようになった
+19de035fd82ca26ae87d2548ed74c9a1988ef4b5 c246a9a999656e9b3969cdb620e6503f7234fd2e yaiki877 <yuka.aiki@banana-877.com> 1650539996 +0900	checkout: moving from Aiki/feature/search to aiki/feature/login
+c246a9a999656e9b3969cdb620e6503f7234fd2e d7d772e3869c4602f7dfd4012eda74e5ff56b70b yaiki877 <yuka.aiki@banana-877.com> 1650540224 +0900	commit (cherry-pick): 最初のログインを撤廃
+d7d772e3869c4602f7dfd4012eda74e5ff56b70b bc226884fae52e4ea0c0755866b87e5747c0286f yaiki877 <yuka.aiki@banana-877.com> 1650540282 +0900	commit (cherry-pick): 認証ができるようになった
+bc226884fae52e4ea0c0755866b87e5747c0286f 6b78061a7340b2c26dfb61cf8014a53e911a7155 yaiki877 <yuka.aiki@banana-877.com> 1650541495 +0900	commit: テスト修正中
+6b78061a7340b2c26dfb61cf8014a53e911a7155 19de035fd82ca26ae87d2548ed74c9a1988ef4b5 yaiki877 <yuka.aiki@banana-877.com> 1650541501 +0900	checkout: moving from aiki/feature/login to aiki/feature/search
+19de035fd82ca26ae87d2548ed74c9a1988ef4b5 8e18ef5605f46bc1dfb792663002f7ee7d87af92 yaiki877 <yuka.aiki@banana-877.com> 1650547129 +0900	commit: 検索できるようにはなった
+8e18ef5605f46bc1dfb792663002f7ee7d87af92 4f68ed7f095b73d95ce458d6afcf72ada96dcf22 yaiki877 <yuka.aiki@banana-877.com> 1650551842 +0900	commit: プルダウンに直打ちの市区町村入った
+4f68ed7f095b73d95ce458d6afcf72ada96dcf22 19cc07098981fa0a5b2216b0cb83c6d209d5df12 yaiki877 <yuka.aiki@banana-877.com> 1650552952 +0900	commit: コントローラーに記載の配列がプルダウンに表示される
+19cc07098981fa0a5b2216b0cb83c6d209d5df12 df476cc5783346f57155e9c9c77edb0adf208523 yaiki877 <yuka.aiki@banana-877.com> 1650554009 +0900	commit: jsonのなかみ全部表示した
+df476cc5783346f57155e9c9c77edb0adf208523 bc9c17c915ff3094f1fe2627e8cd7809c319b4e7 yaiki877 <yuka.aiki@banana-877.com> 1650558181 +0900	commit: 市区町村プルダウンAPI連携完了
+bc9c17c915ff3094f1fe2627e8cd7809c319b4e7 6b78061a7340b2c26dfb61cf8014a53e911a7155 yaiki877 <yuka.aiki@banana-877.com> 1650589959 +0900	checkout: moving from aiki/feature/search to Aiki/feature/login
+6b78061a7340b2c26dfb61cf8014a53e911a7155 76b53cedcedb9e05597fa6218480f74d4ea626da yaiki877 <yuka.aiki@banana-877.com> 1650591060 +0900	commit: アカウントコントローラー復元
+76b53cedcedb9e05597fa6218480f74d4ea626da f15d76dbce2591eabefa08f71813d2dfe8496aa5 yaiki877 <yuka.aiki@banana-877.com> 1650591071 +0900	checkout: moving from Aiki/feature/login to Aiki/feature/register
+f15d76dbce2591eabefa08f71813d2dfe8496aa5 76b53cedcedb9e05597fa6218480f74d4ea626da yaiki877 <yuka.aiki@banana-877.com> 1650591083 +0900	checkout: moving from Aiki/feature/register to Aiki/feature/login
+76b53cedcedb9e05597fa6218480f74d4ea626da f744b03bd5c777aa8a95a9b79ec6e202ad025fa5 yaiki877 <yuka.aiki@banana-877.com> 1650591102 +0900	commit: アカウントコントローラー完全復元
+f744b03bd5c777aa8a95a9b79ec6e202ad025fa5 1be36c504ff68db31361da16af6e9a4a7a6a69de yaiki877 <yuka.aiki@banana-877.com> 1650591545 +0900	commit: Hash部分復元
+1be36c504ff68db31361da16af6e9a4a7a6a69de eaa47c7be2f50969c8fa8cf6c52844943e7ccc69 yaiki877 <yuka.aiki@banana-877.com> 1650592135 +0900	commit: インデント、パスワードのメッセージ文修正
+eaa47c7be2f50969c8fa8cf6c52844943e7ccc69 bee01ca186442b290bd7adb4f6eda2bda4e61e8d yaiki877 <yuka.aiki@banana-877.com> 1650592270 +0900	commit: web.phpの整理
+bee01ca186442b290bd7adb4f6eda2bda4e61e8d b68fa9d820d3201682f8a1510a5fb8e79abc9aa5 yaiki877 <yuka.aiki@banana-877.com> 1650595520 +0900	commit: テストを通した
+b68fa9d820d3201682f8a1510a5fb8e79abc9aa5 9a49b4cbc179725a59c8426639766675a481ffcf yaiki877 <yuka.aiki@banana-877.com> 1650596399 +0900	commit: 表示のjsが消えていたので復元
+9a49b4cbc179725a59c8426639766675a481ffcf f3da94abb282c433d7c5424573f7f52b48d1d477 yaiki877 <yuka.aiki@banana-877.com> 1650596851 +0900	commit: envのテスト環境の再設定
+f3da94abb282c433d7c5424573f7f52b48d1d477 8aa81c71e7b0647e78d87bfcd3eaf626d4b9d7a9 yaiki877 <yuka.aiki@banana-877.com> 1650597196 +0900	commit: レビュー用
+8aa81c71e7b0647e78d87bfcd3eaf626d4b9d7a9 45b03ceb186a2f9f8fb2eb810af3cfda69503796 yaiki877 <yuka.aiki@banana-877.com> 1650598272 +0900	commit: gitignore更新
+45b03ceb186a2f9f8fb2eb810af3cfda69503796 7eccda593806318e5b80bf0318db922e95f52459 yaiki877 <yuka.aiki@banana-877.com> 1650598412 +0900	commit: gitignore更新
+7eccda593806318e5b80bf0318db922e95f52459 eed560d944916f03a2c02c52d0067521f28ce00c yaiki877 <yuka.aiki@banana-877.com> 1650598454 +0900	commit: gitignore更新
+eed560d944916f03a2c02c52d0067521f28ce00c eed560d944916f03a2c02c52d0067521f28ce00c yaiki877 <yuka.aiki@banana-877.com> 1650599945 +0900	checkout: moving from Aiki/feature/login to aiki/feature/login
+eed560d944916f03a2c02c52d0067521f28ce00c 75fa66cd71b87c4f09296637daa44c2693e966ea yaiki877 <yuka.aiki@banana-877.com> 1650600368 +0900	checkout: moving from aiki/feature/login to main
+75fa66cd71b87c4f09296637daa44c2693e966ea 42349e421cf9f5231642577fafeb59d60c6331cc yaiki877 <yuka.aiki@banana-877.com> 1650600420 +0900	checkout: moving from main to aiki/feature/login
+42349e421cf9f5231642577fafeb59d60c6331cc bc9c17c915ff3094f1fe2627e8cd7809c319b4e7 yaiki877 <yuka.aiki@banana-877.com> 1650601174 +0900	checkout: moving from aiki/feature/login to aiki/feature/search
+bc9c17c915ff3094f1fe2627e8cd7809c319b4e7 42349e421cf9f5231642577fafeb59d60c6331cc yaiki877 <yuka.aiki@banana-877.com> 1650601261 +0900	checkout: moving from aiki/feature/search to aiki/feature/login
+42349e421cf9f5231642577fafeb59d60c6331cc f15d76dbce2591eabefa08f71813d2dfe8496aa5 yaiki877 <yuka.aiki@banana-877.com> 1650602779 +0900	checkout: moving from aiki/feature/login to aiki/feature/register
+f15d76dbce2591eabefa08f71813d2dfe8496aa5 42349e421cf9f5231642577fafeb59d60c6331cc yaiki877 <yuka.aiki@banana-877.com> 1650603048 +0900	checkout: moving from aiki/feature/register to aiki/feature/login
+42349e421cf9f5231642577fafeb59d60c6331cc 5561c466f2283c90dd99d49a971736550699f38d yaiki877 <yuka.aiki@banana-877.com> 1650603067 +0900	revert: Revert "表示のjsが消えていたので復元"
+5561c466f2283c90dd99d49a971736550699f38d d199c0914a80dd1d8a5df04caa7a5b61c82eb249 yaiki877 <yuka.aiki@banana-877.com> 1650603481 +0900	commit: 余計な変更を修正
+d199c0914a80dd1d8a5df04caa7a5b61c82eb249 8f052feb07647579a9d3243becb908fb3ce5143b yaiki877 <yuka.aiki@banana-877.com> 1650603682 +0900	commit: navigation余計な修正加わったものを削除
+8f052feb07647579a9d3243becb908fb3ce5143b e3cdeeaed24e453ef6352a4220ed87a8e73fe5c0 yaiki877 <yuka.aiki@banana-877.com> 1650603840 +0900	commit: navigationのアクセスを削除
+e3cdeeaed24e453ef6352a4220ed87a8e73fe5c0 f15d76dbce2591eabefa08f71813d2dfe8496aa5 yaiki877 <yuka.aiki@banana-877.com> 1650603880 +0900	checkout: moving from aiki/feature/login to aiki/feature/register
+f15d76dbce2591eabefa08f71813d2dfe8496aa5 bdb81226a74b9aaa7518f28dd5fb7b603dba77ba yaiki877 <yuka.aiki@banana-877.com> 1650604343 +0900	commit: navigation関連の変更
+bdb81226a74b9aaa7518f28dd5fb7b603dba77ba fa449089f8a33cfe50a6801b0c91fa98d6c02672 yaiki877 <yuka.aiki@banana-877.com> 1650604590 +0900	commit (cherry-pick): 最初のログインを撤廃
+fa449089f8a33cfe50a6801b0c91fa98d6c02672 2c82b8862b5d5c5b5a1201f0d66bb48910ed0e3c yaiki877 <yuka.aiki@banana-877.com> 1650604603 +0900	commit: cherrypick
+2c82b8862b5d5c5b5a1201f0d66bb48910ed0e3c bc9ab5aac44793016b184323ffea77aeeaabdf3f yaiki877 <yuka.aiki@banana-877.com> 1650604719 +0900	commit (cherry-pick): 認証ができるようになった
+bc9ab5aac44793016b184323ffea77aeeaabdf3f b95ad68d31f58506e9322ce56e478882e7a0fdc5 yaiki877 <yuka.aiki@banana-877.com> 1650606547 +0900	commit: 登録後の認証とれた
+b95ad68d31f58506e9322ce56e478882e7a0fdc5 c34e5d4ed5f16846abaad489ab33527fc35af812 yaiki877 <yuka.aiki@banana-877.com> 1650608151 +0900	commit: テストケースの修正
+c34e5d4ed5f16846abaad489ab33527fc35af812 2fbbe421f22f1b7731a62fa324adc4a989db25da yaiki877 <yuka.aiki@banana-877.com> 1650608262 +0900	commit: 余分なルート削除
+2fbbe421f22f1b7731a62fa324adc4a989db25da 6da865f171bdbb7ae889fda723960bf11d136dc2 yaiki877 <yuka.aiki@banana-877.com> 1650608298 +0900	commit: テスト修正
+6da865f171bdbb7ae889fda723960bf11d136dc2 bc9c17c915ff3094f1fe2627e8cd7809c319b4e7 yaiki877 <yuka.aiki@banana-877.com> 1650608500 +0900	checkout: moving from aiki/feature/register to aiki/feature/search
+bc9c17c915ff3094f1fe2627e8cd7809c319b4e7 e3cdeeaed24e453ef6352a4220ed87a8e73fe5c0 yaiki877 <yuka.aiki@banana-877.com> 1650608568 +0900	checkout: moving from aiki/feature/search to aiki/feature/login
+e3cdeeaed24e453ef6352a4220ed87a8e73fe5c0 6da865f171bdbb7ae889fda723960bf11d136dc2 yaiki877 <yuka.aiki@banana-877.com> 1650608572 +0900	checkout: moving from aiki/feature/login to aiki/feature/register
+6da865f171bdbb7ae889fda723960bf11d136dc2 bc9c17c915ff3094f1fe2627e8cd7809c319b4e7 yaiki877 <yuka.aiki@banana-877.com> 1650608589 +0900	checkout: moving from aiki/feature/register to aiki/feature/search
+bc9c17c915ff3094f1fe2627e8cd7809c319b4e7 865b49d07e0b003d13ecd1a087a7b80cef308ff0 yaiki877 <yuka.aiki@banana-877.com> 1650608978 +0900	commit: Auth作り直し
+865b49d07e0b003d13ecd1a087a7b80cef308ff0 6da865f171bdbb7ae889fda723960bf11d136dc2 yaiki877 <yuka.aiki@banana-877.com> 1650608988 +0900	checkout: moving from aiki/feature/search to aiki/feature/register
+6da865f171bdbb7ae889fda723960bf11d136dc2 865b49d07e0b003d13ecd1a087a7b80cef308ff0 yaiki877 <yuka.aiki@banana-877.com> 1650609011 +0900	checkout: moving from aiki/feature/register to aiki/feature/search
+865b49d07e0b003d13ecd1a087a7b80cef308ff0 6da865f171bdbb7ae889fda723960bf11d136dc2 yaiki877 <yuka.aiki@banana-877.com> 1650609027 +0900	checkout: moving from aiki/feature/search to aiki/feature/register
+6da865f171bdbb7ae889fda723960bf11d136dc2 865b49d07e0b003d13ecd1a087a7b80cef308ff0 yaiki877 <yuka.aiki@banana-877.com> 1650609041 +0900	checkout: moving from aiki/feature/register to aiki/feature/search
+865b49d07e0b003d13ecd1a087a7b80cef308ff0 323a00460d96a043f1010bcc442b578969584f20 yaiki877 <yuka.aiki@banana-877.com> 1650609089 +0900	commit: headerauth作り直し
+323a00460d96a043f1010bcc442b578969584f20 6da865f171bdbb7ae889fda723960bf11d136dc2 yaiki877 <yuka.aiki@banana-877.com> 1650609094 +0900	checkout: moving from aiki/feature/search to aiki/feature/register
+6da865f171bdbb7ae889fda723960bf11d136dc2 323a00460d96a043f1010bcc442b578969584f20 yaiki877 <yuka.aiki@banana-877.com> 1650609119 +0900	checkout: moving from aiki/feature/register to aiki/feature/search
+323a00460d96a043f1010bcc442b578969584f20 26fa234b2291d8bd3c265a388af78b49d0848c73 yaiki877 <yuka.aiki@banana-877.com> 1650609204 +0900	commit: ヘッダーなおった
+26fa234b2291d8bd3c265a388af78b49d0848c73 e2225b9e9278308dc4a8fbf2101b6a4c1cdd091d yaiki877 <yuka.aiki@banana-877.com> 1650616042 +0900	commit: ゆうかい
+e2225b9e9278308dc4a8fbf2101b6a4c1cdd091d 6da865f171bdbb7ae889fda723960bf11d136dc2 yaiki877 <yuka.aiki@banana-877.com> 1650616046 +0900	checkout: moving from aiki/feature/search to aiki/feature/register
+6da865f171bdbb7ae889fda723960bf11d136dc2 d505b8eff458fafdbd3cc4c4f50879c6f7f0922f yaiki877 <yuka.aiki@banana-877.com> 1650626252 +0900	commit: テストデータ修正、余分なAuthentivcateを削除
+d505b8eff458fafdbd3cc4c4f50879c6f7f0922f 8ef271df1885ad2d9dbe8643535dd0109eda3386 yaiki877 <yuka.aiki@banana-877.com> 1650626564 +0900	pull --rebase origin aiki/feature/register (start): checkout 8ef271df1885ad2d9dbe8643535dd0109eda3386
+8ef271df1885ad2d9dbe8643535dd0109eda3386 a85cd19415ac8afcc245633f5c688f1a29698243 yaiki877 <yuka.aiki@banana-877.com> 1650626564 +0900	pull --rebase origin aiki/feature/register (pick): navigation関連の変更
+a85cd19415ac8afcc245633f5c688f1a29698243 71fa807c5d80e9c5a13d35e22789e478ca0fdd66 yaiki877 <yuka.aiki@banana-877.com> 1650626564 +0900	pull --rebase origin aiki/feature/register (pick): 最初のログインを撤廃
+71fa807c5d80e9c5a13d35e22789e478ca0fdd66 ec92188ec695dbc4ead14485dc5d7d927ad9c363 yaiki877 <yuka.aiki@banana-877.com> 1650626564 +0900	pull --rebase origin aiki/feature/register (pick): cherrypick
+ec92188ec695dbc4ead14485dc5d7d927ad9c363 02a10ae1ce5ab9fc99e9550a28039ace2abc3f4b yaiki877 <yuka.aiki@banana-877.com> 1650626565 +0900	pull --rebase origin aiki/feature/register (pick): 認証ができるようになった
+02a10ae1ce5ab9fc99e9550a28039ace2abc3f4b dab0a6d986b8ce7ad16e0b7a95c3c7caeec0bf43 yaiki877 <yuka.aiki@banana-877.com> 1650626565 +0900	pull --rebase origin aiki/feature/register (pick): 登録後の認証とれた
+dab0a6d986b8ce7ad16e0b7a95c3c7caeec0bf43 5e375d62c6283c937f74a36a248378c7a0bfa510 yaiki877 <yuka.aiki@banana-877.com> 1650626565 +0900	pull --rebase origin aiki/feature/register (pick): テストケースの修正
+5e375d62c6283c937f74a36a248378c7a0bfa510 1de0707c5cc4e2b9d4a4ba88e229f41ef89301bd yaiki877 <yuka.aiki@banana-877.com> 1650626565 +0900	pull --rebase origin aiki/feature/register (pick): 余分なルート削除
+1de0707c5cc4e2b9d4a4ba88e229f41ef89301bd b4534f99420b1f4abc0b9657096033322d2ca838 yaiki877 <yuka.aiki@banana-877.com> 1650626565 +0900	pull --rebase origin aiki/feature/register (pick): テスト修正
+b4534f99420b1f4abc0b9657096033322d2ca838 f687309e4f730662b7f20b39fec6811d141dc664 yaiki877 <yuka.aiki@banana-877.com> 1650626565 +0900	pull --rebase origin aiki/feature/register (pick): テストデータ修正、余分なAuthentivcateを削除
+f687309e4f730662b7f20b39fec6811d141dc664 f687309e4f730662b7f20b39fec6811d141dc664 yaiki877 <yuka.aiki@banana-877.com> 1650626565 +0900	pull --rebase origin aiki/feature/register (finish): returning to refs/heads/aiki/feature/register
+f687309e4f730662b7f20b39fec6811d141dc664 690774db1d21eb367c3e46a3ba5de0d3f96159a8 yaiki877 <yuka.aiki@banana-877.com> 1650627384 +0900	commit: 余計なコミットをさくじょ
+690774db1d21eb367c3e46a3ba5de0d3f96159a8 2a1ac934f508bbc5b0661acfd9b8150b5a955c3a yaiki877 <yuka.aiki@banana-877.com> 1650627443 +0900	commit: 余計なコミットを削除
+2a1ac934f508bbc5b0661acfd9b8150b5a955c3a e3cdeeaed24e453ef6352a4220ed87a8e73fe5c0 yaiki877 <yuka.aiki@banana-877.com> 1650627504 +0900	checkout: moving from aiki/feature/register to aiki/feature/login
+e3cdeeaed24e453ef6352a4220ed87a8e73fe5c0 0b1b2855d0f8a37681ee5f5cbf9086c5c97c835d yaiki877 <yuka.aiki@banana-877.com> 1650627525 +0900	commit: 余計な空白削除
+0b1b2855d0f8a37681ee5f5cbf9086c5c97c835d e2225b9e9278308dc4a8fbf2101b6a4c1cdd091d yaiki877 <yuka.aiki@banana-877.com> 1650691428 +0900	checkout: moving from aiki/feature/login to aiki/feature/search
+e2225b9e9278308dc4a8fbf2101b6a4c1cdd091d e703c9f8dd45d1640522304599f9666ba44652d7 yaiki877 <yuka.aiki@banana-877.com> 1650716263 +0900	commit: 複数のチェックボックスの値を取得できるようになった
+e703c9f8dd45d1640522304599f9666ba44652d7 0785374bd1cc2911958d0a83499a4a44918215a4 yaiki877 <yuka.aiki@banana-877.com> 1650716279 +0900	commit: すべてのチェックボックスの値を取得できるようになった
+0785374bd1cc2911958d0a83499a4a44918215a4 d75591af454d5c2128e2db595f8df6b981d09a1c yaiki877 <yuka.aiki@banana-877.com> 1650716644 +0900	commit: 検索クエリがない場合の条件にジャンルを追加
+d75591af454d5c2128e2db595f8df6b981d09a1c 9b7d0964ea70214551137e0e7a8cfb4e1f9d8864 yaiki877 <yuka.aiki@banana-877.com> 1650723470 +0900	commit: きちんと検索ができるようになった
+9b7d0964ea70214551137e0e7a8cfb4e1f9d8864 10ecce1366c16c036dca88ede24ffdf9353c2459 yaiki877 <yuka.aiki@banana-877.com> 1650723673 +0900	commit: headerがおかしかったので修正
+10ecce1366c16c036dca88ede24ffdf9353c2459 2655213695af74339a91e696b2c6cceefb16fd64 yaiki877 <yuka.aiki@banana-877.com> 1650776920 +0900	commit: 値段を正しく表示
+2655213695af74339a91e696b2c6cceefb16fd64 2f57b208153cb4103896cbc604c8ce5f4aa4865b yaiki877 <yuka.aiki@banana-877.com> 1650777545 +0900	commit: 値段グレー部分実装
+2f57b208153cb4103896cbc604c8ce5f4aa4865b 8cfa53d10a5d8c5c926c528def514a7bff4c847c yaiki877 <yuka.aiki@banana-877.com> 1650808071 +0900	commit: 認証されていない場合のヘッダーを修正
+8cfa53d10a5d8c5c926c528def514a7bff4c847c a33164d4295804dd143ac21d44613ef678c5de36 yaiki877 <yuka.aiki@banana-877.com> 1650808101 +0900	commit: インデント修正
+a33164d4295804dd143ac21d44613ef678c5de36 d9336b3c387d3aaaa6d2d0b98baa785930d86de2 yaiki877 <yuka.aiki@banana-877.com> 1650810698 +0900	commit: テストデータ作成
+d9336b3c387d3aaaa6d2d0b98baa785930d86de2 c6c4543b9fc1627cb4896aab2a12acdbefe57de7 yaiki877 <yuka.aiki@banana-877.com> 1650855625 +0900	commit: seederの環境設定
+c6c4543b9fc1627cb4896aab2a12acdbefe57de7 c6c4543b9fc1627cb4896aab2a12acdbefe57de7 yaiki877 <yuka.aiki@banana-877.com> 1650858552 +0900	checkout: moving from aiki/feature/search to makeReservation
+c6c4543b9fc1627cb4896aab2a12acdbefe57de7 c6c4543b9fc1627cb4896aab2a12acdbefe57de7 yaiki877 <yuka.aiki@banana-877.com> 1650859195 +0900	checkout: moving from makeReservation to aiki/feature/search
+c6c4543b9fc1627cb4896aab2a12acdbefe57de7 d9336b3c387d3aaaa6d2d0b98baa785930d86de2 yaiki877 <yuka.aiki@banana-877.com> 1650859517 +0900	checkout: moving from aiki/feature/search to d9336b3c387d3aaaa6d2d0b98baa785930d86de2
+d9336b3c387d3aaaa6d2d0b98baa785930d86de2 a33164d4295804dd143ac21d44613ef678c5de36 yaiki877 <yuka.aiki@banana-877.com> 1650859550 +0900	checkout: moving from d9336b3c387d3aaaa6d2d0b98baa785930d86de2 to a33164d4295804dd143ac21d44613ef678c5de36
+a33164d4295804dd143ac21d44613ef678c5de36 8cfa53d10a5d8c5c926c528def514a7bff4c847c yaiki877 <yuka.aiki@banana-877.com> 1650859592 +0900	checkout: moving from a33164d4295804dd143ac21d44613ef678c5de36 to 8cfa53d10a5d8c5c926c528def514a7bff4c847c
+8cfa53d10a5d8c5c926c528def514a7bff4c847c cdd208d9905618fc6ec6c5f72942cfbbed1f87d4 yaiki877 <yuka.aiki@banana-877.com> 1650860120 +0900	commit: web.phpの修正
+cdd208d9905618fc6ec6c5f72942cfbbed1f87d4 aca59a9223cf29fdb5b2f81bfff4e73727e25149 yaiki877 <yuka.aiki@banana-877.com> 1650860415 +0900	commit (cherry-pick): seeder再作成
+aca59a9223cf29fdb5b2f81bfff4e73727e25149 aca59a9223cf29fdb5b2f81bfff4e73727e25149 yaiki877 <yuka.aiki@banana-877.com> 1650861126 +0900	checkout: moving from aca59a9223cf29fdb5b2f81bfff4e73727e25149 to aiki/feature/create_reservation
+aca59a9223cf29fdb5b2f81bfff4e73727e25149 7adbe2725fecf0a7334068d792f66b6b8ea0355a yaiki877 <yuka.aiki@banana-877.com> 1650866935 +0900	commit: 人数、日時を運べるようになった
+7adbe2725fecf0a7334068d792f66b6b8ea0355a 224a6699dec3f4ccc4288ade70c32b335eb4d1f3 yaiki877 <yuka.aiki@banana-877.com> 1650871273 +0900	commit: 予約日時、人数作成
+224a6699dec3f4ccc4288ade70c32b335eb4d1f3 2a0e367038324bff176509e44e2a0caf066fe9e8 yaiki877 <yuka.aiki@banana-877.com> 1650876964 +0900	commit: 画面の配置調整
+2a0e367038324bff176509e44e2a0caf066fe9e8 568e09e2501ddb9421a1650428f7993280529ac2 yaiki877 <yuka.aiki@banana-877.com> 1650881537 +0900	commit: 編集ボタンと非活性部分実装
+568e09e2501ddb9421a1650428f7993280529ac2 a8e015ab70dac922fecbec3c210aa5f883872b10 yaiki877 <yuka.aiki@banana-877.com> 1650892773 +0900	commit: 予約フォームに検索キーワードがすべて入った
+a8e015ab70dac922fecbec3c210aa5f883872b10 010ace7be6a329b4be3e1e59aafcf6cd62816c2d yaiki877 <yuka.aiki@banana-877.com> 1650893223 +0900	commit: 予約フォームデフォルト値完成
+010ace7be6a329b4be3e1e59aafcf6cd62816c2d 2f900fe092c3a3d8cafcc11e274ff3bd90154049 yaiki877 <yuka.aiki@banana-877.com> 1650893402 +0900	commit: ResultLabelの引数を変更
+2f900fe092c3a3d8cafcc11e274ff3bd90154049 b92d3b02ca6d0133eb9df4670cdaf4ebfbca8b43 yaiki877 <yuka.aiki@banana-877.com> 1650893445 +0900	commit: ラベル名修正
+b92d3b02ca6d0133eb9df4670cdaf4ebfbca8b43 25646f5904db75972f9f0af6b1f3d626549a578f yaiki877 <yuka.aiki@banana-877.com> 1650894077 +0900	commit: 非活性を活性にするボタンの作成
+25646f5904db75972f9f0af6b1f3d626549a578f 783d842decda90297a37dfebbd1418860582726a yaiki877 <yuka.aiki@banana-877.com> 1650895061 +0900	commit: Requestの作成
+783d842decda90297a37dfebbd1418860582726a c6c4543b9fc1627cb4896aab2a12acdbefe57de7 yaiki877 <yuka.aiki@banana-877.com> 1650928359 +0900	checkout: moving from aiki/feature/create_reservation to aiki/feature/search
+c6c4543b9fc1627cb4896aab2a12acdbefe57de7 bc448a04f03ae9d4d755c2ad5c89b6f5770f026f yaiki877 <yuka.aiki@banana-877.com> 1650928908 +0900	commit: envtesting導入
+bc448a04f03ae9d4d755c2ad5c89b6f5770f026f 9918fdc14045924ac5c6fa2720746e3e3ca0be58 yaiki877 <yuka.aiki@banana-877.com> 1650929920 +0900	commit: envtesting再設定
+9918fdc14045924ac5c6fa2720746e3e3ca0be58 f80cdde3a121f7c913798f97e146921a955a5176 yaiki877 <yuka.aiki@banana-877.com> 1650933019 +0900	commit: 検索結果に北海道が含まれているテスト：OK
+f80cdde3a121f7c913798f97e146921a955a5176 0201b38008f486d6a309c49ada368930ccbe8e40 yaiki877 <yuka.aiki@banana-877.com> 1650933677 +0900	commit: 北海道のデータ一致はできた
+0201b38008f486d6a309c49ada368930ccbe8e40 fd7f795bc5dea8f91de270ac7c92dcf87aec47c1 yaiki877 <yuka.aiki@banana-877.com> 1650941627 +0900	commit: テストデータ
+fd7f795bc5dea8f91de270ac7c92dcf87aec47c1 783d842decda90297a37dfebbd1418860582726a yaiki877 <yuka.aiki@banana-877.com> 1650941679 +0900	checkout: moving from aiki/feature/search to aiki/feature/create_reservation
+783d842decda90297a37dfebbd1418860582726a 86a9be3756839e447ebe580216e4c99f879c4eb2 yaiki877 <yuka.aiki@banana-877.com> 1650942394 +0900	commit: モーダルのコンポーネント作成
+86a9be3756839e447ebe580216e4c99f879c4eb2 fd7f795bc5dea8f91de270ac7c92dcf87aec47c1 yaiki877 <yuka.aiki@banana-877.com> 1650942411 +0900	checkout: moving from aiki/feature/create_reservation to aiki/feature/search
+fd7f795bc5dea8f91de270ac7c92dcf87aec47c1 edc3e4b3bddd624a3adb8d27280beb950e4fab72 yaiki877 <yuka.aiki@banana-877.com> 1650942978 +0900	commit: 正しく抽出できた
+edc3e4b3bddd624a3adb8d27280beb950e4fab72 c78cc71b7ca4533fa64614b4c5e176431f57c1f1 yaiki877 <yuka.aiki@banana-877.com> 1650947195 +0900	commit: case3実装
+c78cc71b7ca4533fa64614b4c5e176431f57c1f1 866d86e5379bacb3e615377e2dadd6edb1e2c37e yaiki877 <yuka.aiki@banana-877.com> 1650950392 +0900	commit: search.loginの再設定
+866d86e5379bacb3e615377e2dadd6edb1e2c37e f222ea11525f396d962d89084589ddd71501c23f yaiki877 <yuka.aiki@banana-877.com> 1650950404 +0900	commit: search.login
+f222ea11525f396d962d89084589ddd71501c23f 33a7a08ac0eeec0bdfb117f7f479077a41376c78 yaiki877 <yuka.aiki@banana-877.com> 1650951620 +0900	commit: APIのテスト追加
+33a7a08ac0eeec0bdfb117f7f479077a41376c78 6b21f99b20cf6256c8059a1300a98be518fb8555 yaiki877 <yuka.aiki@banana-877.com> 1650951634 +0900	commit: APIのテスト追加
+6b21f99b20cf6256c8059a1300a98be518fb8555 6a1fa388594fb7f554fb70f512b0019eb956d956 yaiki877 <yuka.aiki@banana-877.com> 1650951655 +0900	commit: Route修正
+6a1fa388594fb7f554fb70f512b0019eb956d956 f57469914274518d333625d56a620ed6e8e42e0d yaiki877 <yuka.aiki@banana-877.com> 1650952472 +0900	commit: SearvhTest完了
+f57469914274518d333625d56a620ed6e8e42e0d 102f0cb8ce2eaaca2d4bc5979f4a5b0fc850dfdd yaiki877 <yuka.aiki@banana-877.com> 1650955523 +0900	commit: APIのテスト完了
+102f0cb8ce2eaaca2d4bc5979f4a5b0fc850dfdd 48ef1369305d99ae391e3d9f4698cad67b417ef0 yaiki877 <yuka.aiki@banana-877.com> 1650955687 +0900	commit: 不必要のファイルを削除
+48ef1369305d99ae391e3d9f4698cad67b417ef0 b0a0017d1ce657a9edbdf510eacc6445530ed3d9 yaiki877 <yuka.aiki@banana-877.com> 1650955726 +0900	commit: コメント追記
+b0a0017d1ce657a9edbdf510eacc6445530ed3d9 b5b4091175614c720da419b7d79dc4475ecc06d0 yaiki877 <yuka.aiki@banana-877.com> 1650955853 +0900	commit: 余計なブランク削除
+b5b4091175614c720da419b7d79dc4475ecc06d0 d945bde7031bfafd1e91dbebeb3e69fa00eebf9f yaiki877 <yuka.aiki@banana-877.com> 1650956674 +0900	commit: 余計なファイル削除
+d945bde7031bfafd1e91dbebeb3e69fa00eebf9f 2ed6e0a87e628948f28556d93f9519b88265e365 yaiki877 <yuka.aiki@banana-877.com> 1650957355 +0900	commit: dashboardを非表示にした
+2ed6e0a87e628948f28556d93f9519b88265e365 8efc2bdeb0c1d87b551df62540e037573ccb219d yaiki877 <yuka.aiki@banana-877.com> 1650957384 +0900	commit: 余分なルート削除
+8efc2bdeb0c1d87b551df62540e037573ccb219d 4a7231e912abb0cc07d2d6330abd97b3baa87bde yaiki877 <yuka.aiki@banana-877.com> 1650957584 +0900	commit: web.php不要なuse削除
+4a7231e912abb0cc07d2d6330abd97b3baa87bde 5e7e6d201fe6f6c0535161d80b82976f2679af10 yaiki877 <yuka.aiki@banana-877.com> 1650957673 +0900	commit: 余計なController削除
+5e7e6d201fe6f6c0535161d80b82976f2679af10 e2cfa92ceb3818c315166fa556472cbb87937592 yaiki877 <yuka.aiki@banana-877.com> 1650958161 +0900	commit: レビュー用に不必要な機能を削除
+e2cfa92ceb3818c315166fa556472cbb87937592 e44ee29b04f59a23fa621d83d76c3d707cfdaa68 yaiki877 <yuka.aiki@banana-877.com> 1650958239 +0900	commit: レビュー用に不必要なファイルを削除
+e44ee29b04f59a23fa621d83d76c3d707cfdaa68 e3aae9b42cc5d874c03ff35c1a6deb95a2e7664f yaiki877 <yuka.aiki@banana-877.com> 1650958281 +0900	commit: Userのクラス名を戻す
+e3aae9b42cc5d874c03ff35c1a6deb95a2e7664f e9ada43c7efbbf4cd9ff5c441ef9392c00e64f85 yaiki877 <yuka.aiki@banana-877.com> 1650958323 +0900	commit: レビューに不要なため削除
+e9ada43c7efbbf4cd9ff5c441ef9392c00e64f85 5878662b22b301dec927e90b5d02a7930b2589f9 yaiki877 <yuka.aiki@banana-877.com> 1650958590 +0900	commit: use Illuminate\Support\Facades\Logを削除
+5878662b22b301dec927e90b5d02a7930b2589f9 86a9be3756839e447ebe580216e4c99f879c4eb2 yaiki877 <yuka.aiki@banana-877.com> 1650959086 +0900	checkout: moving from aiki/feature/search to aiki/feature/create_reservation
+86a9be3756839e447ebe580216e4c99f879c4eb2 e11205cc5943e30242550e6d48101534522075bd yaiki877 <yuka.aiki@banana-877.com> 1650959345 +0900	commit: route/controllerをsearchの修正に合わせる
+e11205cc5943e30242550e6d48101534522075bd 841be41d414a5a5b1dbadc156387dab2ce920a20 yaiki877 <yuka.aiki@banana-877.com> 1650959408 +0900	commit: searchの修正に合わせる
+841be41d414a5a5b1dbadc156387dab2ce920a20 df6f35874b69c799cef5be54a88be182ad8787aa yaiki877 <yuka.aiki@banana-877.com> 1650959501 +0900	commit: navigation削除
+df6f35874b69c799cef5be54a88be182ad8787aa 1d468e5466570e0952c59fd19561f128a48d9687 yaiki877 <yuka.aiki@banana-877.com> 1650963672 +0900	commit: modal試行錯誤
+1d468e5466570e0952c59fd19561f128a48d9687 14ab728c131b3c0a98723d411de8f28f298aed39 yaiki877 <yuka.aiki@banana-877.com> 1650963680 +0900	commit: modal試行錯誤
+14ab728c131b3c0a98723d411de8f28f298aed39 75fa66cd71b87c4f09296637daa44c2693e966ea yaiki877 <yuka.aiki@banana-877.com> 1650963704 +0900	checkout: moving from aiki/feature/create_reservation to 75fa66cd
+75fa66cd71b87c4f09296637daa44c2693e966ea 14ab728c131b3c0a98723d411de8f28f298aed39 yaiki877 <yuka.aiki@banana-877.com> 1650964083 +0900	checkout: moving from 75fa66cd71b87c4f09296637daa44c2693e966ea to aiki/feature/create_reservation
+14ab728c131b3c0a98723d411de8f28f298aed39 c2d1ebe057826c766adca446c2e9bfa5bf8dcaf1 yaiki877 <yuka.aiki@banana-877.com> 1650965321 +0900	commit: バリデーションが表示された
+c2d1ebe057826c766adca446c2e9bfa5bf8dcaf1 38cd100d7e544cc81cc72b4687834c7411be5958 yaiki877 <yuka.aiki@banana-877.com> 1650966621 +0900	commit: バリデーションの設定
+38cd100d7e544cc81cc72b4687834c7411be5958 1d7bf16f4f56f65f03a7a000c664047059fa7c30 yaiki877 <yuka.aiki@banana-877.com> 1650966673 +0900	commit: エラーメッセージ変更
+1d7bf16f4f56f65f03a7a000c664047059fa7c30 d13f6f29b8d24f804ad9a73a2c956aac537d8ba3 yaiki877 <yuka.aiki@banana-877.com> 1650973791 +0900	commit: modal出現
+d13f6f29b8d24f804ad9a73a2c956aac537d8ba3 1d7bf16f4f56f65f03a7a000c664047059fa7c30 yaiki877 <yuka.aiki@banana-877.com> 1650973809 +0900	checkout: moving from aiki/feature/create_reservation to 1d7bf16f4f56f65f03a7a000c664047059fa7c30
+1d7bf16f4f56f65f03a7a000c664047059fa7c30 d13f6f29b8d24f804ad9a73a2c956aac537d8ba3 yaiki877 <yuka.aiki@banana-877.com> 1650973828 +0900	checkout: moving from 1d7bf16f4f56f65f03a7a000c664047059fa7c30 to aiki/feature/create_reservation
+d13f6f29b8d24f804ad9a73a2c956aac537d8ba3 1d7bf16f4f56f65f03a7a000c664047059fa7c30 yaiki877 <yuka.aiki@banana-877.com> 1650974842 +0900	checkout: moving from aiki/feature/create_reservation to 1d7bf16f4f56f65f03a7a000c664047059fa7c30
+1d7bf16f4f56f65f03a7a000c664047059fa7c30 d13f6f29b8d24f804ad9a73a2c956aac537d8ba3 yaiki877 <yuka.aiki@banana-877.com> 1650974968 +0900	checkout: moving from 1d7bf16f4f56f65f03a7a000c664047059fa7c30 to d13f6f29b8d24f804ad9a73a2c956aac537d8ba3
+d13f6f29b8d24f804ad9a73a2c956aac537d8ba3 e601c88211799eb61a2961546cbb156b3eed76b8 yaiki877 <yuka.aiki@banana-877.com> 1650975867 +0900	commit: CSS一部修正
+e601c88211799eb61a2961546cbb156b3eed76b8 9c25dc2f47d4f8963aa275d09143680909bae3ab yaiki877 <yuka.aiki@banana-877.com> 1650977551 +0900	commit: CSS修正（分離）
+9c25dc2f47d4f8963aa275d09143680909bae3ab 55c18eccb67b1050e455059141e6b4cb37789378 yaiki877 <yuka.aiki@banana-877.com> 1650986502 +0900	commit: CSSを修正（これらの修正は他のブランチも反映すること）
+55c18eccb67b1050e455059141e6b4cb37789378 8ed7113891ef7277088c30f6920f302b65c2a939 yaiki877 <yuka.aiki@banana-877.com> 1650989919 +0900	commit: AccountReservationモデルの作成
+8ed7113891ef7277088c30f6920f302b65c2a939 288e095fda6b7973d8cae2807a0099ac295d8b2e yaiki877 <yuka.aiki@banana-877.com> 1650990183 +0900	commit: TOP画面修正（他のブランチにも反映させる）
+288e095fda6b7973d8cae2807a0099ac295d8b2e 1bc5ea1b80d9652dc5ac8ee684769effe269bafd yaiki877 <yuka.aiki@banana-877.com> 1650991038 +0900	commit: 予約登録の仮準備
+1bc5ea1b80d9652dc5ac8ee684769effe269bafd cb240e60d8d7522b21f9e81e02a849bf0228c862 yaiki877 <yuka.aiki@banana-877.com> 1650991047 +0900	commit: 予約登録の仮準備
+cb240e60d8d7522b21f9e81e02a849bf0228c862 cf657748bda65af52ec9bf4f4ec03ccb79f974fd yaiki877 <yuka.aiki@banana-877.com> 1651022291 +0900	commit: labelの修正（全ブランチに反映させること！）
+cf657748bda65af52ec9bf4f4ec03ccb79f974fd 0b1b2855d0f8a37681ee5f5cbf9086c5c97c835d yaiki877 <yuka.aiki@banana-877.com> 1651022581 +0900	checkout: moving from cf657748bda65af52ec9bf4f4ec03ccb79f974fd to aiki/feature/login
+0b1b2855d0f8a37681ee5f5cbf9086c5c97c835d 38532a5bb52915b7bf42fa7ea58f1c60baae01f9 yaiki877 <yuka.aiki@banana-877.com> 1651022615 +0900	commit: laravel-mixによる自動生成
+38532a5bb52915b7bf42fa7ea58f1c60baae01f9 d13f6f29b8d24f804ad9a73a2c956aac537d8ba3 yaiki877 <yuka.aiki@banana-877.com> 1651022717 +0900	checkout: moving from aiki/feature/login to d13f6f2
+d13f6f29b8d24f804ad9a73a2c956aac537d8ba3 d13f6f29b8d24f804ad9a73a2c956aac537d8ba3 yaiki877 <yuka.aiki@banana-877.com> 1651022757 +0900	checkout: moving from d13f6f29b8d24f804ad9a73a2c956aac537d8ba3 to aiki/feature/create_reservation
+d13f6f29b8d24f804ad9a73a2c956aac537d8ba3 d3ef2ac36083243d5b87c9119be0a9c93af7f502 yaiki877 <yuka.aiki@banana-877.com> 1651022777 +0900	commit: CSS変更
+d3ef2ac36083243d5b87c9119be0a9c93af7f502 d13f6f29b8d24f804ad9a73a2c956aac537d8ba3 yaiki877 <yuka.aiki@banana-877.com> 1651022942 +0900	checkout: moving from aiki/feature/create_reservation to d13f6f29b8d24f804ad9a73a2c956aac537d8ba3
+d13f6f29b8d24f804ad9a73a2c956aac537d8ba3 cf657748bda65af52ec9bf4f4ec03ccb79f974fd yaiki877 <yuka.aiki@banana-877.com> 1651023122 +0900	reset: moving to HEAD@{6}
+cf657748bda65af52ec9bf4f4ec03ccb79f974fd d3ef2ac36083243d5b87c9119be0a9c93af7f502 yaiki877 <yuka.aiki@banana-877.com> 1651023288 +0900	checkout: moving from cf657748bda65af52ec9bf4f4ec03ccb79f974fd to aiki/feature/create_reservation
+d3ef2ac36083243d5b87c9119be0a9c93af7f502 cf657748bda65af52ec9bf4f4ec03ccb79f974fd yaiki877 <yuka.aiki@banana-877.com> 1651023316 +0900	rebase (start): checkout cf657748
+cf657748bda65af52ec9bf4f4ec03ccb79f974fd cf657748bda65af52ec9bf4f4ec03ccb79f974fd yaiki877 <yuka.aiki@banana-877.com> 1651023594 +0900	rebase (continue) (finish): returning to refs/heads/aiki/feature/create_reservation
+cf657748bda65af52ec9bf4f4ec03ccb79f974fd 9de7d3935e5dfde7068638828f3552dbb30e80ed yaiki877 <yuka.aiki@banana-877.com> 1651023754 +0900	commit: ログイン画面のヘッダーを調整
+9de7d3935e5dfde7068638828f3552dbb30e80ed 2a1ac934f508bbc5b0661acfd9b8150b5a955c3a yaiki877 <yuka.aiki@banana-877.com> 1651023788 +0900	checkout: moving from aiki/feature/create_reservation to aiki/feature/register
+2a1ac934f508bbc5b0661acfd9b8150b5a955c3a 704893d9a290e1bba7ce2431bfdc32eeeb95b883 yaiki877 <yuka.aiki@banana-877.com> 1651023824 +0900	commit: laravel-mixによる自動生成
+704893d9a290e1bba7ce2431bfdc32eeeb95b883 58cef87b9e72989981ea9f20bbdc2debc177410c yaiki877 <yuka.aiki@banana-877.com> 1651024052 +0900	commit: CSS修正
+58cef87b9e72989981ea9f20bbdc2debc177410c c1e75b9d8989bc8ef087f4badeef91c91c8be382 yaiki877 <yuka.aiki@banana-877.com> 1651024058 +0900	commit: CSS修正
+c1e75b9d8989bc8ef087f4badeef91c91c8be382 74c8c4400ccf505f1fd818d2081f6bd73f1600a1 yaiki877 <yuka.aiki@banana-877.com> 1651024165 +0900	commit: CSS修正
+74c8c4400ccf505f1fd818d2081f6bd73f1600a1 9de7d3935e5dfde7068638828f3552dbb30e80ed yaiki877 <yuka.aiki@banana-877.com> 1651024259 +0900	checkout: moving from aiki/feature/register to aiki/feature/create_reservation
+9de7d3935e5dfde7068638828f3552dbb30e80ed 74c8c4400ccf505f1fd818d2081f6bd73f1600a1 yaiki877 <yuka.aiki@banana-877.com> 1651024337 +0900	checkout: moving from aiki/feature/create_reservation to aiki/feature/register
+74c8c4400ccf505f1fd818d2081f6bd73f1600a1 049f7d5bf249f991fe21ac02033ff7017207f77d yaiki877 <yuka.aiki@banana-877.com> 1651024463 +0900	commit: CSS修正、ルート修正
+049f7d5bf249f991fe21ac02033ff7017207f77d 38532a5bb52915b7bf42fa7ea58f1c60baae01f9 yaiki877 <yuka.aiki@banana-877.com> 1651024505 +0900	checkout: moving from aiki/feature/register to aiki/feature/login
+38532a5bb52915b7bf42fa7ea58f1c60baae01f9 ba4a6eab76cb2fc1404e7d77327ab0123a403ce0 yaiki877 <yuka.aiki@banana-877.com> 1651024702 +0900	commit: CSS変更
+ba4a6eab76cb2fc1404e7d77327ab0123a403ce0 371f4bd83a8a6582c54c434418fab26aaa45f3f0 yaiki877 <yuka.aiki@banana-877.com> 1651024723 +0900	commit: CSS,WEBphp変更
+371f4bd83a8a6582c54c434418fab26aaa45f3f0 049f7d5bf249f991fe21ac02033ff7017207f77d yaiki877 <yuka.aiki@banana-877.com> 1651024728 +0900	checkout: moving from aiki/feature/login to aiki/feature/register
+049f7d5bf249f991fe21ac02033ff7017207f77d 371f4bd83a8a6582c54c434418fab26aaa45f3f0 yaiki877 <yuka.aiki@banana-877.com> 1651024769 +0900	checkout: moving from aiki/feature/register to aiki/feature/login
+371f4bd83a8a6582c54c434418fab26aaa45f3f0 59923fb824823965eae63e06689adc3ca7094ccb yaiki877 <yuka.aiki@banana-877.com> 1651024838 +0900	commit: レビュー対象外のものを修正
+59923fb824823965eae63e06689adc3ca7094ccb 3bf4a3be5d95955e54e200a8d16184c44478fd94 yaiki877 <yuka.aiki@banana-877.com> 1651025273 +0900	commit: 仮保存
+3bf4a3be5d95955e54e200a8d16184c44478fd94 049f7d5bf249f991fe21ac02033ff7017207f77d yaiki877 <yuka.aiki@banana-877.com> 1651025276 +0900	checkout: moving from aiki/feature/login to aiki/feature/register
+049f7d5bf249f991fe21ac02033ff7017207f77d 3bf4a3be5d95955e54e200a8d16184c44478fd94 yaiki877 <yuka.aiki@banana-877.com> 1651025337 +0900	checkout: moving from aiki/feature/register to aiki/feature/login
+3bf4a3be5d95955e54e200a8d16184c44478fd94 049f7d5bf249f991fe21ac02033ff7017207f77d yaiki877 <yuka.aiki@banana-877.com> 1651025380 +0900	checkout: moving from aiki/feature/login to aiki/feature/register
+049f7d5bf249f991fe21ac02033ff7017207f77d 049f7d5bf249f991fe21ac02033ff7017207f77d yaiki877 <yuka.aiki@banana-877.com> 1651025387 +0900	checkout: moving from aiki/feature/register to aiki/feature/register
+049f7d5bf249f991fe21ac02033ff7017207f77d 3bf4a3be5d95955e54e200a8d16184c44478fd94 yaiki877 <yuka.aiki@banana-877.com> 1651025393 +0900	checkout: moving from aiki/feature/register to aiki/feature/login
+3bf4a3be5d95955e54e200a8d16184c44478fd94 049f7d5bf249f991fe21ac02033ff7017207f77d yaiki877 <yuka.aiki@banana-877.com> 1651025399 +0900	checkout: moving from aiki/feature/login to aiki/feature/register
+049f7d5bf249f991fe21ac02033ff7017207f77d 3bf4a3be5d95955e54e200a8d16184c44478fd94 yaiki877 <yuka.aiki@banana-877.com> 1651025458 +0900	checkout: moving from aiki/feature/register to aiki/feature/login
+3bf4a3be5d95955e54e200a8d16184c44478fd94 642bdcbe460be4efa1bd111200f4032090366a1f yaiki877 <yuka.aiki@banana-877.com> 1651025730 +0900	commit: app.blade修正
+642bdcbe460be4efa1bd111200f4032090366a1f 1dee81f476d143f95bb4ed38a1c3bb94fc275d28 yaiki877 <yuka.aiki@banana-877.com> 1651025764 +0900	commit: 会員登録画面へのアクセスを可能にした
+1dee81f476d143f95bb4ed38a1c3bb94fc275d28 0df23591ac8b9ac6d01775ddfafe187cfd98be41 yaiki877 <yuka.aiki@banana-877.com> 1651025797 +0900	commit: 余計なブランクを削除
+0df23591ac8b9ac6d01775ddfafe187cfd98be41 5878662b22b301dec927e90b5d02a7930b2589f9 yaiki877 <yuka.aiki@banana-877.com> 1651025813 +0900	checkout: moving from aiki/feature/login to aiki/feature/search
+5878662b22b301dec927e90b5d02a7930b2589f9 6c31187809b89d9bd942375e7bd230baa3c0a7e9 yaiki877 <yuka.aiki@banana-877.com> 1651025841 +0900	commit: laravel-mixの導入
+6c31187809b89d9bd942375e7bd230baa3c0a7e9 a60920628772a170f295a0815a8d6cfe6a816cd7 yaiki877 <yuka.aiki@banana-877.com> 1651026248 +0900	commit: CSS修正
+a60920628772a170f295a0815a8d6cfe6a816cd7 9de7d3935e5dfde7068638828f3552dbb30e80ed yaiki877 <yuka.aiki@banana-877.com> 1651026267 +0900	checkout: moving from aiki/feature/search to aiki/feature/create_reservation
+9de7d3935e5dfde7068638828f3552dbb30e80ed a60920628772a170f295a0815a8d6cfe6a816cd7 yaiki877 <yuka.aiki@banana-877.com> 1651026297 +0900	checkout: moving from aiki/feature/create_reservation to aiki/feature/search
+a60920628772a170f295a0815a8d6cfe6a816cd7 9de7d3935e5dfde7068638828f3552dbb30e80ed yaiki877 <yuka.aiki@banana-877.com> 1651026553 +0900	checkout: moving from aiki/feature/search to aiki/feature/create_reservation
+9de7d3935e5dfde7068638828f3552dbb30e80ed 2470dc6f71b6b90843e7c1622d21a8ad3181ba2c yaiki877 <yuka.aiki@banana-877.com> 1651026679 +0900	commit: 引数が消えていたので追加
+2470dc6f71b6b90843e7c1622d21a8ad3181ba2c a60920628772a170f295a0815a8d6cfe6a816cd7 yaiki877 <yuka.aiki@banana-877.com> 1651026688 +0900	checkout: moving from aiki/feature/create_reservation to aiki/feature/search
+a60920628772a170f295a0815a8d6cfe6a816cd7 e5b18143994bd0c731a52c7fb2795cd990c6973e yaiki877 <yuka.aiki@banana-877.com> 1651026736 +0900	commit: return値が消えていたので追加
+e5b18143994bd0c731a52c7fb2795cd990c6973e e46ad27bda4f2959e9f3664a2fab97a9a5470392 yaiki877 <yuka.aiki@banana-877.com> 1651026743 +0900	commit: ルート修正
+e46ad27bda4f2959e9f3664a2fab97a9a5470392 0b3e4cb755c55abd5b40d67e64a7b7ca6f104683 yaiki877 <yuka.aiki@banana-877.com> 1651026893 +0900	commit: CSS修正
+0b3e4cb755c55abd5b40d67e64a7b7ca6f104683 2470dc6f71b6b90843e7c1622d21a8ad3181ba2c yaiki877 <yuka.aiki@banana-877.com> 1651026907 +0900	checkout: moving from aiki/feature/search to aiki/feature/create_reservation
+2470dc6f71b6b90843e7c1622d21a8ad3181ba2c 0b3e4cb755c55abd5b40d67e64a7b7ca6f104683 yaiki877 <yuka.aiki@banana-877.com> 1651027150 +0900	checkout: moving from aiki/feature/create_reservation to aiki/feature/search
+0b3e4cb755c55abd5b40d67e64a7b7ca6f104683 7a8dc7c8624849a74065ce870f264ad495a6f5f5 yaiki877 <yuka.aiki@banana-877.com> 1651027261 +0900	commit: CSS変更
+7a8dc7c8624849a74065ce870f264ad495a6f5f5 2470dc6f71b6b90843e7c1622d21a8ad3181ba2c yaiki877 <yuka.aiki@banana-877.com> 1651027268 +0900	checkout: moving from aiki/feature/search to aiki/feature/create_reservation
+2470dc6f71b6b90843e7c1622d21a8ad3181ba2c 7a8dc7c8624849a74065ce870f264ad495a6f5f5 yaiki877 <yuka.aiki@banana-877.com> 1651027294 +0900	checkout: moving from aiki/feature/create_reservation to aiki/feature/search
+7a8dc7c8624849a74065ce870f264ad495a6f5f5 b10e165be87ac2fa5edb4f03fdd887b9bb6d1384 yaiki877 <yuka.aiki@banana-877.com> 1651027339 +0900	commit: レビュー対象外の部分修正
+b10e165be87ac2fa5edb4f03fdd887b9bb6d1384 6b9ec67f1c1c457fde6782af25d29ad2af5f32c0 yaiki877 <yuka.aiki@banana-877.com> 1651027347 +0900	commit: レビュー対象外の部分修正
+6b9ec67f1c1c457fde6782af25d29ad2af5f32c0 14fd4820fdd593f9f20aa8124aae06cc923c5476 yaiki877 <yuka.aiki@banana-877.com> 1651027948 +0900	commit: CSS修正
+14fd4820fdd593f9f20aa8124aae06cc923c5476 ed1d1d3df7744c0669e90eacce52700d38036c40 yaiki877 <yuka.aiki@banana-877.com> 1651027972 +0900	commit: レビュー対象外部分削除
+ed1d1d3df7744c0669e90eacce52700d38036c40 6d06303b32e443886a2594faf60709833d9b9dcf yaiki877 <yuka.aiki@banana-877.com> 1651028079 +0900	commit: Requestをいれる
+6d06303b32e443886a2594faf60709833d9b9dcf 664a4edcd8cfcc1161a62c5c58f48a08b58e97a8 yaiki877 <yuka.aiki@banana-877.com> 1651028250 +0900	commit: Loginできるように修正
+664a4edcd8cfcc1161a62c5c58f48a08b58e97a8 2470dc6f71b6b90843e7c1622d21a8ad3181ba2c yaiki877 <yuka.aiki@banana-877.com> 1651032883 +0900	checkout: moving from aiki/feature/search to aiki/feature/create_reservation
+2470dc6f71b6b90843e7c1622d21a8ad3181ba2c d9616f35142eb37ccf629b1230f01621c1d8f6b1 yaiki877 <yuka.aiki@banana-877.com> 1651044963 +0900	commit: レストラン名、予約日時がモーダルに入った
+d9616f35142eb37ccf629b1230f01621c1d8f6b1 d9616f35142eb37ccf629b1230f01621c1d8f6b1 yaiki877 <yuka.aiki@banana-877.com> 1651046282 +0900	reset: moving to HEAD
+d9616f35142eb37ccf629b1230f01621c1d8f6b1 8cb7972a441f6ea38aa3829a69bb054c0977bab9 yaiki877 <yuka.aiki@banana-877.com> 1651048486 +0900	commit: バリデーションが出る状態に戻した
+8cb7972a441f6ea38aa3829a69bb054c0977bab9 5ef3fb76984b833a8ba8d40f550583b106ea64e9 yaiki877 <yuka.aiki@banana-877.com> 1651050439 +0900	commit: モーダルが表示された
+5ef3fb76984b833a8ba8d40f550583b106ea64e9 004ab9045d80423ad3b04767c91b72119ea9e0e8 yaiki877 <yuka.aiki@banana-877.com> 1651052691 +0900	commit: 値をすべてモーダルに持っていった
+004ab9045d80423ad3b04767c91b72119ea9e0e8 2dae6866bf69dd2c939d2ae15455dfc67aa02a09 yaiki877 <yuka.aiki@banana-877.com> 1651053674 +0900	commit: 登録部分実装（レストランID、日時未実装）
+2dae6866bf69dd2c939d2ae15455dfc67aa02a09 53e85350b8875f9696bf08077875336b1acfe1c4 yaiki877 <yuka.aiki@banana-877.com> 1651069312 +0900	commit: 登録処理完了（ID類未登録）
+53e85350b8875f9696bf08077875336b1acfe1c4 218af9dcfce364adf0dab90cf2a3af53dfa6f417 yaiki877 <yuka.aiki@banana-877.com> 1651070999 +0900	commit: データの登録完了
+218af9dcfce364adf0dab90cf2a3af53dfa6f417 6b07ab9ace3eb1e15c7c22ec8e45b139efbeff0a yaiki877 <yuka.aiki@banana-877.com> 1651075509 +0900	commit: 閉じるボタン実装
+6b07ab9ace3eb1e15c7c22ec8e45b139efbeff0a f8964e712be90b2bc1da4466d68e966e0dd6e353 yaiki877 <yuka.aiki@banana-877.com> 1651075566 +0900	commit: modalの名前を変更
+f8964e712be90b2bc1da4466d68e966e0dd6e353 6b07ab9ace3eb1e15c7c22ec8e45b139efbeff0a yaiki877 <yuka.aiki@banana-877.com> 1651075601 +0900	rebase (start): checkout f8964e712be90b2bc1da4466d68e966e0dd6e353^
+6b07ab9ace3eb1e15c7c22ec8e45b139efbeff0a 6b07ab9ace3eb1e15c7c22ec8e45b139efbeff0a yaiki877 <yuka.aiki@banana-877.com> 1651075601 +0900	rebase (finish): returning to refs/heads/aiki/feature/create_reservation
+6b07ab9ace3eb1e15c7c22ec8e45b139efbeff0a 66fa8b7e191ff7f92e44a4d28c459d9df09d410f yaiki877 <yuka.aiki@banana-877.com> 1651075972 +0900	commit: 閉じるボタンを2回以上クリックできるようになった
+66fa8b7e191ff7f92e44a4d28c459d9df09d410f afc08b75d99d9d49e3cc370a8852779ea2007baf yaiki877 <yuka.aiki@banana-877.com> 1651076017 +0900	commit: modalのid名変更
+afc08b75d99d9d49e3cc370a8852779ea2007baf 14d05b439cd4591c77e04aed29055b0a1fc20b19 yaiki877 <yuka.aiki@banana-877.com> 1651077830 +0900	commit: 日付の表示形式を変更
+14d05b439cd4591c77e04aed29055b0a1fc20b19 7e2308f8e553960657666b4c9e830b386dfe3f51 yaiki877 <yuka.aiki@banana-877.com> 1651114255 +0900	commit: CSS利いた
+7e2308f8e553960657666b4c9e830b386dfe3f51 4ce65d7db22675e4282a350519aefd7801c2bbb9 yaiki877 <yuka.aiki@banana-877.com> 1651308444 +0900	commit: ボタンの位置変更
+4ce65d7db22675e4282a350519aefd7801c2bbb9 0df23591ac8b9ac6d01775ddfafe187cfd98be41 yaiki877 <yuka.aiki@banana-877.com> 1651308465 +0900	checkout: moving from aiki/feature/create_reservation to aiki/feature/login
+0df23591ac8b9ac6d01775ddfafe187cfd98be41 faafea58b473129f673354443435a761cc09d57a yaiki877 <yuka.aiki@banana-877.com> 1651309203 +0900	commit: format修正
+faafea58b473129f673354443435a761cc09d57a 9166d45119e5b57e66e2a79ad29815e2752002bf yaiki877 <yuka.aiki@banana-877.com> 1651309991 +0900	commit: format全体的に変更
+9166d45119e5b57e66e2a79ad29815e2752002bf 049f7d5bf249f991fe21ac02033ff7017207f77d yaiki877 <yuka.aiki@banana-877.com> 1651310012 +0900	checkout: moving from aiki/feature/login to aiki/feature/register
+049f7d5bf249f991fe21ac02033ff7017207f77d 8f63fcb44ce19172be49e200747efa60bb5efa73 yaiki877 <yuka.aiki@banana-877.com> 1651310469 +0900	commit: format修正
+8f63fcb44ce19172be49e200747efa60bb5efa73 9166d45119e5b57e66e2a79ad29815e2752002bf yaiki877 <yuka.aiki@banana-877.com> 1651310473 +0900	checkout: moving from aiki/feature/register to aiki/feature/login
+9166d45119e5b57e66e2a79ad29815e2752002bf a7a0770a89df236b723d6486b76f92691ec54244 yaiki877 <yuka.aiki@banana-877.com> 1651310518 +0900	commit: フォーマットの修正
+a7a0770a89df236b723d6486b76f92691ec54244 664a4edcd8cfcc1161a62c5c58f48a08b58e97a8 yaiki877 <yuka.aiki@banana-877.com> 1651310526 +0900	checkout: moving from aiki/feature/login to aiki/feature/search
+664a4edcd8cfcc1161a62c5c58f48a08b58e97a8 38c02d9450526119f30125bb915ede0965fd7f04 yaiki877 <yuka.aiki@banana-877.com> 1651310762 +0900	commit: formatの修正
+38c02d9450526119f30125bb915ede0965fd7f04 4ce65d7db22675e4282a350519aefd7801c2bbb9 yaiki877 <yuka.aiki@banana-877.com> 1651310795 +0900	checkout: moving from aiki/feature/search to aiki/feature/create_reservation
+4ce65d7db22675e4282a350519aefd7801c2bbb9 51fbeb6d9d6542c49b0c622d6bae4190422e67f9 yaiki877 <yuka.aiki@banana-877.com> 1651310984 +0900	commit: フォーマットの修正
+51fbeb6d9d6542c49b0c622d6bae4190422e67f9 38c02d9450526119f30125bb915ede0965fd7f04 yaiki877 <yuka.aiki@banana-877.com> 1651310990 +0900	checkout: moving from aiki/feature/create_reservation to aiki/feature/search
+38c02d9450526119f30125bb915ede0965fd7f04 1f9a6ce5b62a3281a929212c5f0601edd1b5ed08 yaiki877 <yuka.aiki@banana-877.com> 1651311035 +0900	commit: css
+1f9a6ce5b62a3281a929212c5f0601edd1b5ed08 38c02d9450526119f30125bb915ede0965fd7f04 yaiki877 <yuka.aiki@banana-877.com> 1651311074 +0900	reset: moving to HEAD^
+38c02d9450526119f30125bb915ede0965fd7f04 8f63fcb44ce19172be49e200747efa60bb5efa73 yaiki877 <yuka.aiki@banana-877.com> 1651311100 +0900	checkout: moving from aiki/feature/search to aiki/feature/register
+8f63fcb44ce19172be49e200747efa60bb5efa73 b7e5c4465d007542c0aeb13f59aebb2593c2de7a yaiki877 <yuka.aiki@banana-877.com> 1651311130 +0900	commit: format修正
+b7e5c4465d007542c0aeb13f59aebb2593c2de7a 51fbeb6d9d6542c49b0c622d6bae4190422e67f9 yaiki877 <yuka.aiki@banana-877.com> 1651311137 +0900	checkout: moving from aiki/feature/register to aiki/feature/create_reservation
+51fbeb6d9d6542c49b0c622d6bae4190422e67f9 f98dc7f8ccf7bcb1cd9f7aa92271b1fd504ca795 yaiki877 <yuka.aiki@banana-877.com> 1651454204 +0900	commit: ジャンルの引き継ぎ不要なため削除
+f98dc7f8ccf7bcb1cd9f7aa92271b1fd504ca795 2baae0e1df9ff205d6bdc3d446813e44519a9835 yaiki877 <yuka.aiki@banana-877.com> 1651456956 +0900	commit: テスト環境作成
+2baae0e1df9ff205d6bdc3d446813e44519a9835 4bbe66c7684424da9c9c98f8387b98f0eb1af468 yaiki877 <yuka.aiki@banana-877.com> 1651459548 +0900	commit: test実行
+4bbe66c7684424da9c9c98f8387b98f0eb1af468 678d8fd654a592674c676105c1580aa0251c950f yaiki877 <yuka.aiki@banana-877.com> 1651798933 +0900	commit: testデータ更新
+678d8fd654a592674c676105c1580aa0251c950f a7a0770a89df236b723d6486b76f92691ec54244 yaiki877 <yuka.aiki@banana-877.com> 1651798957 +0900	checkout: moving from aiki/feature/create_reservation to aiki/feature/login
+a7a0770a89df236b723d6486b76f92691ec54244 dad40d87fe8aca979c3615f04bd80fb1b9f75cfd yaiki877 <yuka.aiki@banana-877.com> 1651799236 +0900	commit: format修正
+dad40d87fe8aca979c3615f04bd80fb1b9f75cfd beb8a8da8ea0e0aa62bb96576cb709237b97a75d yaiki877 <yuka.aiki@banana-877.com> 1651799947 +0900	commit: format修正
+beb8a8da8ea0e0aa62bb96576cb709237b97a75d c94f498cc6aa2853801a2b648f8d718088c50f03 yaiki877 <yuka.aiki@banana-877.com> 1651800460 +0900	commit: 背景白に再修正
+c94f498cc6aa2853801a2b648f8d718088c50f03 501fee1a6b71b22f66ea97b9dc4e56da484800cd yaiki877 <yuka.aiki@banana-877.com> 1651800468 +0900	commit: 背景白に再修正
+501fee1a6b71b22f66ea97b9dc4e56da484800cd 9b3f68010d1ae73664ed23b1e1c85346f3a8dd22 yaiki877 <yuka.aiki@banana-877.com> 1651801523 +0900	commit: format修正
+9b3f68010d1ae73664ed23b1e1c85346f3a8dd22 15a9ab7faf2b35e9a2f5e5ca445f0a01da66946e yaiki877 <yuka.aiki@banana-877.com> 1651801555 +0900	commit: flexの重複削除
+15a9ab7faf2b35e9a2f5e5ca445f0a01da66946e 0fa79d7953b67c913c8d6c79e2f1e3e7db250282 yaiki877 <yuka.aiki@banana-877.com> 1651801772 +0900	commit: 不要な空白削除
+0fa79d7953b67c913c8d6c79e2f1e3e7db250282 b7e5c4465d007542c0aeb13f59aebb2593c2de7a yaiki877 <yuka.aiki@banana-877.com> 1651801857 +0900	checkout: moving from aiki/feature/login to aiki/feature/register
+b7e5c4465d007542c0aeb13f59aebb2593c2de7a 2a79d71841ca0dd7423cfd998e656efd22084eab yaiki877 <yuka.aiki@banana-877.com> 1651802609 +0900	commit: インデント修正
+2a79d71841ca0dd7423cfd998e656efd22084eab 7f9d50b522e505a82970c8eab3d4a80a32a63683 yaiki877 <yuka.aiki@banana-877.com> 1651803009 +0900	commit: インデント修正
+7f9d50b522e505a82970c8eab3d4a80a32a63683 18e7e215b742788cb9b296b004c5aaf7682c3471 yaiki877 <yuka.aiki@banana-877.com> 1651803160 +0900	commit: 空白削除
+18e7e215b742788cb9b296b004c5aaf7682c3471 41ff519c9ec7bcc15f5cf25d8f75c373b547eb79 yaiki877 <yuka.aiki@banana-877.com> 1651803323 +0900	commit: 空白を削除
+41ff519c9ec7bcc15f5cf25d8f75c373b547eb79 04f841ddf584823c4f805cd0ea0d50c4765b11ba yaiki877 <yuka.aiki@banana-877.com> 1651803366 +0900	commit: 空白削除
+04f841ddf584823c4f805cd0ea0d50c4765b11ba 0fa79d7953b67c913c8d6c79e2f1e3e7db250282 yaiki877 <yuka.aiki@banana-877.com> 1651803529 +0900	checkout: moving from aiki/feature/register to aiki/feature/login
+0fa79d7953b67c913c8d6c79e2f1e3e7db250282 dd00129342a0d82fcfd1b1c41c7cef6ccead77d6 yaiki877 <yuka.aiki@banana-877.com> 1651803551 +0900	commit: 空白削除
+dd00129342a0d82fcfd1b1c41c7cef6ccead77d6 38c02d9450526119f30125bb915ede0965fd7f04 yaiki877 <yuka.aiki@banana-877.com> 1651803645 +0900	checkout: moving from aiki/feature/login to aiki/feature/search
+38c02d9450526119f30125bb915ede0965fd7f04 1baba8e697749950c82ac184756701e8d2984aa6 yaiki877 <yuka.aiki@banana-877.com> 1651804132 +0900	commit: 空白削除
+1baba8e697749950c82ac184756701e8d2984aa6 9b28da79f69edaee8bb9b70bca6f1cdfe84048e8 yaiki877 <yuka.aiki@banana-877.com> 1651804182 +0900	commit: インデント修正
+9b28da79f69edaee8bb9b70bca6f1cdfe84048e8 dd00129342a0d82fcfd1b1c41c7cef6ccead77d6 yaiki877 <yuka.aiki@banana-877.com> 1651804390 +0900	checkout: moving from aiki/feature/search to aiki/feature/login
+dd00129342a0d82fcfd1b1c41c7cef6ccead77d6 04f841ddf584823c4f805cd0ea0d50c4765b11ba yaiki877 <yuka.aiki@banana-877.com> 1651804442 +0900	checkout: moving from aiki/feature/login to aiki/feature/register
+04f841ddf584823c4f805cd0ea0d50c4765b11ba 34923b1af125ab094b118c28ede0c36d1dbf1e8f yaiki877 <yuka.aiki@banana-877.com> 1651804513 +0900	commit: インデント修正
+34923b1af125ab094b118c28ede0c36d1dbf1e8f 9b28da79f69edaee8bb9b70bca6f1cdfe84048e8 yaiki877 <yuka.aiki@banana-877.com> 1651804679 +0900	checkout: moving from aiki/feature/register to aiki/feature/search
+9b28da79f69edaee8bb9b70bca6f1cdfe84048e8 3cc09da1fd5ba28b9267f74e62e5c6fb4833a655 yaiki877 <yuka.aiki@banana-877.com> 1651804903 +0900	commit: インデント修正
+3cc09da1fd5ba28b9267f74e62e5c6fb4833a655 678d8fd654a592674c676105c1580aa0251c950f yaiki877 <yuka.aiki@banana-877.com> 1651805680 +0900	checkout: moving from aiki/feature/search to aiki/feature/create_reservation
+678d8fd654a592674c676105c1580aa0251c950f 050283f94bdf617b5d6d43e2eadb8c1f5f27505d yaiki877 <yuka.aiki@banana-877.com> 1651805823 +0900	commit: インデント修正
+050283f94bdf617b5d6d43e2eadb8c1f5f27505d 3cc09da1fd5ba28b9267f74e62e5c6fb4833a655 yaiki877 <yuka.aiki@banana-877.com> 1651805828 +0900	checkout: moving from aiki/feature/create_reservation to aiki/feature/search
+3cc09da1fd5ba28b9267f74e62e5c6fb4833a655 dd00129342a0d82fcfd1b1c41c7cef6ccead77d6 yaiki877 <yuka.aiki@banana-877.com> 1651805842 +0900	checkout: moving from aiki/feature/search to aiki/feature/login
+dd00129342a0d82fcfd1b1c41c7cef6ccead77d6 34923b1af125ab094b118c28ede0c36d1dbf1e8f yaiki877 <yuka.aiki@banana-877.com> 1651805848 +0900	checkout: moving from aiki/feature/login to aiki/feature/register
+34923b1af125ab094b118c28ede0c36d1dbf1e8f 050283f94bdf617b5d6d43e2eadb8c1f5f27505d yaiki877 <yuka.aiki@banana-877.com> 1651805857 +0900	checkout: moving from aiki/feature/register to aiki/feature/create_reservation
+050283f94bdf617b5d6d43e2eadb8c1f5f27505d 050283f94bdf617b5d6d43e2eadb8c1f5f27505d yaiki877 <yuka.aiki@banana-877.com> 1651814675 +0900	checkout: moving from aiki/feature/create_reservation to aiki/feature/reservation_view
+050283f94bdf617b5d6d43e2eadb8c1f5f27505d be89a68328217aebd00402a994121d8d80c1ed29 yaiki877 <yuka.aiki@banana-877.com> 1651815314 +0900	commit: component作成
+be89a68328217aebd00402a994121d8d80c1ed29 ac123e8ab3a3261e3a1c9ff7020f8dfeebca6257 yaiki877 <yuka.aiki@banana-877.com> 1651815324 +0900	commit: component作成
+ac123e8ab3a3261e3a1c9ff7020f8dfeebca6257 3cc09da1fd5ba28b9267f74e62e5c6fb4833a655 yaiki877 <yuka.aiki@banana-877.com> 1651815338 +0900	checkout: moving from aiki/feature/reservation_view to aiki/feature/search
+3cc09da1fd5ba28b9267f74e62e5c6fb4833a655 160958fbea15f8fc6bf5b354bcb992657899d0cd yaiki877 <yuka.aiki@banana-877.com> 1651815364 +0900	commit: インデント修正
+160958fbea15f8fc6bf5b354bcb992657899d0cd ac123e8ab3a3261e3a1c9ff7020f8dfeebca6257 yaiki877 <yuka.aiki@banana-877.com> 1651815389 +0900	checkout: moving from aiki/feature/search to aiki/feature/reservation_view
+ac123e8ab3a3261e3a1c9ff7020f8dfeebca6257 38c9150dcfe02c30067a620cbe70b5ad0b58df4a yaiki877 <yuka.aiki@banana-877.com> 1651815975 +0900	commit: ラベルに引数を付与
+38c9150dcfe02c30067a620cbe70b5ad0b58df4a 160958fbea15f8fc6bf5b354bcb992657899d0cd yaiki877 <yuka.aiki@banana-877.com> 1651815979 +0900	checkout: moving from aiki/feature/reservation_view to aiki/feature/search
+160958fbea15f8fc6bf5b354bcb992657899d0cd 287c650b87d8a45390b137b9c3e4ddd9f8cca6d6 yaiki877 <yuka.aiki@banana-877.com> 1651816031 +0900	commit: インデント修正
+287c650b87d8a45390b137b9c3e4ddd9f8cca6d6 34923b1af125ab094b118c28ede0c36d1dbf1e8f yaiki877 <yuka.aiki@banana-877.com> 1651816057 +0900	checkout: moving from aiki/feature/search to aiki/feature/register
+34923b1af125ab094b118c28ede0c36d1dbf1e8f 79ed8abcd207ca32412849599e57251cfd0a2151 yaiki877 <yuka.aiki@banana-877.com> 1651816077 +0900	commit: インデント修正
+79ed8abcd207ca32412849599e57251cfd0a2151 dd00129342a0d82fcfd1b1c41c7cef6ccead77d6 yaiki877 <yuka.aiki@banana-877.com> 1651816091 +0900	checkout: moving from aiki/feature/register to aiki/feature/login
+dd00129342a0d82fcfd1b1c41c7cef6ccead77d6 38c9150dcfe02c30067a620cbe70b5ad0b58df4a yaiki877 <yuka.aiki@banana-877.com> 1651816185 +0900	checkout: moving from aiki/feature/login to aiki/feature/reservation_view
+38c9150dcfe02c30067a620cbe70b5ad0b58df4a f78c9a7844bd24d166ac513475aa1366a7967907 yaiki877 <yuka.aiki@banana-877.com> 1651816826 +0900	commit: componentのphpファイル修正
+f78c9a7844bd24d166ac513475aa1366a7967907 287c650b87d8a45390b137b9c3e4ddd9f8cca6d6 yaiki877 <yuka.aiki@banana-877.com> 1651816838 +0900	checkout: moving from aiki/feature/reservation_view to aiki/feature/search
+287c650b87d8a45390b137b9c3e4ddd9f8cca6d6 f78c9a7844bd24d166ac513475aa1366a7967907 yaiki877 <yuka.aiki@banana-877.com> 1651816880 +0900	checkout: moving from aiki/feature/search to aiki/feature/reservation_view
+f78c9a7844bd24d166ac513475aa1366a7967907 a2c42c8dc75d626c3b1b6177b77740206583ff8e yaiki877 <yuka.aiki@banana-877.com> 1651818812 +0900	commit: 予約分出力
+a2c42c8dc75d626c3b1b6177b77740206583ff8e 83a184ccfd96986fd705ce267ced866f326843ba yaiki877 <yuka.aiki@banana-877.com> 1651821628 +0900	commit: 文字が正しく表記された
+83a184ccfd96986fd705ce267ced866f326843ba 287c650b87d8a45390b137b9c3e4ddd9f8cca6d6 yaiki877 <yuka.aiki@banana-877.com> 1651821638 +0900	checkout: moving from aiki/feature/reservation_view to aiki/feature/search
+287c650b87d8a45390b137b9c3e4ddd9f8cca6d6 83a184ccfd96986fd705ce267ced866f326843ba yaiki877 <yuka.aiki@banana-877.com> 1651821703 +0900	checkout: moving from aiki/feature/search to aiki/feature/reservation_view
+83a184ccfd96986fd705ce267ced866f326843ba 83f052049076870de88859cab436fba0314d5d4d yaiki877 <yuka.aiki@banana-877.com> 1651822615 +0900	commit: CSS修正
+83f052049076870de88859cab436fba0314d5d4d 050283f94bdf617b5d6d43e2eadb8c1f5f27505d yaiki877 <yuka.aiki@banana-877.com> 1651822662 +0900	checkout: moving from aiki/feature/reservation_view to aiki/feature/create_reservation
+050283f94bdf617b5d6d43e2eadb8c1f5f27505d 117f85ec135a0a06ac993fb4e651174dd33fa465 yaiki877 <yuka.aiki@banana-877.com> 1651824544 +0900	commit: authの判定書き換え
+117f85ec135a0a06ac993fb4e651174dd33fa465 5e4a3a26c5bf1f9c8d71e6a1a4a582ae3121030f yaiki877 <yuka.aiki@banana-877.com> 1651824555 +0900	commit: migrationし直し
+5e4a3a26c5bf1f9c8d71e6a1a4a582ae3121030f fb8375c41042f2d4d936a4fecb86c3e714c579cd yaiki877 <yuka.aiki@banana-877.com> 1651824588 +0900	commit: Logを削除
+fb8375c41042f2d4d936a4fecb86c3e714c579cd 8236d4188216c86faa1e93b6b132e526a40df9a2 yaiki877 <yuka.aiki@banana-877.com> 1651825104 +0900	commit: 認証時のヘッダーの記名部分変更
+8236d4188216c86faa1e93b6b132e526a40df9a2 e15b405751dacbace23a44e31333635409d0a3de yaiki877 <yuka.aiki@banana-877.com> 1651825241 +0900	commit: Auth部分修正
+e15b405751dacbace23a44e31333635409d0a3de b9f9caf059ff7153489a06b4628756c81da22656 yaiki877 <yuka.aiki@banana-877.com> 1651825603 +0900	commit: seeでhtmlをみる
+b9f9caf059ff7153489a06b4628756c81da22656 50cfbdf0e2529d2f838d630dc6a477532bf0e845 yaiki877 <yuka.aiki@banana-877.com> 1651825908 +0900	commit: dateとtimeに値を持った
+50cfbdf0e2529d2f838d630dc6a477532bf0e845 556f2adc8924b2e211126befc29e00dd31ed6d08 yaiki877 <yuka.aiki@banana-877.com> 1651827423 +0900	commit: test１，３，５通った
+556f2adc8924b2e211126befc29e00dd31ed6d08 9d9ffcd71d21b887e02f10fcb614e2ef13134d55 yaiki877 <yuka.aiki@banana-877.com> 1651828241 +0900	commit: case1-6通った
+9d9ffcd71d21b887e02f10fcb614e2ef13134d55 5ff25bec910877422d70d3ab07c0e73cbb5779e3 yaiki877 <yuka.aiki@banana-877.com> 1651831169 +0900	commit: 予約登録画面生成処理テストケースすべて完成
+5ff25bec910877422d70d3ab07c0e73cbb5779e3 be87f3ee2a470672aab4ad2bcd47e01bad5c62ac yaiki877 <yuka.aiki@banana-877.com> 1651833229 +0900	commit: requestのテスト実施
+be87f3ee2a470672aab4ad2bcd47e01bad5c62ac bdd311baa4858613d9dfcc16b7c3d11ec373d3ca yaiki877 <yuka.aiki@banana-877.com> 1651901114 +0900	commit: 予約の段階でログインを要求するように修正
+bdd311baa4858613d9dfcc16b7c3d11ec373d3ca 43fe8751f364156a2f7b795a879f732f249cbe4c yaiki877 <yuka.aiki@banana-877.com> 1651901129 +0900	commit: 予約の段階でログインを要求するように修正
+43fe8751f364156a2f7b795a879f732f249cbe4c 99a744670cad373e15ee40ac46dafdd13f469dfc yaiki877 <yuka.aiki@banana-877.com> 1651904703 +0900	commit: 照会画面および予約画面の際、ログインを要求するように設定
+99a744670cad373e15ee40ac46dafdd13f469dfc 49936641d18cc3d27d3bfa0b86ae5a59dac67c8b yaiki877 <yuka.aiki@banana-877.com> 1651905767 +0900	commit: インデント修正
+49936641d18cc3d27d3bfa0b86ae5a59dac67c8b d41b564f61e8be955fb6e942f7bd243e0fe71242 yaiki877 <yuka.aiki@banana-877.com> 1651910569 +0900	commit: 予約登録処理を正しく行えているかのテストコードを追加
+d41b564f61e8be955fb6e942f7bd243e0fe71242 e619488c2dbaf187275bb03cb3d92d53726a1341 yaiki877 <yuka.aiki@banana-877.com> 1651914316 +0900	commit: インデント修正
+e619488c2dbaf187275bb03cb3d92d53726a1341 83f052049076870de88859cab436fba0314d5d4d yaiki877 <yuka.aiki@banana-877.com> 1651914356 +0900	checkout: moving from aiki/feature/create_reservation to aiki/feature/reservation_view
+83f052049076870de88859cab436fba0314d5d4d e619488c2dbaf187275bb03cb3d92d53726a1341 yaiki877 <yuka.aiki@banana-877.com> 1651914436 +0900	checkout: moving from aiki/feature/reservation_view to aiki/feature/create_reservation
+e619488c2dbaf187275bb03cb3d92d53726a1341 83f052049076870de88859cab436fba0314d5d4d yaiki877 <yuka.aiki@banana-877.com> 1651914445 +0900	checkout: moving from aiki/feature/create_reservation to aiki/feature/reservation_view
+83f052049076870de88859cab436fba0314d5d4d 4d4ee3222dfbc16b48c92500b85b5a1d28a4024e yaiki877 <yuka.aiki@banana-877.com> 1651914498 +0900	commit: ヘッダーの分岐部分変更
+4d4ee3222dfbc16b48c92500b85b5a1d28a4024e e619488c2dbaf187275bb03cb3d92d53726a1341 yaiki877 <yuka.aiki@banana-877.com> 1651914503 +0900	checkout: moving from aiki/feature/reservation_view to aiki/feature/create_reservation
+e619488c2dbaf187275bb03cb3d92d53726a1341 4d4ee3222dfbc16b48c92500b85b5a1d28a4024e yaiki877 <yuka.aiki@banana-877.com> 1651914519 +0900	checkout: moving from aiki/feature/create_reservation to aiki/feature/reservation_view
+4d4ee3222dfbc16b48c92500b85b5a1d28a4024e e619488c2dbaf187275bb03cb3d92d53726a1341 yaiki877 <yuka.aiki@banana-877.com> 1651914526 +0900	checkout: moving from aiki/feature/reservation_view to aiki/feature/create_reservation
+e619488c2dbaf187275bb03cb3d92d53726a1341 4d4ee3222dfbc16b48c92500b85b5a1d28a4024e yaiki877 <yuka.aiki@banana-877.com> 1651914531 +0900	checkout: moving from aiki/feature/create_reservation to aiki/feature/reservation_view
+4d4ee3222dfbc16b48c92500b85b5a1d28a4024e cb5c4fd2e6115345d36a61d345c172b118569cab yaiki877 <yuka.aiki@banana-877.com> 1651914546 +0900	commit: Authenticate書き換え
+cb5c4fd2e6115345d36a61d345c172b118569cab e619488c2dbaf187275bb03cb3d92d53726a1341 yaiki877 <yuka.aiki@banana-877.com> 1651914560 +0900	checkout: moving from aiki/feature/reservation_view to aiki/feature/create_reservation
+e619488c2dbaf187275bb03cb3d92d53726a1341 cb5c4fd2e6115345d36a61d345c172b118569cab yaiki877 <yuka.aiki@banana-877.com> 1651914577 +0900	checkout: moving from aiki/feature/create_reservation to aiki/feature/reservation_view
+cb5c4fd2e6115345d36a61d345c172b118569cab 494174c585ebb750bce7ef30d43f8b2b4cded734 yaiki877 <yuka.aiki@banana-877.com> 1651914596 +0900	commit: ログインの要求部分の修正
+494174c585ebb750bce7ef30d43f8b2b4cded734 fcdf07ea155910069a75cd913cffe5de73805b5e yaiki877 <yuka.aiki@banana-877.com> 1651914676 +0900	commit: 予約一覧のヘッダーを固定
+fcdf07ea155910069a75cd913cffe5de73805b5e e619488c2dbaf187275bb03cb3d92d53726a1341 yaiki877 <yuka.aiki@banana-877.com> 1651914690 +0900	checkout: moving from aiki/feature/reservation_view to aiki/feature/create_reservation
+e619488c2dbaf187275bb03cb3d92d53726a1341 fcdf07ea155910069a75cd913cffe5de73805b5e yaiki877 <yuka.aiki@banana-877.com> 1651914700 +0900	checkout: moving from aiki/feature/create_reservation to aiki/feature/reservation_view
+fcdf07ea155910069a75cd913cffe5de73805b5e 73fb228ca47ab026611158b2e8646e4335327d32 yaiki877 <yuka.aiki@banana-877.com> 1651914780 +0900	commit: ルートにミドルウェアを追加
+73fb228ca47ab026611158b2e8646e4335327d32 e619488c2dbaf187275bb03cb3d92d53726a1341 yaiki877 <yuka.aiki@banana-877.com> 1651914783 +0900	checkout: moving from aiki/feature/reservation_view to aiki/feature/create_reservation
+e619488c2dbaf187275bb03cb3d92d53726a1341 73fb228ca47ab026611158b2e8646e4335327d32 yaiki877 <yuka.aiki@banana-877.com> 1651914789 +0900	checkout: moving from aiki/feature/create_reservation to aiki/feature/reservation_view
+73fb228ca47ab026611158b2e8646e4335327d32 26d2af67dd46a5da79da6d815352fffca62c53bd yaiki877 <yuka.aiki@banana-877.com> 1651914860 +0900	commit: use追加
+26d2af67dd46a5da79da6d815352fffca62c53bd e619488c2dbaf187275bb03cb3d92d53726a1341 yaiki877 <yuka.aiki@banana-877.com> 1651914873 +0900	checkout: moving from aiki/feature/reservation_view to aiki/feature/create_reservation
+e619488c2dbaf187275bb03cb3d92d53726a1341 26d2af67dd46a5da79da6d815352fffca62c53bd yaiki877 <yuka.aiki@banana-877.com> 1651914879 +0900	checkout: moving from aiki/feature/create_reservation to aiki/feature/reservation_view
+26d2af67dd46a5da79da6d815352fffca62c53bd 19ba88b29b33e2158da6c16c4ffdbff177d2f41a yaiki877 <yuka.aiki@banana-877.com> 1651914930 +0900	commit: 一覧を見るのにログインしなければならない機能実装
+19ba88b29b33e2158da6c16c4ffdbff177d2f41a 0f5a5723e0920ef62a9eec518d227203e26054c0 yaiki877 <yuka.aiki@banana-877.com> 1651916045 +0900	commit: レストラン名が表示された
+0f5a5723e0920ef62a9eec518d227203e26054c0 d12aee39ee3a2e95e1c569c2c66cf8d1e8cee8af yaiki877 <yuka.aiki@banana-877.com> 1651918089 +0900	commit: ラベルのCSS修正
+d12aee39ee3a2e95e1c569c2c66cf8d1e8cee8af 389eacbb85870512e8e8553009577209c206b4c7 yaiki877 <yuka.aiki@banana-877.com> 1651918422 +0900	commit: 名前を表示させた
+389eacbb85870512e8e8553009577209c206b4c7 e619488c2dbaf187275bb03cb3d92d53726a1341 yaiki877 <yuka.aiki@banana-877.com> 1652058372 +0900	checkout: moving from aiki/feature/reservation_view to aiki/feature/create_reservation
+e619488c2dbaf187275bb03cb3d92d53726a1341 9b51134f16fc076aeaa849840a5205e7beb37cc5 yaiki877 <yuka.aiki@banana-877.com> 1652058683 +0900	commit: フォーマット修正
+9b51134f16fc076aeaa849840a5205e7beb37cc5 ea2305c24160f66eeea03d0d0ef6adaa625654de yaiki877 <yuka.aiki@banana-877.com> 1652059505 +0900	commit: フォーマット修正
+ea2305c24160f66eeea03d0d0ef6adaa625654de 50061aeeb07e63b19b7f95278fa7cb76666e9be4 yaiki877 <yuka.aiki@banana-877.com> 1652059810 +0900	commit: インデント修正
+50061aeeb07e63b19b7f95278fa7cb76666e9be4 194cd9c95b723d011a232b44497b54a17218f2dd yaiki877 <yuka.aiki@banana-877.com> 1652060187 +0900	commit: インデント修正
+194cd9c95b723d011a232b44497b54a17218f2dd 389eacbb85870512e8e8553009577209c206b4c7 yaiki877 <yuka.aiki@banana-877.com> 1652060299 +0900	checkout: moving from aiki/feature/create_reservation to aiki/feature/reservation_view
+389eacbb85870512e8e8553009577209c206b4c7 050383cacf55059ebe3ca8c9ce7d32992b0df1ef yaiki877 <yuka.aiki@banana-877.com> 1652067830 +0900	commit: ページングの表示
+050383cacf55059ebe3ca8c9ce7d32992b0df1ef 36a7acb160b2e497e879f620dc32eaf4c7aebc5e yaiki877 <yuka.aiki@banana-877.com> 1652068211 +0900	commit: storeメソッドの返しをredirectに変更
+36a7acb160b2e497e879f620dc32eaf4c7aebc5e 194cd9c95b723d011a232b44497b54a17218f2dd yaiki877 <yuka.aiki@banana-877.com> 1652068238 +0900	checkout: moving from aiki/feature/reservation_view to aiki/feature/create_reservation
+194cd9c95b723d011a232b44497b54a17218f2dd 44554d662dacd3f63334662e577f834df6b165dc yaiki877 <yuka.aiki@banana-877.com> 1652068433 +0900	commit: redirectに変更（reservation_viewにおける変更）
+44554d662dacd3f63334662e577f834df6b165dc 36a7acb160b2e497e879f620dc32eaf4c7aebc5e yaiki877 <yuka.aiki@banana-877.com> 1652068442 +0900	checkout: moving from aiki/feature/create_reservation to aiki/feature/reservation_view
+36a7acb160b2e497e879f620dc32eaf4c7aebc5e 44554d662dacd3f63334662e577f834df6b165dc yaiki877 <yuka.aiki@banana-877.com> 1652068457 +0900	checkout: moving from aiki/feature/reservation_view to aiki/feature/create_reservation
+44554d662dacd3f63334662e577f834df6b165dc 05ae534e7403c47f122e51f3114dee728f8ae6df yaiki877 <yuka.aiki@banana-877.com> 1652068554 +0900	commit: ルートの追加
+05ae534e7403c47f122e51f3114dee728f8ae6df 36a7acb160b2e497e879f620dc32eaf4c7aebc5e yaiki877 <yuka.aiki@banana-877.com> 1652071683 +0900	checkout: moving from aiki/feature/create_reservation to aiki/feature/reservation_view
+36a7acb160b2e497e879f620dc32eaf4c7aebc5e 05ae534e7403c47f122e51f3114dee728f8ae6df yaiki877 <yuka.aiki@banana-877.com> 1652071688 +0900	checkout: moving from aiki/feature/reservation_view to aiki/feature/create_reservation
+05ae534e7403c47f122e51f3114dee728f8ae6df 36a7acb160b2e497e879f620dc32eaf4c7aebc5e yaiki877 <yuka.aiki@banana-877.com> 1652071692 +0900	checkout: moving from aiki/feature/create_reservation to aiki/feature/reservation_view
+36a7acb160b2e497e879f620dc32eaf4c7aebc5e 05ae534e7403c47f122e51f3114dee728f8ae6df yaiki877 <yuka.aiki@banana-877.com> 1652071806 +0900	checkout: moving from aiki/feature/reservation_view to aiki/feature/create_reservation
+05ae534e7403c47f122e51f3114dee728f8ae6df 910eeb96220f0dc6658ee5e78a8844214e7ccdf7 yaiki877 <yuka.aiki@banana-877.com> 1652071842 +0900	commit: インデント修正
+910eeb96220f0dc6658ee5e78a8844214e7ccdf7 36a7acb160b2e497e879f620dc32eaf4c7aebc5e yaiki877 <yuka.aiki@banana-877.com> 1652071976 +0900	checkout: moving from aiki/feature/create_reservation to aiki/feature/reservation_view
+36a7acb160b2e497e879f620dc32eaf4c7aebc5e 1d18b70dc6ff2241200210679833134dd11683a5 yaiki877 <yuka.aiki@banana-877.com> 1652073205 +0900	commit: Showing**to ** of ** results削除
+1d18b70dc6ff2241200210679833134dd11683a5 61c695435fdfe5febe54da6dae94f72d1d3c3b08 yaiki877 <yuka.aiki@banana-877.com> 1652074461 +0900	commit: 戻るボタンの実装
+61c695435fdfe5febe54da6dae94f72d1d3c3b08 754b0e5047422b43001402acf6a01f828b81136b yaiki877 <yuka.aiki@banana-877.com> 1652074489 +0900	commit: ページング表示件数変更
+754b0e5047422b43001402acf6a01f828b81136b 263be075267ba2da6bb44ee450a2740adbaff9e0 yaiki877 <yuka.aiki@banana-877.com> 1652074498 +0900	commit: CSS修正
+263be075267ba2da6bb44ee450a2740adbaff9e0 0b2584a4c192042614e52b7217cc26a1ea522f8e yaiki877 <yuka.aiki@banana-877.com> 1652075531 +0900	commit: ソートを変更
+0b2584a4c192042614e52b7217cc26a1ea522f8e c2ac10a043398b49d435af593b00f9c1c30b904b yaiki877 <yuka.aiki@banana-877.com> 1652077087 +0900	commit: 未来の日付のみの表示にした
+c2ac10a043398b49d435af593b00f9c1c30b904b 4e1cfa01abff8c6f4fc50d29833c5ca1cdafe05c yaiki877 <yuka.aiki@banana-877.com> 1652083540 +0900	commit: console.log削除
+4e1cfa01abff8c6f4fc50d29833c5ca1cdafe05c 06e05241687f512a64dddef94bae4f0449b69239 yaiki877 <yuka.aiki@banana-877.com> 1652083563 +0900	commit: フラッシュメッセージの実装（js効いていない）
+06e05241687f512a64dddef94bae4f0449b69239 bcc934160cdc287f0da2983c9aa444854acb49b6 yaiki877 <yuka.aiki@banana-877.com> 1652089855 +0900	commit: 日付の表記を修正
+bcc934160cdc287f0da2983c9aa444854acb49b6 a03c8788455f6188f2e822c7390ab539c18fda48 yaiki877 <yuka.aiki@banana-877.com> 1652091739 +0900	commit: messageのアニメーションを付与
+a03c8788455f6188f2e822c7390ab539c18fda48 c9383213180c23713e20ca6a5d3399fa405e544f yaiki877 <yuka.aiki@banana-877.com> 1652149692 +0900	commit: Seeder作成
+c9383213180c23713e20ca6a5d3399fa405e544f 247855109da6638e11016753ae9f6debb46c8852 yaiki877 <yuka.aiki@banana-877.com> 1652149713 +0900	commit: メッセージのif文の位置変更
+247855109da6638e11016753ae9f6debb46c8852 6bd05e721857984a9804fb986f8687d965696ea5 yaiki877 <yuka.aiki@banana-877.com> 1652150293 +0900	commit: testfile作成
+6bd05e721857984a9804fb986f8687d965696ea5 910eeb96220f0dc6658ee5e78a8844214e7ccdf7 yaiki877 <yuka.aiki@banana-877.com> 1652150303 +0900	checkout: moving from aiki/feature/reservation_view to aiki/feature/create_reservation
+910eeb96220f0dc6658ee5e78a8844214e7ccdf7 6bd05e721857984a9804fb986f8687d965696ea5 yaiki877 <yuka.aiki@banana-877.com> 1652150353 +0900	checkout: moving from aiki/feature/create_reservation to aiki/feature/reservation_view
+6bd05e721857984a9804fb986f8687d965696ea5 2e93c2805e5ffb1b450f97c135b1d9813007fc80 yaiki877 <yuka.aiki@banana-877.com> 1652158571 +0900	commit: 予約一覧画面上にある予約が過去日付になっていないかのケース完成
+2e93c2805e5ffb1b450f97c135b1d9813007fc80 1bd786019abd691084420c4f7cd10aeeacd9ab9a yaiki877 <yuka.aiki@banana-877.com> 1652160403 +0900	commit: 予約日付が未来日付のみの利用者予約データすべてが予約一覧画面上に表示されているかのテスト完了
+1bd786019abd691084420c4f7cd10aeeacd9ab9a 1c368a714faa84751d085779e97546ac0e937130 yaiki877 <yuka.aiki@banana-877.com> 1652168214 +0900	commit: メッセージのテスト、ログイン画面遷移のテスト以外はすべて完了
+1c368a714faa84751d085779e97546ac0e937130 2e3d0e0afb9568296615ea0beeb18c972d47e51e yaiki877 <yuka.aiki@banana-877.com> 1653032192 +0900	commit: case10通した
+2e3d0e0afb9568296615ea0beeb18c972d47e51e 9c7dfc7f8bfb37c040dbdd97a24c415240a65cca yaiki877 <yuka.aiki@banana-877.com> 1653032201 +0900	commit: case10通した
+9c7dfc7f8bfb37c040dbdd97a24c415240a65cca 9c7dfc7f8bfb37c040dbdd97a24c415240a65cca yaiki877 <yuka.aiki@banana-877.com> 1653287002 +0900	checkout: moving from aiki/feature/reservation_view to aiki/feature/reservation_modify
+9c7dfc7f8bfb37c040dbdd97a24c415240a65cca d2d3df045c8a51d4c3c5ae19cddcdc3c10f54a56 yaiki877 <yuka.aiki@banana-877.com> 1653290173 +0900	commit: 予約ラベルにリンク付した
+d2d3df045c8a51d4c3c5ae19cddcdc3c10f54a56 b94dfa3d0309f8d2dee9c0ddff6aa63f82388ee7 yaiki877 <yuka.aiki@banana-877.com> 1653295313 +0900	commit: 画面を修正
+b94dfa3d0309f8d2dee9c0ddff6aa63f82388ee7 2b61ae2797658398c7d9db12ef7acbbf7faebe1b yaiki877 <yuka.aiki@banana-877.com> 1653365456 +0900	commit: モーダル出した
+2b61ae2797658398c7d9db12ef7acbbf7faebe1b 14ae77934e762bf613d42eb517be69b2d76d7c24 yaiki877 <yuka.aiki@banana-877.com> 1653371038 +0900	commit: ボタンによってメッセージを切り替える
+14ae77934e762bf613d42eb517be69b2d76d7c24 e5ce29194d396d4263807657ed7b25048f98c42d yaiki877 <yuka.aiki@banana-877.com> 1653374112 +0900	commit: 削除の場合は、モーダルの中身の更新を行わない
+e5ce29194d396d4263807657ed7b25048f98c42d f620202a22cc4f6ded7bc84761e7a8effa211f83 yaiki877 <yuka.aiki@banana-877.com> 1653380563 +0900	commit: 削除機能実装
+f620202a22cc4f6ded7bc84761e7a8effa211f83 5ecd232a9e04c575abdcb624bf7f3ad9cedf1b2c yaiki877 <yuka.aiki@banana-877.com> 1653381406 +0900	commit: 更新ができるようになった
+5ecd232a9e04c575abdcb624bf7f3ad9cedf1b2c 9c7dfc7f8bfb37c040dbdd97a24c415240a65cca yaiki877 <yuka.aiki@banana-877.com> 1653385513 +0900	checkout: moving from aiki/feature/reservation_modify to aiki/feature/reservation_view
+9c7dfc7f8bfb37c040dbdd97a24c415240a65cca 75196984b40cb92d7d30220d0aa8ba4ca7349b79 yaiki877 <yuka.aiki@banana-877.com> 1653440756 +0900	commit: フラッシュメッセージのテスト
+75196984b40cb92d7d30220d0aa8ba4ca7349b79 b04df6352120eb549070f5dcd432eab8c50add51 yaiki877 <yuka.aiki@banana-877.com> 1653441988 +0900	commit: フォーマット修正
+b04df6352120eb549070f5dcd432eab8c50add51 5ecd232a9e04c575abdcb624bf7f3ad9cedf1b2c yaiki877 <yuka.aiki@banana-877.com> 1653442339 +0900	checkout: moving from aiki/feature/reservation_view to aiki/feature/reservation_modify
+5ecd232a9e04c575abdcb624bf7f3ad9cedf1b2c b0a886f449504e12d75eccf294b9db4c6031a742 yaiki877 <yuka.aiki@banana-877.com> 1653460737 +0900	commit: ログインのテスト
+b0a886f449504e12d75eccf294b9db4c6031a742 9d0533518d300b11b8eb9c06db352117b3d767ef yaiki877 <yuka.aiki@banana-877.com> 1653473015 +0900	commit: 0525
+9d0533518d300b11b8eb9c06db352117b3d767ef 58314f18939bfa171442382c45306b0899ce5308 yaiki877 <yuka.aiki@banana-877.com> 1653533958 +0900	commit: 予約編集画面の修正ボタンをクリックした場合、パラメータの取得を正しく行うことができるか が通った
+58314f18939bfa171442382c45306b0899ce5308 28583914dc219ee62e7c3308b13f584eb434b172 yaiki877 <yuka.aiki@banana-877.com> 1653539968 +0900	commit: [予約修正case4]予約が正しく修正されているか
+28583914dc219ee62e7c3308b13f584eb434b172 8951ee86b20dccba04eef390843b6f9ec0df8262 yaiki877 <yuka.aiki@banana-877.com> 1653544015 +0900	commit: 全テストケース通った
+8951ee86b20dccba04eef390843b6f9ec0df8262 6e707d7501ce351559437f970768b22c2d0eb348 yaiki877 <yuka.aiki@banana-877.com> 1653544130 +0900	commit: Request修正
+6e707d7501ce351559437f970768b22c2d0eb348 db9cf25cdc13510269115c0ca3a7d04fa69b2d41 yaiki877 <yuka.aiki@banana-877.com> 1653544800 +0900	commit: インデント修正
+db9cf25cdc13510269115c0ca3a7d04fa69b2d41 dce06890f4ebf8a844e061745e54a36973a2c723 yaiki877 <yuka.aiki@banana-877.com> 1653547346 +0900	commit: セルフレビュー
+dce06890f4ebf8a844e061745e54a36973a2c723 50fbd26c5548ff2e6e3a8160f534c9e19686eb5f yaiki877 <yuka.aiki@banana-877.com> 1653547477 +0900	commit: セルフレビュー
+50fbd26c5548ff2e6e3a8160f534c9e19686eb5f dd00129342a0d82fcfd1b1c41c7cef6ccead77d6 yaiki877 <yuka.aiki@banana-877.com> 1653547691 +0900	checkout: moving from aiki/feature/reservation_modify to aiki/feature/login
+dd00129342a0d82fcfd1b1c41c7cef6ccead77d6 50fbd26c5548ff2e6e3a8160f534c9e19686eb5f yaiki877 <yuka.aiki@banana-877.com> 1653549653 +0900	checkout: moving from aiki/feature/login to aiki/feature/reservation_modify
+50fbd26c5548ff2e6e3a8160f534c9e19686eb5f 50fbd26c5548ff2e6e3a8160f534c9e19686eb5f yaiki877 <yuka.aiki@banana-877.com> 1653549716 +0900	checkout: moving from aiki/feature/reservation_modify to aiki/feature/login_logout
+50fbd26c5548ff2e6e3a8160f534c9e19686eb5f 9585b7b304c0d3af303480b3ae3d2c59b34cc651 yaiki877 <yuka.aiki@banana-877.com> 1653560369 +0900	commit: 最新の認証方法に合わせた
+9585b7b304c0d3af303480b3ae3d2c59b34cc651 a2b63d5e3beb94e215481ac022c8d90690be70d1 yaiki877 <yuka.aiki@banana-877.com> 1653560377 +0900	commit: 最新の認証に合わせた
+a2b63d5e3beb94e215481ac022c8d90690be70d1 e9abc95261c0a88af9bf4f417205fb0fd508afe2 yaiki877 <yuka.aiki@banana-877.com> 1653560631 +0900	commit: 不要なファイル削除
+e9abc95261c0a88af9bf4f417205fb0fd508afe2 de075b7136e76114f7f9f822024afa8b67d2e4ae yaiki877 <yuka.aiki@banana-877.com> 1653560693 +0900	commit: インデント修正
+de075b7136e76114f7f9f822024afa8b67d2e4ae 287c650b87d8a45390b137b9c3e4ddd9f8cca6d6 yaiki877 <yuka.aiki@banana-877.com> 1653560790 +0900	checkout: moving from aiki/feature/login_logout to aiki/feature/search
+287c650b87d8a45390b137b9c3e4ddd9f8cca6d6 78ddb9bc527f3bd61681f85d7a17b7d5b81edd61 yaiki877 <yuka.aiki@banana-877.com> 1653560819 +0900	commit: ログアウト方法を変更
+78ddb9bc527f3bd61681f85d7a17b7d5b81edd61 de075b7136e76114f7f9f822024afa8b67d2e4ae yaiki877 <yuka.aiki@banana-877.com> 1653560846 +0900	checkout: moving from aiki/feature/search to aiki/feature/login_logout
+de075b7136e76114f7f9f822024afa8b67d2e4ae eba87eba89b35024cac9a6fd1e18c5e81e64dfd4 yaiki877 <yuka.aiki@banana-877.com> 1653560942 +0900	commit: セルフレビュー
+eba87eba89b35024cac9a6fd1e18c5e81e64dfd4 78ddb9bc527f3bd61681f85d7a17b7d5b81edd61 yaiki877 <yuka.aiki@banana-877.com> 1653560995 +0900	checkout: moving from aiki/feature/login_logout to aiki/feature/search
+78ddb9bc527f3bd61681f85d7a17b7d5b81edd61 79ed8abcd207ca32412849599e57251cfd0a2151 yaiki877 <yuka.aiki@banana-877.com> 1653561132 +0900	checkout: moving from aiki/feature/search to aiki/feature/register
+79ed8abcd207ca32412849599e57251cfd0a2151 928b7bafa797cc384c5f325071e44f50bfd624a3 yaiki877 <yuka.aiki@banana-877.com> 1653561199 +0900	commit: logoutの仕様変更
+928b7bafa797cc384c5f325071e44f50bfd624a3 910eeb96220f0dc6658ee5e78a8844214e7ccdf7 yaiki877 <yuka.aiki@banana-877.com> 1653561330 +0900	checkout: moving from aiki/feature/register to aiki/feature/create_reservation
+910eeb96220f0dc6658ee5e78a8844214e7ccdf7 97710b863292c668c3ad4704c7d53c85e687e3e0 yaiki877 <yuka.aiki@banana-877.com> 1653561360 +0900	commit: ログアウトの仕様変更
+97710b863292c668c3ad4704c7d53c85e687e3e0 50fbd26c5548ff2e6e3a8160f534c9e19686eb5f yaiki877 <yuka.aiki@banana-877.com> 1653561391 +0900	checkout: moving from aiki/feature/create_reservation to aiki/feature/reservation_modify
+50fbd26c5548ff2e6e3a8160f534c9e19686eb5f eda07c0b87a4c6cdd2cca05770941b0061b16253 yaiki877 <yuka.aiki@banana-877.com> 1653561409 +0900	commit: ログアウトの仕様変更
+eda07c0b87a4c6cdd2cca05770941b0061b16253 928b7bafa797cc384c5f325071e44f50bfd624a3 yaiki877 <yuka.aiki@banana-877.com> 1653613758 +0900	checkout: moving from aiki/feature/reservation_modify to aiki/feature/register
+928b7bafa797cc384c5f325071e44f50bfd624a3 3edaa70e7a7c3a5b022036cef8853d91092a3ad9 yaiki877 <yuka.aiki@banana-877.com> 1653613904 +0900	commit: インデント修正
+3edaa70e7a7c3a5b022036cef8853d91092a3ad9 eda07c0b87a4c6cdd2cca05770941b0061b16253 yaiki877 <yuka.aiki@banana-877.com> 1653614269 +0900	checkout: moving from aiki/feature/register to aiki/feature/reservation_modify
+eda07c0b87a4c6cdd2cca05770941b0061b16253 78ddb9bc527f3bd61681f85d7a17b7d5b81edd61 yaiki877 <yuka.aiki@banana-877.com> 1653614362 +0900	checkout: moving from aiki/feature/reservation_modify to aiki/feature/search
+78ddb9bc527f3bd61681f85d7a17b7d5b81edd61 3edaa70e7a7c3a5b022036cef8853d91092a3ad9 yaiki877 <yuka.aiki@banana-877.com> 1653614414 +0900	checkout: moving from aiki/feature/search to aiki/feature/register
+3edaa70e7a7c3a5b022036cef8853d91092a3ad9 8ad1b4eb2bdc4015aa08ac5ea5d53ab5cecd8eb8 yaiki877 <yuka.aiki@banana-877.com> 1653626460 +0900	commit: セルフレビュー
+8ad1b4eb2bdc4015aa08ac5ea5d53ab5cecd8eb8 78ddb9bc527f3bd61681f85d7a17b7d5b81edd61 yaiki877 <yuka.aiki@banana-877.com> 1653626510 +0900	checkout: moving from aiki/feature/register to aiki/feature/search
+78ddb9bc527f3bd61681f85d7a17b7d5b81edd61 70b70b90e068f321b75d3e0d9ab5e5f5d9508e3d yaiki877 <yuka.aiki@banana-877.com> 1653626553 +0900	commit: セルフレビュー
+70b70b90e068f321b75d3e0d9ab5e5f5d9508e3d 8ad1b4eb2bdc4015aa08ac5ea5d53ab5cecd8eb8 yaiki877 <yuka.aiki@banana-877.com> 1653626575 +0900	checkout: moving from aiki/feature/search to aiki/feature/register
+8ad1b4eb2bdc4015aa08ac5ea5d53ab5cecd8eb8 8ad1b4eb2bdc4015aa08ac5ea5d53ab5cecd8eb8 yaiki877 <yuka.aiki@banana-877.com> 1653626591 +0900	checkout: moving from aiki/feature/register to aiki/feature/register
+8ad1b4eb2bdc4015aa08ac5ea5d53ab5cecd8eb8 97710b863292c668c3ad4704c7d53c85e687e3e0 yaiki877 <yuka.aiki@banana-877.com> 1653626685 +0900	checkout: moving from aiki/feature/register to aiki/feature/create_reservation
+97710b863292c668c3ad4704c7d53c85e687e3e0 199a5019e663ec4fe71c2a5c3177cada140c5423 yaiki877 <yuka.aiki@banana-877.com> 1653626700 +0900	commit: セルフレビュー
+199a5019e663ec4fe71c2a5c3177cada140c5423 eda07c0b87a4c6cdd2cca05770941b0061b16253 yaiki877 <yuka.aiki@banana-877.com> 1653626716 +0900	checkout: moving from aiki/feature/create_reservation to aiki/feature/reservation_modify
+eda07c0b87a4c6cdd2cca05770941b0061b16253 53bbe97baf586610fd8b37121620d028add54771 yaiki877 <yuka.aiki@banana-877.com> 1653626736 +0900	commit: セルフレビュー
+53bbe97baf586610fd8b37121620d028add54771 199a5019e663ec4fe71c2a5c3177cada140c5423 yaiki877 <yuka.aiki@banana-877.com> 1653626751 +0900	checkout: moving from aiki/feature/reservation_modify to aiki/feature/create_reservation
+199a5019e663ec4fe71c2a5c3177cada140c5423 53bbe97baf586610fd8b37121620d028add54771 yaiki877 <yuka.aiki@banana-877.com> 1653638058 +0900	checkout: moving from aiki/feature/create_reservation to aiki/feature/reservation_modify
+53bbe97baf586610fd8b37121620d028add54771 eda07c0b87a4c6cdd2cca05770941b0061b16253 yaiki877 <yuka.aiki@banana-877.com> 1653638834 +0900	checkout: moving from aiki/feature/reservation_modify to eda07c0b87a4c6cdd2cca05770941b0061b16253
+eda07c0b87a4c6cdd2cca05770941b0061b16253 50fbd26c5548ff2e6e3a8160f534c9e19686eb5f yaiki877 <yuka.aiki@banana-877.com> 1653638872 +0900	checkout: moving from eda07c0b87a4c6cdd2cca05770941b0061b16253 to 50fbd26c5548ff2e6e3a8160f534c9e19686eb5f
+50fbd26c5548ff2e6e3a8160f534c9e19686eb5f 53bbe97baf586610fd8b37121620d028add54771 yaiki877 <yuka.aiki@banana-877.com> 1653638968 +0900	checkout: moving from 50fbd26c5548ff2e6e3a8160f534c9e19686eb5f to 53bbe97baf586610fd8b37121620d028add54771
+53bbe97baf586610fd8b37121620d028add54771 8cebb27e526572f09860e678eeee668eccf4d8be yaiki877 <yuka.aiki@banana-877.com> 1653640991 +0900	commit: バグ修正
+8cebb27e526572f09860e678eeee668eccf4d8be 53bbe97baf586610fd8b37121620d028add54771 yaiki877 <yuka.aiki@banana-877.com> 1653643961 +0900	checkout: moving from 8cebb27e526572f09860e678eeee668eccf4d8be to aiki/feature/reservation_modify
+53bbe97baf586610fd8b37121620d028add54771 bbc3cbb4dff577d354a43ba45a5ad40eada88b38 yaiki877 <yuka.aiki@banana-877.com> 1653644188 +0900	cherry-pick: バグ修正
+bbc3cbb4dff577d354a43ba45a5ad40eada88b38 e35899631e70ae8f256d77138246bb4afe46a192 yaiki877 <yuka.aiki@banana-877.com> 1653646047 +0900	commit: バグ修正
+e35899631e70ae8f256d77138246bb4afe46a192 573259d44401a804905693bbfb4d191ea765a8f1 yaiki877 <yuka.aiki@banana-877.com> 1676023938 +0900	commit: public用

@@ -1,0 +1,18 @@
+.checkbox label input[type='checkbox']:checked+span {
+    background-color: #C8D1FF;
+}
+
+.fadeout {
+    animation: fadeout-anim 1.5s linear forwards;
+}
+
+.disabled {
+    pointer-events: none;
+    background-color: rgb(209 213 219 / var(--tw-bg-opacity));
+}
+
+@keyframes fadeout-anim {
+    100% {
+        opacity: 0;
+    }
+}
