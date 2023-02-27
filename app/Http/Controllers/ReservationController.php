@@ -49,16 +49,15 @@ class ReservationController extends Controller
 
     public function listView()
     {
-        $accountreservations = DB::table('account_reservations')
+        $account_reservations = DB::table('account_reservations')
             ->where([
-                ['account_id', DB::table('accounts')
-                        ->where('family_name', Auth::user()->family_name)->value('id')],
+                ['account_id', Auth::id()],
                 ['reservation_datetime', '>=', now()],
             ])
             ->orderBy('reservation_datetime')
             ->paginate(5);
         return view("reservation_list", [
-            'accountreservations' => $accountreservations,
+            'accountreservations' => $account_reservations,
         ]);
     }
 
