@@ -16,10 +16,10 @@ class RestaurantSeeder extends Seeder
     {
         DB::table('restaurants')->insert([
             'id' => 1,
-            'restaurant_name' => 'レストラン1',
+            'restaurant_name' => '和食札幌',
             'pref' => '北海道',
             'municipalities' => '札幌市',
-            'catchphrase' => 'テスト1テスト1テスト1',
+            'catchphrase' => 'うどんがおいしい',
             'line' => 'テスト鉄道1',
             'station' => 'テスト1',
             'minutes' => '1',
@@ -29,10 +29,10 @@ class RestaurantSeeder extends Seeder
 
         DB::table('restaurants')->insert([
             'id' => 2,
-            'restaurant_name' => 'レストラン2',
+            'restaurant_name' => '寿司HOKKAIDO',
             'pref' => '北海道',
             'municipalities' => '札幌市北区',
-            'catchphrase' => 'テスト2テスト2テスト2',
+            'catchphrase' => '寿司ネタうまい',
             'line' => 'テスト鉄道2',
             'station' => 'テスト2',
             'minutes' => '2',
@@ -42,10 +42,10 @@ class RestaurantSeeder extends Seeder
 
         DB::table('restaurants')->insert([
             'id' => 3,
-            'restaurant_name' => 'レストラン3',
+            'restaurant_name' => 'コリアン札幌',
             'pref' => '北海道',
             'municipalities' => '札幌市北区',
-            'catchphrase' => 'テスト3テスト2テスト2',
+            'catchphrase' => 'キムチがうまい！',
             'line' => 'テスト鉄道2',
             'station' => 'テスト2.5',
             'minutes' => '10',
@@ -130,6 +130,5 @@ class RestaurantSeeder extends Seeder
             'price' => 2,
             'genre' => 2,
         ]);
-
     }
 }
